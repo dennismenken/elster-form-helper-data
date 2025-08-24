@@ -1,0 +1,37 @@
+[
+  {
+    "context_label": "Anlagen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Nicht nach DBA steuerfreie negative Einkünfte / Gewinnminderungen im Sinne des § 2a Absatz 1 EStG",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Name des Staates",
+            "rows": [
+              {
+                "row": null,
+                "label": "Name des Staates",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

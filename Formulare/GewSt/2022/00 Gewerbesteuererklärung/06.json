@@ -1,0 +1,145 @@
+[
+  {
+    "context_label": "5 - Angaben zum Gewerbebetrieb",
+    "sections": [
+      {
+        "section_label": "Angaben zur Betriebsstätte",
+        "rows": [
+          {
+            "row": null,
+            "label": "Nicht bei Organgesellschaften und nicht bei Reisegewerbebetrieben nach § 35a GewStG",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "26",
+            "label": "Betriebsstätten bestanden im Kalenderjahr 2022 in mehreren Gemeinden.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "27",
+            "label": "Betriebsstätte(n) erstreckte(n) sich im Kalenderjahr 2022 über mehrere Gemeinden.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "28",
+            "label": "Die einzige Betriebsstätte wurde im Laufe des Kalenderjahrs 2022 in eine andere Gemeinde verlegt",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "29",
+            "label": "Wenn ja: Die Betriebsstätte wurde verlegt am (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "30",
+            "label": "Ort der einzigen Betriebsstätte (bisher)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "30",
+            "label": "Ort der einzigen Betriebsstätte (neu)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "31",
+            "label": "Wenn nein: Postleitzahl der einzigen Betriebsstätte",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "32",
+            "label": "Ort der einzigen Betriebsstätte",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Hebenummer",
+        "rows": [
+          {
+            "row": null,
+            "label": "Nicht in Zerlegungsfällen und nicht bei Organgesellschaften",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "33",
+            "label": "Hebenummer (Steuernummer) der Gemeinde",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Bei Betriebseröffnung beziehungsweise Betriebsbeendigung im Erhebungszeitraum bei einer Personengesellschaft oder einem Einzelunternehmen:",
+        "rows": [
+          {
+            "row": "34",
+            "label": "Die werbende Tätigkeit wurde begonnen am (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "35",
+            "label": "Die werbende Tätigkeit wurde in 2022 beendet am (TT.MM)",
+            "type": "date",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Organschaft",
+        "rows": [
+          {
+            "row": "36",
+            "label": "Das Unternehmen ist Organträger.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "37",
+            "label": "Das Unternehmen ist Organgesellschaft.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "38",
+            "label": "Name des Organträgers",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "38",
+            "label": "zuständiges Finanzamt",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

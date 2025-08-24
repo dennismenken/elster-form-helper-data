@@ -1,0 +1,97 @@
+[
+  {
+    "context_label": "4 - Mehr-/Minderabführungen nach § 27 Absatz 6",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Zeilen 21 bis 32: Nur bei Organgesellschaften",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "21",
+            "label": "Jahresüberschuss/-fehlbetrag laut Handels- oder Steuerbilanz (Betrag laut Zeile 11 der Anlage GK) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "22",
+            "label": "Mehrabführungen, die ihre Ursache in vororganschaftlicher Zeit haben nach § 14 Absatz 3 Satz 1 KStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "23",
+            "label": "Minderabführungen, die ihre Ursache in vororganschaftlicher Zeit haben nach § 14 Absatz 3 Satz 2 KStG (Übertrag nach Zeile 93) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "24",
+            "label": "Verrechenbare Verluste im Sinne des § 15a EStG, durch die keine Mehrabführung entsteht (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "25",
+            "label": "Verrechnung mit verrechenbaren Verlusten im Sinne des § 15a EStG, durch die keine Mehrabführung entstanden ist (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "26",
+            "label": "Einlagen der Gesellschafter (§ 8 Absatz 3 Satz 3 KStG), die erfolgswirksam gebucht und bis zum Ende des Wirtschaftsjahres geleistet wurden (Betrag laut Zeile 93 der Anlage GK) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "27",
+            "label": "Einlagen der Gesellschafter (§ 8 Absatz 3 Satz 3 KStG), die erfolgswirksam gebucht aber nicht bis zum Ende des Wirtschaftsjahres geleistet wurden (Betrag laut Zeile 94 der Anlage GK) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "28",
+            "label": "Von der Organgesellschaft selbst zu versteuernder Übertragungsgewinn/-verlust im Sinne des § 11 UmwStG gekürzt um damit im Zusammenhang stehende nichtabziehbare Betriebsausgaben (zum Beispiel darauf entfallende Steuern) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "29",
+            "label": "Sonstige Korrekturen (laut gesonderter Erläuterung) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "30",
+            "label": "Zwischensumme (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "31",
+            "label": "Mehrabführungen, die ihre Ursache in organschaftlicher Zeit haben nach § 14 Absatz 4 Satz 2 KStG (Übertrag nach Zeile 44) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "32",
+            "label": "Minderabführungen, die ihre Ursache in organschaftlicher Zeit haben nach § 14 Absatz 4 Satz 1 KStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

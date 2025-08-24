@@ -1,0 +1,197 @@
+[
+  {
+    "context_label": "4 - Sachverhalte des",
+    "sections": [
+      {
+        "section_label": "Verschmelzung, Aufspaltung und Abspaltung auf die Körperschaft",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Einzelangaben zum Übernahmegewinn/-verlust nach § 12 Absatz 2 UmwStG",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Steuernummer des übertragenden Rechtsträgers",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Steuernummer des übertragenden Rechtsträgers",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": "70k",
+                "label": "Dazu / Davon ab: Betrag des in der Steuerbilanz erfolgsneutral angesetzten übernommenen Vermögens (Summe der Beträge aller Zeilen 70j)",
+                "type": "text",
+                "values": [
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "70l",
+                "label": "Übernahmegewinn nach § 12 Absatz 2 Satz 2 UmwStG in Verbindung mit § 8b Absatz 2 KStG (Vorspalte: Summe der Beträge aller Zeilen 70g; nicht bei Organgesellschaften: Übertrag in Hauptspalte in Höhe von 95 Prozent mit umgekehrtem Vorzeichen)",
+                "type": "text",
+                "values": [
+                  "Vorspalte (Euro)",
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "70m",
+                "label": "Übernahmegewinne/-verluste nach § 12 Absatz 2 Satz 1 UmwStG (Summe der Beträge aller Zeilen 70h und 70i; nicht bei Organgesellschaften: Übertrag in die Hauptspalte mit umgekehrtem Vorzeichen)",
+                "type": "text",
+                "values": [
+                  "Vorspalte (Euro)",
+                  "Hauptspalte (Euro)"
+                ]
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Einbringungsgewinn I",
+        "rows": [
+          {
+            "row": "73",
+            "label": "Dazu: Im laufenden Wirtschaftsjahr zu versteuernder \"Einbringungsgewinn I\" im Sinne des § 22 Absatz 1 UmwStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Im laufenden Jahr zu berücksichtigende Aufwendungen und Erträge im Zusammenhang mit Übernahmegewinnen / -verlusten und Einbringungsgewinnen I",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Einzelangaben",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Bezeichnung des Anteils",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Bezeichnung des Anteils",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": [
+                  {
+                    "section_label": null,
+                    "rows": [
+                      {
+                        "row": "74",
+                        "label": "Bezeichnung des Anteils",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "74",
+                        "label": "Jahr der Entstehung der Aufwendungen/Erträge (JJJJ)",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "74",
+                        "label": "Betrag (Euro, Cent)",
+                        "type": "text",
+                        "values": []
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": "74",
+                "label": "Davon ab / Dazu: In einem anderen Wirtschaftsjahr entstandene Aufwendungen beziehungsweise Erträge, die im Zusammenhang mit dem im laufenden Wirtschaftsjahr nach § 12 Absatz 2 Satz 1 UmwStG zu berücksichtigenden Übernahmegewinn/-verlust und/oder zu versteuernden \"Einbringungsgewinn I\" im Sinne des § 22 Absatz 1 UmwStG stehen (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Im laufenden Jahr entstandene, aber nicht zu berücksichtigende Aufwendungen und Erträge im Zusammenhang mit Übernahmegewinnen / -verlusten und Einbringungsgewinnen I",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Einzelangaben",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Bezeichnung des Anteils",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Bezeichnung des Anteils",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": [
+                  {
+                    "section_label": null,
+                    "rows": [
+                      {
+                        "row": "75",
+                        "label": "Bezeichnung des Anteils",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "75",
+                        "label": "Jahr des steuerlichen Übertragungsstichtags des Umwandlungsvorgangs (JJJJ)",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "75",
+                        "label": "Betrag (Euro, Cent)",
+                        "type": "text",
+                        "values": []
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": "75",
+                "label": "Dazu / Davon ab: Im laufenden Wirtschaftsjahr entstandene Aufwendungen beziehungsweise Erträge, die im Zusammenhang mit dem in einem anderen Wirtschaftsjahr nach § 12 Absatz 2 Satz 1 UmwStG zu berücksichtigenden Übernahmegewinn/-verlust und/oder zu versteuernden \"Einbringungsgewinn I\" im Sinne des § 22 Absatz 1 UmwStG stehen (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

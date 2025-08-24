@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "7 - Höhe der zugesagten Leistungen",
+    "sections": [
+      {
+        "section_label": "Einzelangaben (zweites vorangegangenes Kalenderjahr, vorangegangenes Kalenderjahr, Kalenderjahr)",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Prüfungszeitraum",
+            "rows": [
+              {
+                "row": null,
+                "label": "Prüfungszeitraum",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

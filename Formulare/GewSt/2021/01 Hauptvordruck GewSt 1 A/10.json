@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "Anteile am Verlust von in- und/oder ausländischen Personengesellschaften (§ 8 Nummer 8 )",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "67",
+            "label": "Bezeichnung",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "67",
+            "label": "Betrag (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

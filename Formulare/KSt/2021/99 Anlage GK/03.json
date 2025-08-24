@@ -1,0 +1,187 @@
+[
+  {
+    "context_label": "2 - Bilanzielles Ergebnis",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "11",
+            "label": "Jahresüberschuss/-fehlbetrag laut Handels- oder Steuerbilanz(bei Handelsbilanz: nach Berücksichtigung der Überleitungsrechnung nach § 5b Absatz 1 Satz 2 EStG beziehungsweise § 60 Absatz 2 EStDV zur Anpassung an die steuerlich maßgeblichen Wertansätze) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "12",
+            "label": "Gewinn/Verlust laut Gewinnermittlung nach § 4 Absatz 3 EStG (bei Verwendung der Anlage EÜR: Betrag laut Zeile 89 abzüglich Betrag laut Zeile 90 der Anlage EÜR) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "12a",
+            "label": "Hinzurechnungen und Abrechnungen bei Wechsel der Gewinnermittlungsart:Übergangsgewinn/-verlust laut gesonderter Ermittlung (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Korrekturen bei Beteiligungen an Personengesellschaften",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Einzelangaben",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Steuernummer der Personengesellschaft",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Steuernummer der Personengesellschaft",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": "13",
+                "label": "Davon ab / Dazu: Im Betrag laut Zeile 11 enthaltener Gewinn/Verlust aus der Beteiligung an Personengesellschaften (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "14",
+                "label": "Nicht bei Organgesellschaften:Dazu / Davon ab: Steuerpflichtige Einkünfte aus der Beteiligung an Mitunternehmerschaften laut gesonderter und einheitlicher Feststellung nach Anwendung aller außerbilanziellen Korrekturen (zum Beispiel § 8b KStG) sowie von Verlustverrechnungsbeschränkungen, die auf Ebene der Mitunternehmerschaft anzuwenden sind (zum Beispiel § 15a EStG) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "14a",
+                "label": "Nur bei Organgesellschaften:Dazu / Davon ab: Einkünfte aus der Beteiligung an Mitunternehmerschaften laut gesonderter und einheitlicher Feststellung vor Anwendung der aufgrund § 15 Satz 1 Nummer 2 und 2a und § 15 Satz 2 KStG nicht vorzunehmenden außerbilanziellen Korrekturen (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "15",
+                "label": "Nur bei unbeschränkt steuerpflichtigen Körperschaften im Sinne des § 1 Absatz 1 Nummer 1 bis 3 KStG, die keine Organgesellschaften sind:Dazu / Davon ab: Steuerpflichtige Einkünfte aus der Beteiligung an vermögensverwaltenden Personengesellschaften (Überleitung nach Maßgabe des BMF-Schreibens vom 29.04.1994, BStBl I 1994, 282) nach Anwendung aller außerbilanziellen Korrekturen (zum Beispiel § 8b KStG) sowie von Verlustverrechnungsbeschränkungen, die auf Ebene der Personengesellschaft anzuwenden sind (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "15a",
+                "label": "Nur bei unbeschränkt steuerpflichtigen Körperschaften im Sinne des § 1 Absatz 1 Nummer 1 bis 3 KStG, die Organgesellschaften sind:Dazu / Davon ab: Einkünfte aus der Beteiligungen an vermögensverwaltenden Personengesellschaften (Überleitung nach Maßgabe des BMF-Schreibens vom 29.04.1994, BStBl I 1994, 282) vor Anwendung der aufgrund § 15 Satz 1 Nummer 2 und 2a und § 15 Satz 2 KStG nicht vorzunehmenden außerbilanziellen Korrekturen (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Korrekturen für die Tonnagebesteuerung im Sinne des § 5a EStG",
+        "rows": [
+          {
+            "row": null,
+            "label": "- Nur wenn die Körperschaft das Handelsschiff im internationalen Verkehr unmittelbar betreibt. Einkünfte im Sinne des § 5a EStG aus der Beteiligung an Personengesellschaften sind in Zeile 13 folgende einzutragen. -",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "16",
+            "label": "Davon ab / Dazu: Im Betrag laut Zeile 11 enthaltener (tatsächlicher) Gewinn/Verlust aus dem Betrieb von Handelsschiffen im internationalen Verkehr, der nach § 5a EStG pauschal zu ermitteln ist (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "17",
+            "label": "Dazu / Davon ab: Pauschaler Gewinn/Verlust aus dem Betrieb von Handelsschiffen und Hinzurechnungen bei gesonderter Gewinnermittlung nach § 5a EStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Einnahmen aus der Verwertung von Altmaterial im Sinne des § 64 Absatz 5 AO sowie aus Tätigkeiten im Sinne des § 64 Absatz 6 AO bei nach § 5 Absatz 1 Nummer 9 KStG steuerbefreiten Körperschaften",
+        "rows": [
+          {
+            "row": null,
+            "label": "Zeilen 18 bis 24 nur ausfüllen, wenn ein Antrag nach § 64 Absatz 5 oder 6 AO gestellt wird",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "18",
+            "label": "Davon ab: Einnahmen aus der Verwertung von Altpapier, das unentgeltlich außerhalb einer ständig dafür vorgehaltenen Verkaufsstelle erworben wurde (ohne Umsatzsteuer) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "18a",
+            "label": "Bei Gewinnermittlung nach § 4 Absatz 3 EStG:Davon ab: Vereinnahmte Umsatzsteuer auf Einnahmen aus der Verwertung von Altpapier, das unentgeltlich außerhalb einer ständig dafür vorgehaltenen Verkaufsstelle erworben wurde (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "19",
+            "label": "Davon ab: Einnahmen aus der Verwertung von Altmaterial (außer Altpapier), das unentgeltlich außerhalb einer ständig dafür vorgehaltenen Verkaufsstelle erworben wurde (ohne Umsatzsteuer) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "19a",
+            "label": "Bei Gewinnermittlung nach § 4 Absatz 3 EStG:Davon ab: Vereinnahmte Umsatzsteuer auf Einnahmen aus der Verwertung von Altmaterial (außer Altpapier), das unentgeltlich außerhalb einer ständig dafür vorgehaltenen Verkaufsstelle erworben wurde (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "20",
+            "label": "Dazu: Mit den Einnahmen laut Zeilen 18 und 19 in Zusammenhang stehende tatsächliche Aufwendungen (bei Gewinnermittlung nach § 4 Absatz 3 EStG: einschließlich Umsatzsteuer) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "21",
+            "label": "Dazu: Anzusetzender branchenüblicher Reingewinn aus der Verwertung von Altmaterial nach § 64 Absatz 5 AO (5 Prozent des Betrages laut Zeile 18 zuzüglich 20 Prozent des Betrages laut Zeile 19) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "22",
+            "label": "Davon ab: Einnahmen aus Tätigkeiten nach § 64 Absatz 6 AO (ohne Umsatzsteuer) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "22a",
+            "label": "Bei Gewinnermittlung nach § 4 Absatz 3 EStG:Davon ab: Vereinnahmte Umsatzsteuer auf Einnahmen aus Tätigkeiten nach § 64 Absatz 6 AO (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "23",
+            "label": "Dazu: Mit den Einnahmen laut Zeile 22 in Zusammenhang stehende tatsächliche Aufwendungen (bei Gewinnermittlung nach § 4 Absatz 3 EStG: einschließlich Umsatzsteuer) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "24",
+            "label": "Dazu: Pauschalierter Gewinn nach § 64 Absatz 6 AO (15 Prozent des Betrages laut Zeile 22) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

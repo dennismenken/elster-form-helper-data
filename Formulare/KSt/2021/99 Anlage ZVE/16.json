@@ -1,0 +1,31 @@
+[
+  {
+    "context_label": "13 - Sanierungserträge nach § 3a",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "29",
+            "label": "Davon ab: Betriebsvermögensmehrungen oder Betriebseinnahmen aus einem Schuldenerlass zum Zwecke einer unternehmensbezogenen Sanierung im Sinne von § 3a Absatz 2 EStG (Sanierungsertrag) (Übertrag nach Zeile 1 der Anlage SAN) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "30",
+            "label": "Dazu: Mit dem steuerfreien Sanierungsertrag in unmittelbarem wirtschaftlichen Zusammenhang stehende Betriebsvermögensminderungen oder Betriebsausgaben im Sinne des § 3c Absatz 4 EStG des Sanierungsjahres (Übertrag nach Zeile 2 der Anlage SAN) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "31",
+            "label": "Dazu: Mit einem in einem anderen Veranlagungszeitraum steuerfreien Sanierungsertrag im Sinne des § 3a Absatz 1 EStG in unmittelbarem wirtschaftlichen Zusammenhang stehende Betriebsvermögensminderungen oder Betriebsausgaben im Sinne des § 3c Absatz 4 EStG des laufenden Veranlagungszeitraums (Übertrag nach Zeile 3, Anlage SAN) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

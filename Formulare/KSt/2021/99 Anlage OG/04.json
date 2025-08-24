@@ -1,0 +1,37 @@
+[
+  {
+    "context_label": "3 - Mehr- oder Minderabführungen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "20",
+            "label": "Mehrabführungen, die ihre Ursache in vororganschaftlicher Zeit haben (§ 14 Absatz 3 Satz 1 KStG; Übertrag nach Zeilen 3 und 54 der Anlage KSt 1 F) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "21",
+            "label": "Minderabführungen, die ihre Ursache in vororganschaftlicher Zeit haben (§ 14 Absatz 3 Satz 2 KStG; Übertrag nach Zeilen 51 und 55 der Anlage KSt 1 F) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "21a",
+            "label": "Mehrabführungen, die ihre Ursache in organschaftlicher Zeit haben (§ 14 Absatz 4 KStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "21b",
+            "label": "Minderabführungen, die ihre Ursache in organschaftlicher Zeit haben (§ 14 Absatz 4 KStG) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

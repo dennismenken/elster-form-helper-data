@@ -1,0 +1,233 @@
+[
+  {
+    "context_label": "9 - Weitere Angaben",
+    "sections": [
+      {
+        "section_label": "Gewerbeertrag der Organgesellschaft(en)",
+        "rows": [
+          {
+            "row": null,
+            "label": "Bei mehreren Organgesellschaften (laut Einzelaufstellung)",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "83",
+            "label": "Gewerbeertrag der Organgesellschaft(en) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": "Name der Organgesellschaft",
+            "rows": [
+              {
+                "row": null,
+                "label": "Name der Organgesellschaft",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Zeilen 84 bis 84b: Bei Organträgern, soweit nicht selbst Organgesellschaft",
+        "rows": [
+          {
+            "row": null,
+            "label": "- soweit selbst Organgesellschaft, sind die Zeilen 85 bis 87d auszufüllen -",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": "Korrekturbeträge nach § 3 Nummer 40 Buchstabe a, § 3 Nummer 41 Buchstabe b, § 3c EStG und § 8b Absatz 2 und 3 KStG, § 12 Absatz 2 UmwStG in Verbindung mit § 15 Satz 1 Nummer 2 und Satz 2 KStG und der Anwendung von § 34c Absatz 3 EStG",
+            "rows": [
+              {
+                "row": "84",
+                "label": "Summe der Korrekturbeträge zum Betrag laut Zeile 83 aufgrund der Anwendung des § 3 Nummer 40 Buchstabe a, § 3 Nummer 41 Buchstabe b, § 3c EStG, § 8b Absatz 2 und 3 KStG, § 12 Absatz 2 UmwStG in Verbindung mit § 15 Satz 1 Nummer 2 und Satz 2 KStG und der Anwendung von § 34c Absatz 3 EStG (laut gesonderter Einzelaufstellung) (negative Beträge mit Minuszeichen) (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": [
+              {
+                "section_label": "Name der Organgesellschaft",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Name der Organgesellschaft",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Korrekturbeträge nach §§ 20, 21 InvStG",
+            "rows": [
+              {
+                "row": "84a",
+                "label": "Summe der Korrekturbeträge zum Betrag laut Zeile 83 aufgrund der Anwendung der §§ 20, 21 InvStG in Verbindung mit § 15 Satz 1 Nummer 2a und Satz 2 KStG gegebenenfalls in Verbindung mit § 43 Absatz 3 und § 45 Absatz 2 InvStG (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": [
+              {
+                "section_label": "Name der Organgesellschaft",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Name der Organgesellschaft",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Korrekturbeträge nach § 45 Absatz 1 InvStG",
+            "rows": [
+              {
+                "row": "84b",
+                "label": "Nur bei einer Körperschaft: Summe der Korrekturbeträge zum Betrag laut Zeile 83 aufgrund der Anwendung des § 45 Absatz 1 InvStG (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Nur bei einer Organgesellschaft",
+        "rows": [
+          {
+            "row": null,
+            "label": "Werte, die für die Ermittlung des Gewerbeertrages des Organträgers von Bedeutung sind. Ist die Organgesellschaft gleichzeitig Organträger: Einschließlich entsprechender Beträge ihrer Organgesellschaften (laut gesonderter Ermittlung) - negative Beträge mit Minuszeichen -",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "85",
+            "label": "Wenn der Organträger eine natürliche Person ist: Zu berücksichtigender Korrekturbetrag zum Gewerbeertrag aufgrund der Anwendung des § 3 Nummer 40 Buchstabe a, § 3 Nummer 41 Buchstabe b, § 3c EStG und § 12 Absatz 2 UmwStG in Verbindung mit § 15 Satz 1 Nummer 2 und Satz 2 KStG sowie § 34c Absatz 3 EStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "86",
+            "label": "Wenn der Organträger eine Körperschaft ist: Zu berücksichtigender Korrekturbetrag zum Gewerbeertrag aufgrund der Anwendung des § 8b Absatz 2 und 3 KStG, § 12 Absatz 2 UmwStG und § 3 Nummer 41 Buchstabe b EStG in Verbindung mit § 15 Satz 1 Nummer 2 und Satz 2 KStG sowie § 34c Absatz 3 EStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "87",
+            "label": "Wenn der Organträger eine Personengesellschaft ist: Zu berücksichtigender Korrekturbetrag zum Gewerbeertrag aufgrund der Anwendung des § 3 Nummer 40 Buchstabe a, § 3 Nummer 41 Buchstabe b, § 3c EStG, § 8b Absatz 2 und 3 KStG, § 12 Absatz 2 UmwStG in Verbindung mit § 15 Satz 1 Nummer 2 und Satz 2 KStG sowie § 34c Absatz 3 EStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "87a",
+            "label": "Wenn der Organträger eine natürliche Person ist: Zu berücksichtigender Korrekturbetrag zum Gewerbeertrag aufgrund der Anwendung des § 15 Satz 1 Nummer 2a und Satz 2 KStG, insbesondere in den Fällen der §§ 20, 21 InvStG und § 43 Absatz 3 in Verbindung mit § 45 Absatz 2 InvStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "87b",
+            "label": "Wenn der Organträger eine Körperschaft ist: Zu berücksichtigender Korrekturbetrag zum Gewerbeertrag aufgrund der Anwendung des § 15 Satz 1 Nummer 2a und Satz 2 KStG, insbesondere in den Fällen der §§ 20, 21 InvStG und § 43 Absatz 3 in Verbindung mit § 45 Absatz 2 InvStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "87c",
+            "label": "Wenn der Organträger eine Personengesellschaft ist: Zu berücksichtigender Korrekturbetrag zum Gewerbeertrag aufgrund der Anwendung des § 15 Satz 1 Nummer 2a und Satz 2 KStG, insbesondere in den Fällen der §§ 20, 21 InvStG und § 43 Absatz 3 in Verbindung mit § 45 Absatz 2 InvStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "87d",
+            "label": "Wenn der Organträger eine Körperschaft ist: Zu berücksichtigender Korrekturbetrag aufgrund der Anwendung des § 45 Absatz 1 InvStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Im Falle einer Aufspaltung oder Verschmelzung einer Organgesellschaft",
+        "rows": [
+          {
+            "row": "88",
+            "label": "Von der Organgesellschaft selbst zu versteuernder Gewerbeertrag aus einem Übertragungsgewinn nach § 11 UmwStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "In Fällen des § 2 Absatz 4 Satz 3 und 4 UmwStG",
+        "rows": [
+          {
+            "row": "89",
+            "label": "Beim übernehmenden Rechtsträger: Positiver Gewerbeertrag des übertragenden oder einbringenden Rechtsträgers im Rückwirkungszeitraum (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "90",
+            "label": "Nur bei Organträgern: Beim Organträger des übernehmenden Rechtsträgers: Positiver Gewerbeertrag des auf die Organgesellschaft(en) übertragenden oder einbringenden Rechtsträgers im Rückwirkungszeitraum (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Minderung des laufenden Gewerbeverlustes wegen schädlichem Beteiligungserwerb oder Abspaltung",
+        "rows": [
+          {
+            "row": null,
+            "label": "Zeilen 91 und 92: Nur bei einer Körperschaft",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "90a",
+            "label": "Nur bei Körperschaften und Personengesellschaften, soweit an diesen eine Körperschaft unmittelbar oder mittelbar über eine oder mehrere Personengesellschaft(en) beteiligt ist: Höhe der gesamten zum Zeitpunkt des schädlichen Beteiligungserwerbs im Sinne von § 10a Satz 10 GewStG in Verbindung mit § 8c KStG im Inland vorhandenen gewerbesteuerpflichtigen stillen Reserven des Betriebsvermögens bei Anwendung der Stille-Reserven-Klausel; vergleiche gleich lautende Erlasse der obersten Finanzbehörden der Länder vom 29.11.2017; BStBl I 2017, Seite 1643 (laut gesonderter Ermittlung) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "91",
+            "label": "Nach § 10a Satz 10 GewStG in Verbindung mit § 8c KStG nicht ausgleichsfähiger Gewerbeverlust des laufenden Erhebungszeitraums (gegebenenfalls in Verbindung mit § 2 Absatz 4 Satz 1 und 2, § 20 Absatz 6 Satz 4 UmwStG) (laut gesonderter Ermittlung) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "92",
+            "label": "Bei der übertragenden Körperschaft im Fall der Abspaltung wegfallender Gewerbeverlust aus dem laufenden Erhebungszeitraum (§ 18 Absatz 1 beziehungsweise § 19 Absatz 1 in Verbindung mit § 15 Absatz 1 Satz 1, § 15 Absatz 3 und § 16 Satz 1 UmwStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "93",
+            "label": "Nur bei einer Personengesellschaft, soweit an dieser eine Körperschaft unmittelbar oder mittelbar über eine oder mehrere Personengesellschaft(en) beteiligt ist: Nach § 10a Satz 10 GewStG in Verbindung mit § 8c KStG nicht ausgleichsfähiger Gewerbeverlust des laufenden Erhebungszeitraums (laut gesonderter Ermittlung) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "context_label": "Veräußerungsgewinne und Teilwertaufholungen im Sinne des § 8b Absatz 2",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "92",
+            "label": "Name der Beteiligung",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "92",
+            "label": "Veräußerungspreis oder an dessen Stelle tretender Wert (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "92",
+            "label": "Veräußerungskosten (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "92",
+            "label": "Buchwert des Anteils (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "92",
+            "label": "Gewinn im Sinne des § 8b Absatz 2 KStG (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "92",
+            "label": "Teilwertaufholung nach § 8b Absatz 2 Satz 3 KStG (Euro, Cent)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

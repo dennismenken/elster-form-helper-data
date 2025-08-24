@@ -1,0 +1,87 @@
+[
+  {
+    "context_label": "1 - Allgemeines",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "1",
+            "label": "Prüfungszeitraum von (JJJJ)",
+            "type": "",
+            "values": []
+          },
+          {
+            "row": "2",
+            "label": "Die Körperschaft verfolgt kirchliche Zwecke",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "3",
+            "label": "Die Körperschaft verfolgt mildtätige Zwecke",
+            "type": "checkbox",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Gemeinnützige Zwecke",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Die Körperschaft verfolgt folgende gemeinnützige Zwecke:",
+            "rows": [
+              {
+                "row": null,
+                "label": "Die Körperschaft verfolgt folgende gemeinnützige Zwecke:",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Satzung/Gebührenordnung",
+        "rows": [
+          {
+            "row": "5",
+            "label": "Datum der zurzeit gültigen Satzung (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "6",
+            "label": "Liegt die Satzung dem Finanzamt vor? (ja: Satzung liegt dem Finanzamt vor; nein: Satzung liegt nicht vor und wird daher gesondert übermittelt)",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "liegt dem Finanzamt vor.",
+              "wird gesondert übermittelt."
+            ]
+          },
+          {
+            "row": "7",
+            "label": "Datum des zurzeit gültigen Beschlusses über die Festsetzung der Mitgliedsbeiträge, Umlagen und Aufnahmegebühren (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "8",
+            "label": "Liegt der Beschluss laut Zeile 7 dem Finanzamt vor? (ja: Beschluss laut Zeile 7 liegt dem Finanzamt vor; nein: Beschluss laut Zeile 7 liegt nicht vor und wird daher gesondert übermittelt)",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "liegt dem Finanzamt vor.",
+              "wird gesondert übermittelt."
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

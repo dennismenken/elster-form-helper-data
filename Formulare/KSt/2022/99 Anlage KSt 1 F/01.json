@@ -1,0 +1,31 @@
+[
+  {
+    "context_label": "Anlagen 1 F",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Ermittlung des steuerlichen Einlagekontos (§ 27 Absatz 2 KStG) und des durch Umwandlung von Rücklagen entstandenen Nennkapitals (§ 28 Absatz 1 Satz 3 KStG)",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Enden in einem Veranlagungszeitraum zwei Wirtschaftsjahre, ist für jedes Wirtschaftsjahr die Anlage KSt 1 F gesondert auszufüllen.",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

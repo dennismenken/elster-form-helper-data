@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "17 - Zuwendungen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "34",
+            "label": "Davon ab: Abziehbare Zuwendungen nach § 9 Absatz 1 Nummer 2 KStG zur Förderung steuerbegünstigter Zwecke (Betrag laut Zeile 7 der Anlage Z) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

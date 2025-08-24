@@ -1,0 +1,23 @@
+[
+  {
+    "context_label": "6 - Betrieb eines Krankenhauses",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "38",
+            "label": "Wir erklären, dass die Voraussetzungen des § 67 AO für die Annahme eines Zweckbetriebes erfüllt sind.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

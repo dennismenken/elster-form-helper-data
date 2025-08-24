@@ -1,0 +1,37 @@
+[
+  {
+    "context_label": "1 - Allgemeine Angaben",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "2",
+            "label": "Bezeichnung der Organgesellschaft oder der Personengesellschaft",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "4",
+            "label": "Diese Anlage OT enthält die Werte des Feststellungsbescheides vom (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "5",
+            "label": "Ein Feststellungsbescheid nach § 14 Absatz 5 KStG ist noch nicht ergangen.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "6",
+            "label": "Die hier eingetragenen Werte stammen aus einer Personengesellschaft, die (gegebenenfalls mittelbar) Organträger im Sinne des § 14 KStG ist.",
+            "type": "checkbox",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

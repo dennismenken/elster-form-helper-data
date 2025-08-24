@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "4 - Endbestand",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "28",
+            "label": "Verbleibender Verlustvortrag zum Schluss des Veranlagungszeitraums (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

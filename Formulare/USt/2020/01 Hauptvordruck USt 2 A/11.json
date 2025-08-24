@@ -1,0 +1,85 @@
+[
+  {
+    "context_label": "11 - Abziehbare Vorsteuerbeträge",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "(ohne die Berichtigung nach § 15a UStG)",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "122",
+            "label": "Vorsteuerbeträge aus Rechnungen von anderen Unternehmern (§ 15 Absatz 1 Satz 1 Nummer 1 UStG) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "123",
+            "label": "Vorsteuerbeträge aus innergemeinschaftlichen Erwerben von Gegenständen (§ 15 Absatz 1 Satz 1 Nummer 3 UStG) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "124",
+            "label": "Entstandene Einfuhrumsatzsteuer (§ 15 Absatz 1 Satz 1 Nummer 2 UStG) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "125",
+            "label": "Vorsteuerabzug für die Steuer, die der Abnehmer als Auslagerer nach § 13a Absatz 1 Nummer 6 UStG schuldet (§ 15 Absatz 1 Satz 1 Nummer 5 UStG) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "126",
+            "label": "Vorsteuerbeträge aus Leistungen im Sinne des § 13b UStG (§ 15 Absatz 1 Satz 1 Nummer 4 UStG) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "127",
+            "label": "Vorsteuerbeträge, die nach den allgemeinen Durchschnittssätzen berechnet sind (§ 23 UStG) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "128",
+            "label": "Vorsteuerbeträge nach dem Durchschnittssatz für bestimmte Körperschaften, Personenvereinigungen und Vermögensmassen (§ 23a UStG) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "129",
+            "label": "Vorsteuerabzug für innergemeinschaftliche Lieferungen neuer Fahrzeuge außerhalb eines Unternehmens (§ 2a UStG) sowie von Kleinunternehmern im Sinne des § 19 Absatz 1 UStG (§ 15 Absatz 4a UStG) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "130",
+            "label": "Vorsteuerbeträge aus innergemeinschaftlichen Dreiecksgeschäften (§ 25b Absatz 5 UStG) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "131",
+            "label": "Summe der Vorsteuerbeträge (zu übertragen in Zeile 158) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

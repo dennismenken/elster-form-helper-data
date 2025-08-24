@@ -1,0 +1,31 @@
+[
+  {
+    "context_label": "11 - -Vortrag bezogen auf das laufende Wirtschaftsjahr",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "100",
+            "label": "Verbleibendes EBITDA des laufenden Wirtschaftsjahres(Betrag laut Zeile 54 abzüglich Betrag laut Zeile 55) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "101",
+            "label": "Davon ab: Minderung des verbleibenden EBITDA nach § 3a Absatz 3 Satz 2 Nummer 13 Buchstabe b EStG (gegebenenfalls anteiliger Betrag laut Zeile 40 der Anlage SAN abzüglich Beträge laut Zeilen 66, 74, 82, 90 und 98, höchstens Betrag laut Zeile 100) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "102",
+            "label": "EBITDA-Vortrag zum Schluss des Wirtschaftsjahres bezogen auf das laufende Wirtschaftsjahr (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

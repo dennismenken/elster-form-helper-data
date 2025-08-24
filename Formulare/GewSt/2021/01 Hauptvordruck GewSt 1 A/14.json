@@ -1,0 +1,67 @@
+[
+  {
+    "context_label": "11 - Gewerbeertrag in besonderen Fällen",
+    "sections": [
+      {
+        "section_label": "Bei Handelsschiffen im internationalen Verkehr (§ 5a EStG in Verbindung mit § 7 Satz 3 GewStG):",
+        "rows": [
+          {
+            "row": null,
+            "label": "- Hinzurechnungen und Kürzungen entfallen -",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "100",
+            "label": "Nach § 5a Absatz 1 EStG ermittelter Gewinn (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "101",
+            "label": "Hinzuzurechnender Unterschiedsbetrag nach § 5a Absatz 4 EStG und sonstige Hinzurechnungen im Sinne des § 5a Absatz 5 EStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "102",
+            "label": "Hinzuzurechnende Vergütungen im Sinne des § 5a Absatz 4a Satz 3 EStG (gegebenenfalls gekürzt um damit im Zusammenhang stehende Aufwendungen) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Bei öffentlich-rechtlichen Rundfunkanstalten:",
+        "rows": [
+          {
+            "row": null,
+            "label": "- Hinzurechnungen und Kürzungen entfallen -",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "103",
+            "label": "Nach § 8 Absatz 1 Satz 3 KStG ermitteltes Einkommen aus dem Geschäft der Veranstaltung von Werbesendungen (§ 7 Satz 3 GewStG) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "In Fällen der Spartentrennung bei Unternehmen im Sinne des § 7 Satz 5 GewStG:",
+        "rows": [
+          {
+            "row": "104",
+            "label": "Maßgebender verbleibender Gewerbeertrag in den Fällen des § 7 Satz 5 GewStG in Verbindung mit § 8 Absatz 9 KStG (Betrag laut Zeile 71 aller Anlagen ÖHG) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

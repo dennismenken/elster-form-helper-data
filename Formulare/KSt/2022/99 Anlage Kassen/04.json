@@ -1,0 +1,43 @@
+[
+  {
+    "context_label": "3 - Anlage des Kassenvermögens und Sicherstellung",
+    "sections": [
+      {
+        "section_label": "Übersicht der Anlagen",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Bezeichnung der Anlage",
+            "rows": [
+              {
+                "row": null,
+                "label": "Bezeichnung der Anlage",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Dem Trägerunternehmen oder einer ihm nahestehenden Person gewährte Darlehen",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Darlehensnehmer",
+            "rows": [
+              {
+                "row": null,
+                "label": "Darlehensnehmer",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

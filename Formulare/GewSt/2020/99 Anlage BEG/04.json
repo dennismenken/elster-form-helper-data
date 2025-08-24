@@ -1,0 +1,67 @@
+[
+  {
+    "context_label": "3 - Angaben für Körperschaften sowie für Mitunternehmerschaften und Organgesellschaften, sofern Körperschaften beteiligt sind",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "12",
+            "label": "Bezüge laut Zeile 6, die die Voraussetzungen der Steuerbefreiung nach § 8b Absatz 1 in Verbindung mit § 8b Absatz 4 KStG beziehungsweise nach § 3 Nummer 41 Buchstabe a EStG oder nach DBA erfüllen (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "13",
+            "label": "Nur für Organgesellschaften: Steuerfreie Bezüge nach § 8b Absatz 1 und 4 KStG beziehungsweise nach § 3 Nummer 41 Buchstabe a EStG oder nach DBA (Betrag laut Zeile 12 multipliziert mit dem Prozentsatz laut Zeile 62 des Vordrucks GewSt 1 A) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "14",
+            "label": "Bezüge laut Zeile 6, die die Voraussetzungen der Steuerbefreiung nach § 8b Absatz 1 in Verbindung mit § 8b Absatz 4 KStG beziehungsweise nach § 3 Nummer 41 Buchstabe a EStG oder nach DBA nicht erfüllen (Betrag laut Zeile 6 abzüglich Betrag laut Zeile 12) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "15",
+            "label": "Hinzurechnungsbetrag nach § 8 Nummer 5 GewStG (wenn in Zeile 7 keine Eintragung gemacht wurde: 95 Prozent des Betrages laut Zeile 12; bei Mitunternehmerschaften und Organgesellschaften: zusätzlich multipliziert mit dem Prozentsatz laut Zeile 61 oder 62 des Vordrucks GewSt 1 A, bei Eintragung in Zeile 10: stattdessen zusätzlich multipliziert mit dem Prozentsatz laut Zeile 10) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "16",
+            "label": "Ausgangsbetrag für eine Kürzung nach § 9 Nummer 2a, 7 oder 8 GewStG (Betrag laut Zeile 14; nur ausfüllen, wenn in Zeile 7 und Zeile 14 eine Eintragung gemacht wurde) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "17",
+            "label": "Mit den Beträgen laut Zeile 16 in unmittelbarem Zusammenhang stehende Aufwendungen im Sinne des § 8 Nummer 1 GewStG (Betrag laut Zeile 8, höchstens Betrag laut Zeile 16) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "18",
+            "label": "Mit den Beträgen laut Zeile 16 in unmittelbarem Zusammenhang stehende andere Aufwendungen (Betrag laut Zeile 9, höchstens Betrag laut Zeile 16 abzüglich Betrag laut Zeile 17) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "19",
+            "label": "Kürzung nach § 9 Nummer 2a, 7 und 8 GewStG (Betrag laut Zeile 16 abzüglich Summe der Beträge laut Zeilen 17 und 18; bei Mitunternehmerschaften und Organgesellschaften: multipliziert mit dem Prozentsatz laut Zeile 61 oder 62 des Vordrucks GewSt 1 A, bei Eintragung in Zeile 10: stattdessen multipliziert mit dem Prozentsatz laut Zeile 10) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "20",
+            "label": "Kürzung des Hinzurechnungsbetrages nach § 8 Nummer 1 GewStG aufgrund des § 9 Nummer 2a Satz 3 zweiter Halbsatz GewStG, § 9 Nummer 7 Satz 2 beziehungsweise § 9 Nummer 8 Satz 2 GewStG (Betrag laut Zeile 17; bei Mitunternehmerschaften und Organgesellschaften: multipliziert mit dem Prozentsatz laut Zeile 61 oder 62 des Vordrucks GewSt 1 A, bei Eintragung in Zeile 10: stattdessen multipliziert mit dem Prozentsatz laut Zeile 10) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

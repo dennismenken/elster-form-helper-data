@@ -1,0 +1,27 @@
+# API-Endpunkte
+
+- `00-hauptvordruck-kst-1` ← 00 Hauptvordruck KSt 1
+- `anlage-aest` ← Anlage AESt
+- `anlage-aev` ← Anlage AEV
+- `anlage-ber` ← Anlage Ber
+- `anlage-gem` ← Anlage Gem
+- `anlage-geno-ver` ← Anlage Geno Ver
+- `anlage-gk` ← Anlage GK
+- `anlage-gr` ← Anlage GR
+- `anlage-hk-zur-spartentrennung` ← Anlage ÖHK zur Spartentrennung
+- `anlage-invest-verluste` ← Anlage Invest-Verluste
+- `anlage-kassen` ← Anlage Kassen
+- `anlage-kst-1-f` ← Anlage KSt 1 F
+- `anlage-kst-1-fa` ← Anlage KSt 1 Fa
+- `anlage-og` ← Anlage OG
+- `anlage-ot` ← Anlage OT
+- `anlage-part` ← Anlage Part
+- `anlage-san` ← Anlage SAN
+- `anlage-steuergestaltung` ← Anlage Steuergestaltung
+- `anlage-verluste` ← Anlage Verluste
+- `anlage-wa` ← Anlage WA
+- `anlage-wif` ← Anlage WiFö
+- `anlage-z` ← Anlage Z
+- `anlage-zinsschranke` ← Anlage Zinsschranke
+- `anlage-zve` ← Anlage ZVE
+- `anlage-zwig` ← Anlage ZwiG

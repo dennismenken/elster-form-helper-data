@@ -1,0 +1,31 @@
+[
+  {
+    "context_label": "Anlagen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Ermittlung der Einkünfte aus Gewerbebetrieb",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Enden in einem Veranlagungszeitraum zwei Wirtschaftsjahre, ist für jedes Wirtschaftsjahr die Anlage GK gesondert auszufüllen.",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

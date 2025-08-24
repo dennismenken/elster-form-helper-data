@@ -1,0 +1,31 @@
+[
+  {
+    "context_label": "4 - Ermittlung der kapitalertragsteuerpflichtigen Leistungen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "66",
+            "label": "Summe der Beträge laut Zeile 24 Spalte 2, Zeile 31a Spalte 2, Zeile 37, Zeile 54g Spalte 4 und Zeile 55a (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "67",
+            "label": "Minderung des steuerlichen Einlagekontos (Summe der Beträge laut Zeile 27 Spalte 3, Zeile 31d Spalte 3, Zeile 37c Spalte 3 und Zeile 55d Spalte 3) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "68",
+            "label": "Kapitalertragsteuerpflichtige Leistungen, sofern die sonstigen Voraussetzungen des § 20 Absatz 1 Nummer 10 Buchstabe b EStG erfüllt sind (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

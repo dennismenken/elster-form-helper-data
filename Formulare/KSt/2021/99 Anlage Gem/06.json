@@ -1,0 +1,35 @@
+[
+  {
+    "context_label": "4 - Mildtätige Zwecke",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "25",
+            "label": "Wir erklären, dass wir Personen selbstlos unterstützen, die infolge ihres körperlichen, geistigen oder seelischen Zustands auf die Hilfe anderer angewiesen sind (§ 53 Nummer 1 AO).",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "26",
+            "label": "Wir erklären, dass wir Personen selbstlos unterstützen, die wirtschaftlich im Sinne des § 53 Nummer 2 AO hilfebedürftig sind.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "27",
+            "label": "Für die Personen laut Zeile 26 liegen Aufzeichnungen über die wirtschaftliche Hilfsbedürftigkeit vor. Soweit keine Aufzeichnungen vorliegen, konnte hierauf aufgrund der Bewilligung nach § 53 Nummer 2 Satz 8 AO verzichtet werden.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

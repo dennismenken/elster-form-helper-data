@@ -1,0 +1,74 @@
+[
+  {
+    "context_label": "25 - Korrekturen nach § 2 Absatz 4 Satz 3 und 4",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Zeilen 47 bis 51: Nur im Falle von Umwandlungen mit steuerlicher Rückwirkung zur Anwendung des § 2 Absatz 4 Satz 3 und 4 UmwStG beim übernehmenden Rechtsträger; nicht bei Organgesellschaften und nicht in Fällen laut Zeile 52",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "46",
+            "label": "Zwischensumme (Übertrag nach Zeile 47)",
+            "type": "text",
+            "values": [
+              "Hauptspalte (Euro)"
+            ]
+          },
+          {
+            "row": "47",
+            "label": "Betrag laut Zeile 46",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "48",
+            "label": "Davon ab: Im Betrag laut Zeile 47 enthaltene positive Einkünfte des übertragenden oder einbringenden Rechtsträgers im Rückwirkungszeitraum aus eigenen Übernahmen",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "49",
+            "label": "Davon ab: Im Betrag laut Zeile 47 enthaltene positive Einkünfte des übertragenden oder einbringenden Rechtsträgers im Rückwirkungszeitraum laut gesonderter und einheitlicher Feststellung einer Personengesellschaft",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "50",
+            "label": "Davon ab: Im Betrag laut Zeile 47 enthaltene positive Einkünfte des übertragenden oder einbringenden Rechtsträgers im Rückwirkungszeitraum laut gesonderter und einheitlicher Feststellung(en) nach § 14 Absatz 5 KStG (Summe der Beträge laut Zeile 27 aller Anlagen OT)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "51",
+            "label": "Zwischensumme:Wenn negativ: Nach § 2 Absatz 4 Satz 3 und 4 UmwStG nicht ausgleichsfähiger Verlust des übernehmenden Rechtsträgers (Übertrag eines negativen Betrages in die Hauptspalte mit umgekehrtem Vorzeichen)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)",
+              "Hauptspalte (Euro)"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

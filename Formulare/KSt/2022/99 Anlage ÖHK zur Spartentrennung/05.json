@@ -1,0 +1,205 @@
+[
+  {
+    "context_label": "3 - Ermittlung des abziehbaren Verlustes und des Verlustvortrags der einzelnen Sparte (§ 10d in Verbindung mit § 31 Absatz 1 und § 8 Absatz 9 )",
+    "sections": [
+      {
+        "section_label": "Anfangsbestand",
+        "rows": [
+          {
+            "row": "215",
+            "label": "Verbleibender Verlustvortrag zum Schluss des vorangegangenen Veranlagungszeitraums für die Sparte",
+            "type": "text",
+            "values": [
+              "Euro (Euro)"
+            ]
+          },
+          {
+            "row": "216",
+            "label": "Davon ab: Untergang des fortführungsgebundenen Verlustvortrags aufgrund eines schädlichen Ereignisses im Sinne des § 8d Absatz 2 KStG (Betrag laut Zeile 234) (Übertrag aus Zeile 235)",
+            "type": "text",
+            "values": [
+              "Euro (Euro)"
+            ]
+          },
+          {
+            "row": "217",
+            "label": "Dazu: Erhalt des fortführungsgebundenen Verlustvortrags nach § 8d Absatz 2 Satz 1 zweiter Halbsatz KStG durch entsprechende Anwendung des § 8c Absatz 1 Satz 5 bis 8 KStG bezogen auf die zum Schluss des vorangegangenen Veranlagungszeitraums vorhandenen stillen Reserven (höchstens Betrag laut Zeile 216; laut gesonderter Ermittlung)",
+            "type": "text",
+            "values": [
+              "Euro (Euro)"
+            ]
+          },
+          {
+            "row": "218",
+            "label": "Nur für Betriebe gewerblicher Art:Dazu: Zu übernehmender verbleibender Verlustvortrag (§ 8 Absatz 8 KStG)",
+            "type": "text",
+            "values": [
+              "Euro (Euro)"
+            ]
+          },
+          {
+            "row": "219",
+            "label": "Davon ab: Nicht zu berücksichtigender Verlustabzug nach § 8c KStG (gegebenenfalls in Verbindung mit § 2 Absatz 4 Satz 1 und 2, § 20 Absatz 6 Satz 4 UmwStG) (laut gesonderter Ermittlung)",
+            "type": "text",
+            "values": [
+              "Euro (Euro)"
+            ]
+          },
+          {
+            "row": "220",
+            "label": "Im Falle der Abspaltung:Davon ab: Verringerung des verbleibenden Verlustvortrags bei der übertragenden Körperschaft (§ 15 Absatz 3, § 16 UmwStG)",
+            "type": "text",
+            "values": [
+              "Euro (Euro)"
+            ]
+          },
+          {
+            "row": "221",
+            "label": "Davon ab: Minderung des Verlustvortrags nach § 3a Absatz 3 Satz 2 Nummer 10 EStG (Betrag laut Zeile 21 der Anlage SAN)",
+            "type": "text",
+            "values": [
+              "Euro (Euro)"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Negativer Gesamtbetrag der Einkünfte",
+        "rows": [
+          {
+            "row": null,
+            "label": "Nicht bei Organgesellschaften",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "222",
+            "label": "Dazu: Berücksichtigungsfähiger steuerlicher Verlust des laufenden Veranlagungszeitraums Betrag laut Zeile 210 beziehungsweise wenn Betrag laut Zeile 208 Vorspalte negativ: Betrag laut Zeile 208 Vorspalte (Betrag ohne Vorzeichen eintragen)",
+            "type": "text",
+            "values": [
+              "Euro (Euro)"
+            ]
+          },
+          {
+            "row": "223",
+            "label": "Davon ab: Minderung der negativen Einkünfte nach § 3a Absatz 3 Satz 2 Nummer 12 EStG aufgrund eines Sanierungsertrags in 2021",
+            "type": "text",
+            "values": [
+              "Euro (Euro)"
+            ]
+          },
+          {
+            "row": "223a",
+            "label": "Davon ab: Minderung der negativen Einkünfte nach § 3a Absatz 3 Satz 2 Nummer 12 EStG aufgrund eines Sanierungsertrags in 2020",
+            "type": "text",
+            "values": [
+              "Euro (Euro)"
+            ]
+          },
+          {
+            "row": "224",
+            "label": "Davon ab: Verlustrücktrag auf den positiven Gesamtbetrag der Einkünfte der Sparte im Veranlagungszeitraum 2021 und 2020 (höchstens 10 Millionen € und höchstens Betrag laut Zeile 222 abzüglich der Summe der Beträge laut Zeile 223 und 223a; bei Verzicht auf Verlustrücktrag: Eintrag mit 0)",
+            "type": "text",
+            "values": [
+              "Euro (Euro)"
+            ]
+          },
+          {
+            "row": "225",
+            "label": "Zwischensumme",
+            "type": "text",
+            "values": [
+              "Euro (Euro)"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Positiver Gesamtbetrag der Einkünfte",
+        "rows": [
+          {
+            "row": null,
+            "label": "Nicht bei Organgesellschaften",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "226",
+            "label": "Positiver Gesamtbetrag der Einkünfte der Sparte (Betrag laut Zeile 211)",
+            "type": "text",
+            "values": [
+              "Euro (Euro)"
+            ]
+          },
+          {
+            "row": "227",
+            "label": "Im Falle von Umwandlungen mit steuerlicher Rückwirkung beim übernehmenden Rechtsträger:Davon ab: Im Betrag laut Zeile 226 enthaltene positive Einkünfte des übertragenden oder einbringenden Rechtsträgers im Rückwirkungszeitraum (vergleiche § 2 Absatz 4 Satz 3 und 4 UmwStG) - Summe der Beträge laut Zeilen 205 bis 207",
+            "type": "text",
+            "values": [
+              "Euro (Euro)"
+            ]
+          },
+          {
+            "row": "228",
+            "label": "Zwischensumme",
+            "type": "text",
+            "values": [
+              "Euro (Euro)"
+            ]
+          },
+          {
+            "row": "229",
+            "label": "Davon ab: Niedrigerer Betrag aus Zeile 225 oder 228 (höchstens 1 Million €)",
+            "type": "text",
+            "values": [
+              "Euro (Euro)",
+              "Euro (Euro)"
+            ]
+          },
+          {
+            "row": "230",
+            "label": "Zwischensumme",
+            "type": "text",
+            "values": [
+              "Euro (Euro)",
+              "Euro (Euro)"
+            ]
+          },
+          {
+            "row": "231",
+            "label": "Davon ab: Betrag laut Zeile 230 Hauptspalte, höchstens 60 % vom Betrag laut Zeile 230 Vorspalte",
+            "type": "text",
+            "values": [
+              "Euro (Euro)"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Endbestand",
+        "rows": [
+          {
+            "row": "232",
+            "label": "Verbleibender Verlustvortrag zum Schluss des Veranlagungszeitraums für die Sparte",
+            "type": "text",
+            "values": [
+              "Euro (Euro)"
+            ]
+          },
+          {
+            "row": "233",
+            "label": "Insgesamt vorzunehmender Verlustabzug (Summe der Beträge laut Zeilen 229 und 231; Übertrag nach Zeile 57 der Anlage ZVE)",
+            "type": "text",
+            "values": [
+              "Euro (Euro)"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

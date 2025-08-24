@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "20 - Verlustabzugsbeschränkung nach § 8c",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "36",
+            "label": "Zwischensumme (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "37",
+            "label": "Dazu: Nach § 8c KStG nicht berücksichtigungsfähiger Verlust des laufenden Veranlagungszeitraums (gegebenenfalls in Verbindung mit § 2 Absatz 4 Satz 1 und 2, § 20 Absatz 6 Satz 4 UmwStG) (ohne Vorzeichen eintragen; laut gesonderter Ermittlung) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

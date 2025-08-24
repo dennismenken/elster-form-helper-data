@@ -1,0 +1,67 @@
+[
+  {
+    "context_label": "4 - Angaben für Einzelunternehmen sowie für Mitunternehmerschaften und Organgesellschaften, sofern natürliche Personen beteiligt sind",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "21",
+            "label": "Bezüge laut Zeile 6, die die Voraussetzungen der Steuerbefreiung nach § 3 Nummer 40 EStG erfüllen (nicht, sofern es sich um einen Fall der Steuerbefreiung nach § 3 Nummer 41 Buchstabe a EStG handelt) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "21a",
+            "label": "Nur bei Organgesellschaften und sofern es sich um einen Fall der Steuerbefreiung nach § 3 Nummer 41 Buchstabe a EStG handelt: Steuerfreie Bezüge nach § 3 Nummer 41 Buchstabe a EStG (Betrag laut Zeile 6 multipliziert mit dem Prozentsatz laut Zeile 63 des Vordrucks GewSt 1 A) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "22",
+            "label": "Bezüge nach § 3 Nummer 40 EStG gekürzt um Betriebsausgaben nach § 3c Absatz 2 EStG vor Anwendung des Teileinkünfteverfahrens (Betrag laut Zeile 21 abzüglich der Summe der Beträge laut Zeilen 8 und 9 multipliziert mit dem Prozentsatz laut Zeile 63 des Vordrucks GewSt 1 A, bei Eintragung in Zeile 11: stattdessen multipliziert mit dem Prozentsatz laut Zeile 11) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "23",
+            "label": "Hinzurechnungsbetrag nach § 8 Nummer 5 GewStG (wenn in Zeile 7 keine Eintragung gemacht wurde: 40 Prozent des Betrages laut Zeile 21; abzüglich 40 Prozent des Betrages laut Zeilen 8 und 9, bei Mitunternehmerschaften und Organgesellschaften: zusätzlich multipliziert mit dem Prozentsatz laut Zeile 63 des Vordrucks GewSt 1 A, bei Eintragung in Zeile 11: stattdessen zusätzlich multipliziert mit dem Prozentsatz laut Zeile 11) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "24",
+            "label": "Ausgangsbetrag für eine Kürzung nach § 9 Nummer 2a, 7 oder 8 GewStG (Betrag laut Zeile 6; nur ausfüllen, wenn in Zeile 7 angegeben wurde, dass die Beteiligung die Voraussetzungen des § 9 Nummer 2a GewStG, § 9 Nummer 7 GewSt oder § 9 Nummer 8 GewStG erfüllt). (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "25",
+            "label": "Mit den Beträgen laut Zeile 24 in unmittelbarem Zusammenhang stehende Aufwendungen im Sinne des § 8 Nummer 1 GewStG (Betrag laut Zeile 8, höchstens Betrag laut Zeile 24) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "26",
+            "label": "Mit den Beträgen laut Zeile 24 in unmittelbarem Zusammenhang stehende andere Aufwendungen (Betrag laut Zeile 9, höchstens Betrag laut Zeile 24 abzüglich Betrag laut Zeile 25) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "27",
+            "label": "Kürzung nach § 9 Nummer 2a, 7 und 8 GewStG vor Anwendung des Teileinkünfteverfahrens (Betrag laut Zeile 24 abzüglich Summe der Beträge laut Zeilen 25 und 26; bei Mitunternehmerschaften und Organgesellschaften: multipliziert mit dem Prozentsatz laut Zeile 63 des Vordrucks GewSt 1 A, bei Eintragung in Zeile 11: stattdessen multipliziert mit dem Prozentsatz laut Zeile 11) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "28",
+            "label": "Kürzung des Hinzurechnungsbetrages nach § 8 Nummer 1 GewStG aufgrund des § 9 Nummer 2a Satz 3 zweiter Halbsatz GewStG, § 9 Nummer 7 Satz 2 beziehungsweise § 9 Nummer 8 Satz 2 GewStG (Betrag laut Zeile 25; bei Mitunternehmerschaften und Organgesellschaften: multipliziert mit dem Prozentsatz laut Zeile 63 des Vordrucks GewSt 1 A, bei Eintragung in Zeile 11: stattdessen multipliziert mit dem Prozentsatz laut Zeile 11) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "context_label": "4 - Weitere Angaben",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Zeilen 37 und 38: Nicht bei Organgesellschaften",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "37",
+            "label": "Nach § 6 Absatz 2 Satz 1, § 6 Absatz 2a Satz 2 und § 7 EStG abgesetzte Beträge (Abschreibungen) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "38",
+            "label": "Vergütungen für Fremdkapital an wesentlich beteiligte Anteilseigner, diesen nahestehende Personen und rückgriffsberechtigte Dritte (§ 8a Absatz 2 und 3 KStG) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

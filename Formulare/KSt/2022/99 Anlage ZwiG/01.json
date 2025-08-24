@@ -1,0 +1,49 @@
+[
+  {
+    "context_label": "Anlage ZwiG",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Angaben zu Besteuerungsgrundlagen aus ausländischen Zwischengesellschaften § 7 AStG",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Für jede Ausschüttung, Veräußerung oder Einlagenrückgewähr ist eine gesonderte Anlage ZwiG auszufüllen.",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Bezeichnung der Zwischengesellschaft",
+            "rows": [
+              {
+                "row": null,
+                "label": "Bezeichnung der Zwischengesellschaft",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

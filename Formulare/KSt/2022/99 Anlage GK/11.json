@@ -1,0 +1,195 @@
+[
+  {
+    "context_label": "5 - Sachverhalte mit Auslandsbezug",
+    "sections": [
+      {
+        "section_label": "Nach DBA steuerfreie Einkünfte",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Einzelangaben",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Name des Staates/(Spezial-)Investmentfonds",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Name des Staates/(Spezial-)Investmentfonds",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": [
+                  {
+                    "section_label": null,
+                    "rows": [
+                      {
+                        "row": "127",
+                        "label": "Name des Staates/(Spezial-)Investmentfonds",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "128",
+                        "label": "Nettobetrag der ausländischen Einkünfte (Euro, Cent)",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "129",
+                        "label": "Auf die ausländischen Einkünfte entfallende ausländische Steuer (Euro, Cent)",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "130",
+                        "label": "Bruttobetrag der ausländischen Einkünfte (Euro, Cent)",
+                        "type": "text",
+                        "values": []
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": "131",
+                "label": "Davon ab: Ausländische Einkünfte, die aufgrund von DBA steuerfrei sind (ohne Bezüge im Sinne des § 20 Absatz 1 Nummer 1, 2, 9 und 10 Buchstabe a EStG aus der Beteiligung an einer ausländischen Körperschaft) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "132",
+                "label": "Dazu: Mit den ausländischen Einkünften laut Zeile 131 im Zusammenhang stehende nichtabziehbare inländische Betriebsausgaben (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Hinzurechnungsbeträge des Veranlagungszeitraums 2021, die am 1.1.2022 zufließen, nach § 10 AStG in der bis zum 30.06.2021 geltenden Fassung",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Einzelangaben",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Bezeichnung der Zwischengesellschaft",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Bezeichnung der Zwischengesellschaft",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": [
+                  {
+                    "section_label": null,
+                    "rows": [
+                      {
+                        "row": "133",
+                        "label": "Bezeichnung der Zwischengesellschaft",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "134",
+                        "label": "Hinzurechnungsbetrag nach § 10 AStG in der bis zum 30.06.2021 geltenden Fassung (Euro)",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "135",
+                        "label": "Anzurechnende ausländische Steuer nach § 12 Absatz 1 AStG in der bis zum 30.06.2021 geltenden Fassung (Euro)",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "136",
+                        "label": "Anzurechnende ausländische Steuer nach § 12 Absatz 3 AStG in der bis zum 30.06.2021 geltenden Fassung (Euro)",
+                        "type": "text",
+                        "values": []
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": "137",
+                "label": "Dazu: Nach § 10 AStG in der bis zum 30.06.2021 geltenden Fassung anzusetzender Hinzurechnungsbetrag laut gesonderter (und einheitlicher) Feststellung nach § 18 AStG in der bis zum 30.06.2021 geltenden Fassung (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "138",
+                "label": "Dazu: Auf Antrag nach § 12 Absatz 1 AStG in der bis zum 30.06.2021 geltenden Fassung anzurechnende ausländische Steuer laut gesonderter (und einheitlicher) Feststellung nach § 18 AStG in der bis zum 30.06.2021 geltenden Fassung (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "139",
+                "label": "Auf Antrag nach § 12 Absatz 3 AStG in der bis zum 30.06.2021 geltenden Fassung anzurechnende ausländische Steuer laut gesonderter (und einheitlicher) Feststellung nach § 18 AStG in der bis zum 30.06.2021 geltenden Fassung (nicht einkommenswirksam) (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Berichtigungsbetrag nach § 1 AStG",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Einzelangaben",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Beschreibung und Art der Geschäftsbeziehung",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Beschreibung und Art der Geschäftsbeziehung",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": "142",
+                "label": "Dazu / Davon ab: Berichtigungsbetrag nach § 1 AStG laut gesonderter Ermittlung (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

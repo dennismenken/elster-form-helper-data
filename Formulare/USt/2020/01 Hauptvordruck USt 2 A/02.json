@@ -1,0 +1,67 @@
+[
+  {
+    "context_label": "2 - Mitwirkung bei der Anfertigung dieser Steuererklärung",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "173",
+            "label": "Die Steuererklärung wurde unter Mitwirkung eines Angehörigen der steuerberatenden Berufe im Sinne der §§ 3 und 4 des Steuerberatungsgesetzes erstellt",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": null,
+            "label": "Name",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": null,
+            "label": "Vorname",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": null,
+            "label": "Straße, Hausnummer",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": null,
+            "label": "Postleitzahl, Wohnort",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": null,
+            "label": "Telefon",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": null,
+            "label": "Mandantennummer",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": null,
+            "label": "Bearbeiterkennzeichen",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": null,
+            "label": "zusätzliche Angaben",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

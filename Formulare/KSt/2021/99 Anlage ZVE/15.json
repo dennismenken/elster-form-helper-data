@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "12 - Steuerbefreiung nach § 8 Absatz 1 und 2 sowie § 10",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "28a",
+            "label": "Davon ab / Dazu: Nach § 8 Absatz 1 und 2 sowie § 10 InvStG steuerfreie Einkünfte, die keinem Steuerabzug unterliegen (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

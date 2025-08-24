@@ -1,0 +1,43 @@
+[
+  {
+    "context_label": "2 - Negativer Gesamtbetrag der Einkünfte",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "19",
+            "label": "Dazu: Berücksichtigungsfähiger Verlust des laufenden Veranlagungszeitraums(negativer Betrag laut Zeile 53 der Anlage ZVE oderwenn Betrag laut Zeile 51 Vorspalte der Anlage ZVE negativ:Betrag laut Zeile 51 Vorspalte der Anlage ZVE oderbei Organgesellschaften: negativer Betrag laut Zeile 30 der Anlage OG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "19a",
+            "label": "Davon ab: Minderung der negativen Einkünfte nach § 3a Absatz 3 Satz 2 Nummer 12 EStG aufgrund eines Sanierungsertrags in 2021 (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "19b",
+            "label": "Davon ab: Minderung der negativen Einkünfte nach § 3a Absatz 3 Satz 2 Nummer 12 EStG aufgrund eines Sanierungsertrags in 2020 (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "20",
+            "label": "Davon ab: Verlustrücktrag auf das Einkommen 2021 und 2020 höchstens 10 Millionen € und höchstens Betrag laut Zeile 19 abzüglich der Summe der Beträge laut Zeilen 19a und 19b (bei Verzicht auf den Verlustrücktrag: Eintrag mit 0) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "21",
+            "label": "Zwischensumme (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "context_label": "11 - Angaben in Organschaftsfällen",
+    "sections": [
+      {
+        "section_label": "Gewerbeertrag der Organgesellschaft(en)",
+        "rows": [
+          {
+            "row": null,
+            "label": "Zeilen 105 bis 107 und 108: Nur bei Organträgern",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": null,
+            "label": "Zeilen 107a bis 107c und 109 bis 111: Nur bei Organträgern, soweit nicht selbst Organgesellschaft",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": null,
+            "label": "laut gesonderter Einzelaufstellung",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": null,
+            "rows": [
+              {
+                "row": "108",
+                "label": "Summe der Gewerbeerträge der Organgesellschaften (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "109",
+                "label": "Summe der Korrekturbeträge aufgrund der Anwendung des § 3 Nummer 40 Buchstabe a, § 3 Nummer 41 Buchstabe b, § 3c EStG, § 8b Absatz 2 und 3 KStG, § 12 Absatz 2 UmwStG in Verbindung mit § 15 Satz 1 Nummer 2 und Satz 2 KStG und der Anwendung von § 34c Absatz 3 EStG (negative Beträge mit Minuszeichen eintragen) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "110",
+                "label": "Summe der Korrekturbeträge aufgrund der Anwendung der §§ 20 und 21 InvStG in Verbindung mit § 15 Satz 1 Nummer 2a und Satz 2 KStG gegebenenfalls in Verbindung mit § 43 Absatz 3 und § 45 Absatz 2 InvStG (negative Beträge mit Minuszeichen eintragen) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "111",
+                "label": "Nur bei Körperschaften:Summe der Korrekturbeträge aufgrund der Anwendung des § 45 Absatz 1 InvStG (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": [
+              {
+                "section_label": "Name der Organgesellschaft",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Name der Organgesellschaft",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_label": "Werte, die für die Ermittlung des Gewerbeertrages des Organträgers von Bedeutung sind",
+        "rows": [
+          {
+            "row": null,
+            "label": "Nur bei Organgesellschaften",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": null,
+            "label": "Ist die Organgesellschaft gleichzeitig Organträger: Einschließlich entsprechender Beträge ihrer Organgesellschaften (laut gesonderter Ermittlung) - negative Beträge mit Minuszeichen eintragen -",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "112",
+            "label": "Wenn der Organträger eine natürliche Person ist: Zu berücksichtigender Korrekturbetrag zum Gewerbeertrag aufgrund der Anwendung des § 3 Nummer 40 Buchstabe a, § 3 Nummer 41 Buchstabe b, § 3c EStG und § 12 Absatz 2 UmwStG in Verbindung mit § 15 Satz 1 Nummer 2 und Satz 2 KStG sowie § 34c Absatz 3 EStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "113",
+            "label": "Wenn der Organträger eine Körperschaft ist: Zu berücksichtigender Korrekturbetrag zum Gewerbeertrag aufgrund der Anwendung des § 8b Absatz 2 und 3 KStG, § 12 Absatz 2 UmwStG und § 3 Nummer 41 Buchstabe b EStG in Verbindung mit § 15 Satz 1 Nummer 2 und Satz 2 KStG sowie § 34c Absatz 3 EStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "114",
+            "label": "Wenn der Organträger eine Personengesellschaft ist: Zu berücksichtigender Korrekturbetrag zum Gewerbeertrag aufgrund der Anwendung des § 3 Nummer 40 Buchstabe a, § 3 Nummer 41 Buchstabe b, § 3c EStG, § 8b Absatz 2 und 3 KStG, § 12 Absatz 2 UmwStG in Verbindung mit § 15 Satz 1 Nummer 2 und Satz 2 KStG sowie § 34c Absatz 3 EStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "115",
+            "label": "Wenn der Organträger eine natürliche Person ist: Zu berücksichtigender Korrekturbetrag zum Gewerbeertrag aufgrund der Anwendung des § 15 Satz 1 Nummer 2a und Satz 2 KStG, insbesondere in den Fällen der §§ 20, 21 InvStG und § 43 Absatz 3 in Verbindung mit § 45 Absatz 2 InvStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "116",
+            "label": "Wenn der Organträger eine Körperschaft ist: Zu berücksichtigender Korrekturbetrag zum Gewerbeertrag aufgrund der Anwendung des § 15 Satz 1 Nummer 2a und Satz 2 KStG, insbesondere in den Fällen der §§ 20, 21 InvStG und § 43 Absatz 3 in Verbindung mit § 45 Absatz 2 InvStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "117",
+            "label": "Wenn der Organträger eine Personengesellschaft ist: Zu berücksichtigender Korrekturbetrag zum Gewerbeertrag aufgrund der Anwendung des § 15 Satz 1 Nummer 2a und Satz 2 KStG, insbesondere in den Fällen der §§ 20, 21 InvStG und § 43 Absatz 3 in Verbindung mit § 45 Absatz 2 InvStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "118",
+            "label": "Wenn der Organträger eine Körperschaft ist: Zu berücksichtigender Korrekturbetrag aufgrund der Anwendung des § 45 Absatz 1 InvStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Aufspaltung oder Verschmelzung einer Organgesellschaft",
+        "rows": [
+          {
+            "row": "119",
+            "label": "Von der Organgesellschaft selbst zu versteuernder Gewerbeertrag aus einem Übertragungsgewinn nach § 11 UmwStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "context_label": "6 - Verlust aus dem Beitrittsgebiet im Sinne des § 57 Absatz 4",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "38",
+            "label": "Von den Beträgen laut Zeile 11 beziehungsweise 14a entfällt auf den in 1990 entstandenen Verlust aus dem Beitrittsgebiet im Sinne des § 57 Absatz 4 EStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "39",
+            "label": "Davon ab: Untergang des fortführungsgebundenen Verlustvortrags aufgrund eines schädlichen Ereignisses im Sinne des § 8d Absatz 2 KStG (Betrag laut Zeile 38) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "40",
+            "label": "Dazu: Erhalt des fortführungsgebundenen Verlustvortrags nach § 8d Absatz 2 Satz 1 zweiter Halbsatz KStG durch entsprechende Anwendung des § 8c Absatz 1 Satz 5 bis 8 KStG bezogen auf die zum Schluss des vorangegangenen Veranlagungszeitraums vorhandenen stillen Reserven (Betrag laut Zeile 14 höchstens Betrag laut Zeile 38) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "41",
+            "label": "Davon ab: In den Beträgen laut Zeilen 15, 16 und 18 enthaltener, in 1990 entstandener Verlust aus dem Beitrittsgebiet im Sinne des § 57 Absatz 4 EStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "42",
+            "label": "Davon ab: Summe der Beträge laut Zeilen 25 und 27, höchstens Betrag laut Zeile 38 abzüglich der Beträge laut Zeilen 39 und 41 zuzüglich Betrag laut Zeile 40 (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "43",
+            "label": "Zum Schluss des Veranlagungszeitraums verbleibender Verlust aus dem Beitrittsgebiet im Sinne des § 57 Absatz 4 EStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

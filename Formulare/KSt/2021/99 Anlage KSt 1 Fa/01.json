@@ -1,0 +1,31 @@
+[
+  {
+    "context_label": "Anlagen 1 Fa",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Ermittlung des steuerlichen Einlagekontos (§ 27 Absatz 2 Satz 1 KStG) für Betriebe gewerblicher Art (BgA) ohne eigene Rechtspersönlichkeit und wirtschaftliche Geschäftsbetriebe der von der Körperschaftsteuer befreiten Körperschaften, Personenvereinigungen und Vermögensmassen und Ermittlung des durch Umwandlung von Rücklagen entstandenen Nennkapitals (§ 28 Absatz 1 Satz 3 KStG) für Betriebe gewerblicher Art ohne eigene Rechtspersönlichkeit",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Enden in einem Veranlagungszeitraum zwei Wirtschaftsjahre, ist für jedes Wirtschaftsjahr die Anlage KSt 1 Fa gesondert auszufüllen.",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

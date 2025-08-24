@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "Anlage",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "2",
+            "label": "Name des Staates/Spezial-Investmentfonds",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "2a",
+            "label": "ISIN (bei Spezial-Investmentfonds)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

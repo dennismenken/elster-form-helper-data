@@ -1,0 +1,43 @@
+[
+  {
+    "context_label": "8 - Berechnung der Dotation bei Pensions-, Sterbe- und Krankenkassen (§ 5 Absatz 1 Nummer 3 Buchstabe d )",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "42",
+            "label": "Zeitpunkt, zu dem die Deckungsrückstellung versicherungsmathematisch errechnet wurde: Stichtag (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": null,
+            "label": "Zu diesem Stichtag ergeben sich folgende Werte:",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "43",
+            "label": "Vermögen der Kasse, das nach handelsrechtlichen Grundsätzen ordnungsmäßiger Buchführung unter Berücksichtigung des von der Versicherungsaufsichtsbehörde genehmigten Geschäftsplans auszuweisen ist (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "44",
+            "label": "Davon ab: Verlustrücklage bei Versicherungsvereinen auf Gegenseitigkeit beziehungsweise entsprechender Teil des Vermögens bei Kassen anderer Rechtsform (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "45",
+            "label": "Überdotierung/Unterdotierung (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

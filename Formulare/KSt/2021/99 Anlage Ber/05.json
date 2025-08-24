@@ -1,0 +1,59 @@
+[
+  {
+    "context_label": "4 - Wirtschaftliche Betätigung",
+    "sections": [
+      {
+        "section_label": "Eigene Tätigkeit",
+        "rows": [
+          {
+            "row": "14",
+            "label": "Die Körperschaft unterhält wirtschaftliche Geschäftsbetriebe aus eigener Tätigkeit",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Beteiligungen an Personengesellschaften",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Name der Personengesellschaft",
+            "rows": [
+              {
+                "row": null,
+                "label": "Name der Personengesellschaft",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Beteiligungen an Kapitalgesellschaften",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Name der Kapitalgesellschaft",
+            "rows": [
+              {
+                "row": null,
+                "label": "Name der Kapitalgesellschaft",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

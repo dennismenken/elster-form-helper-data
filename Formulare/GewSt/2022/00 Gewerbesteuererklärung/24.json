@@ -1,0 +1,43 @@
+[
+  {
+    "context_label": "20 - Für den laufenden Erhebungszeitraum maßgebende Besteuerungsgrundlagen, die im vorangegangenen Erhebungszeitraum gesondert festgestellt wurden",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Diese Werte werden lediglich für die Probeberechnung in Elster herangezogen. Das Finanzamt verwendet die zum Schluss des vorangegangenen Erhebungszeitraums festgestellten Werte.",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "148",
+            "label": "Zum Schluss des vorangegangenen Erhebungszeitraums gesondert festgestellter vortragsfähiger Gewerbeverlust (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "149",
+            "label": "Nur bei Körperschaften:Zum Schluss des vorangegangenen Erhebungszeitraums gesondert festgestellter fortführungsgebundener vortragsfähiger Gewerbeverlust (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "150",
+            "label": "Zum Schluss des vorangegangenen Erhebungszeitraums gesondert festgestellter verbleibender Zuwendungsvortrag (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

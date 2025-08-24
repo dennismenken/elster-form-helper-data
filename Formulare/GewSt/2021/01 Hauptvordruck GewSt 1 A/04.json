@@ -1,0 +1,67 @@
+[
+  {
+    "context_label": "3 - Empfangsbevollmächtigter",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Die Bescheide sollen folgendem Empfangsbevollmächtigten/Postempfänger zugesandt werden.",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "(Nur ausfüllen, wenn beim Finanzamt keine entsprechende Empfangsvollmacht vorliegt.)",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "20",
+            "label": "Anrede",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "20",
+            "label": "Namenszeile 1",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "20",
+            "label": "Namenszeile 2",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "20",
+            "label": "Straße und Hausnummer oder Postfach",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "20",
+            "label": "Postleitzahl und Ort",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

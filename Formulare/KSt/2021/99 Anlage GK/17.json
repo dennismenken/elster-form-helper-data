@@ -1,0 +1,152 @@
+[
+  {
+    "context_label": "9 - Gewinnkorrekturen bei Organschaft",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Bei einem Organträger oder einer Organgesellschaft:",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "163",
+            "label": "Dazu: Negative Einkünfte, soweit sie in einem ausländischen Staat im Rahmen der Besteuerung des Organträgers, der Organgesellschaft oder einer anderen Person berücksichtigt werden (§ 14 Absatz 1 Satz 1 Nummer 5 KStG), soweit diese in den vorstehenden Beträgen enthalten sind (ohne Vorzeichen eintragen) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Neutralisierung der im bilanziellen Ergebnis des Organträgers aufgrund der Organschaft berücksichtigten Werte",
+        "rows": [
+          {
+            "row": null,
+            "label": "Zeilen 164 bis 171: Nur bei Organträgern: Ist der Steuerpflichtige Organträger mehrerer Organgesellschaften: Beträge pro Organgesellschaft laut gesonderter Einzelaufstellung",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": "Einzelangaben",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Name der Organgesellschaft",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Name der Organgesellschaft",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": "164",
+                "label": "Davon ab: Erträge aus der Gewinnabführung der Organgesellschaft(en) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "165",
+                "label": "Dazu: Aufwendungen des Organträgers aus der Verlustübernahme von Organgesellschaft(en) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "166",
+                "label": "Dazu: Ausgleichszahlungen des Organträgers an außenstehende Anteilseigner der Organgesellschaft(en) (§ 4 Absatz 5 Satz 1 Nummer 9 EStG) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "167",
+                "label": "Dazu: Neutralisierung eines bei der Gewinnermittlung berücksichtigten Aufwands aus der Auflösung aktiver oder der Bildung passiver Ausgleichsposten im Sinne des § 14 Absatz 4 KStG (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "168",
+                "label": "Davon ab: Neutralisierung eines bei der Gewinnermittlung berücksichtigten Ertrages aus der Bildung aktiver oder der Auflösung passiver Ausgleichsposten im Sinne des § 14 Absatz 4 KStG (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "169",
+                "label": "Dazu: Mehrabführungen, die ihre Ursache in vororganschaftlicher Zeit haben (§ 14 Absatz 3 Satz 1 KStG) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "170",
+                "label": "Davon ab: Minderabführungen, die ihre Ursache in vororganschaftlicher Zeit haben (§ 14 Absatz 3 Satz 2 KStG) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "171",
+                "label": "Davon ab: Verdeckte Gewinnausschüttungen der Organgesellschaft(en) (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Neutralisierung der im bilanziellen Ergebnis der Organgesellschaft aufgrund der Organschaft berücksichtigten Werte",
+        "rows": [
+          {
+            "row": null,
+            "label": "Zeilen 172 bis 176: nur bei Organgesellschaften",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "172",
+            "label": "Dazu: Von der Organgesellschaft an den Organträger abzuführender Gewinn (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "173",
+            "label": "Davon ab: Vom Organträger an die Organgesellschaft zum Ausgleich eines sonst entstehenden Jahresfehlbetrages zu leistender Betrag (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "174",
+            "label": "Dazu: Von der Organgesellschaft geleistete Ausgleichszahlungen an außenstehende Anteilseigner (§ 4 Absatz 5 Satz 1 Nummer 9 EStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "175",
+            "label": "Dazu: An den Organträger geleistete verdeckte Gewinnausschüttungen (R 14.6 Absatz 4 Satz 1 KStR 2015) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "176",
+            "label": "Dazu: Von der Organgesellschaft geleistete verdeckte Gewinnausschüttungen an außenstehende Anteilseigner (R 14.6 Absatz 4 Satz 4 KStR 2015) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

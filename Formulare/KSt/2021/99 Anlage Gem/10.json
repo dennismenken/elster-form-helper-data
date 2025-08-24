@@ -1,0 +1,122 @@
+[
+  {
+    "context_label": "8 - Rücklagen zum Ende des letzten Jahres des Prüfungszeitraums",
+    "sections": [
+      {
+        "section_label": "Rücklage nach § 62 Absatz 1 Nummer 1 AO für folgende Vorhaben",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": null,
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Rücklage nach § 62 Absatz 1 Nummer 1 AO für folgende Vorhaben",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Rücklage nach § 62 Absatz 1 Nummer 1 AO für folgende Vorhaben",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Rücklage nach § 62 Absatz 1 Nummer 2 AO für die beabsichtigte Wiederbeschaffung von Wirtschaftsgütern, die zur Verwirklichung der steuerbegünstigten satzungsmäßigen Zwecke erforderlich sind",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Zu ersetzendes Wirtschaftsgut",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Zu ersetzendes Wirtschaftsgut",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": [
+                  {
+                    "section_label": null,
+                    "rows": [
+                      {
+                        "row": "54",
+                        "label": "Zu ersetzendes Wirtschaftsgut",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "54a",
+                        "label": "Voraussichtliche Anschaffungs- oder Herstellungskosten für neues (Ersatz-)Wirtschaftsgut (Euro)",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "54b",
+                        "label": "Zuführung Rücklage: Reguläre Absetzung für Abnutzung für bisheriges Wirtschaftsgut (Euro)",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "54c",
+                        "label": "Zuführung Rücklage: Wenn höhere Zuführung erforderlich: Gesamtbetrag der Zuführung (Nachweis wird gesondert übermittelt) (Euro)",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "54d",
+                        "label": "Auflösung der Rücklage (Euro)",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "54e",
+                        "label": "Kumulierte Rücklage (Euro)",
+                        "type": "text",
+                        "values": []
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section_label": "Freie Rücklage nach § 62 Absatz 1 Nummer 3 AO",
+            "rows": [
+              {
+                "row": "58",
+                "label": "Freie Rücklage nach § 62 Absatz 1 Nummer 3 AO (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Rücklage für den Erwerb von Gesellschaftsrechten zur Erhaltung der prozentualen Beteiligung nach § 62 Absatz 1 Nummer 4 AO an einer Kapitalgesellschaft",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Name der Kapitalgesellschaft",
+            "rows": [
+              {
+                "row": null,
+                "label": "Name der Kapitalgesellschaft",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "Korrekturbeträge nach §§ 20 und 21",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "110",
+            "label": "Name der Organgesellschaft",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "110",
+            "label": "Korrekturbetrag zum Gewerbeertrag der Organgesellschaft (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "context_label": "Beteiligung an einer Kapitalgesellschaft",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "24",
+            "label": "Name der Kapitalgesellschaft",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "24a",
+            "label": "Unternehmensgegenstand",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "24b",
+            "label": "Höhe der Beteiligung(en) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "24c",
+            "label": "Höhe der Beteiligung(en) in Prozent",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "24d",
+            "label": "Finanzamt",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

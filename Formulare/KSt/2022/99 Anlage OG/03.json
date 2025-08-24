@@ -1,0 +1,55 @@
+[
+  {
+    "context_label": "2 - Ermittlung des dem Organträger zuzurechnenden Einkommens",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "25",
+            "label": "Einkommen der Organgesellschaft vor Zurechnung an den Organträger (Betrag laut Zeile 43 der Anlage ZVE) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "26",
+            "label": "Davon ab: 20/17 der eigenen Ausgleichszahlungen der Organgesellschaft an ihre außenstehenden Anteilseigner (§ 16 Satz 1 KStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "27",
+            "label": "Davon ab: 20/17 der verdeckten Gewinnausschüttungen der Organgesellschaft an ihre außenstehenden Anteilseigner (§ 16 Satz 1 KStG in Verbindung mit R 14.6 Absatz 4 Satz 4 KStR 2022) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "28",
+            "label": "Davon ab: Ausgleichszahlungen des Organträgers an außenstehende Anteilseigner der Organgesellschaft im Sinne des § 16 Satz 2 KStG (Übertrag nach Zeile 45 der Anlage ZVE) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "29",
+            "label": "Dazu: 14/17 des Betrages aus Zeile 28 (§ 16 Satz 2 KStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "30",
+            "label": "Davon ab: Von der Organgesellschaft selbst zu versteuerndes Einkommen aus einem Übertragungsgewinn nach § 11 UmwStG (ermittelt nach den allgemeinen Regelungen, zum Beispiel unter Berücksichtigung des § 8b Absatz 2 KStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "31",
+            "label": "Dem Organträger zuzurechnendes Einkommen (Übertrag nach Zeile 44 der Anlage ZVE mit umgekehrtem Vorzeichen) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

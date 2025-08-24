@@ -1,0 +1,133 @@
+[
+  {
+    "context_label": "5 - D. Steuerfreie Lieferungen, sonstige Leistungen und unentgeltliche Wertabgaben",
+    "sections": [
+      {
+        "section_label": "Steuerfreie Umsätze mit Vorsteuerabzug",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "a) Innergemeinschaftliche Lieferungen (§ 4 Nummer 1 Buchstabe b UStG)",
+            "rows": [
+              {
+                "row": "63",
+                "label": "an Abnehmer mit USt-Identifikationsnummer (Bemessungsgrundlage ohne Umsatzsteuer, volle Euro) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "64",
+                "label": "neuer Fahrzeuge an Abnehmer ohne USt-Identifikationsnummer (Bemessungsgrundlage ohne Umsatzsteuer, volle Euro) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "65",
+                "label": "neuer Fahrzeuge außerhalb eines Unternehmens (§ 2a UStG) (Bemessungsgrundlage ohne Umsatzsteuer, volle Euro) (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          },
+          {
+            "section_label": "b) Weitere steuerfreie Umsätze mit Vorsteuerabzug (zum Beispiel nach § 4 Nummer 1 Buchstabe a, 2 bis 7 UStG)",
+            "rows": [
+              {
+                "row": "67",
+                "label": "Ausfuhrlieferungen und Lohnveredelungen an Gegenständen der Ausfuhr (§ 4 Nummer 1 Buchstabe a UStG) (Bemessungsgrundlage ohne Umsatzsteuer, volle Euro) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "68",
+                "label": "Umsätze nach § ... UStG:",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "68",
+                "label": "Umsätze nach § ... UStG (Bemessungsgrundlage ohne Umsatzsteuer, volle Euro) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "69",
+                "label": "Umsätze im Sinne des Offshore-Steuerabkommens, des Zusatzabkommens zum NATO-Truppenstatut und des Ergänzungsabkommens zum Protokoll über die NATO-Hauptquartiere (Bemessungsgrundlage ohne Umsatzsteuer, volle Euro) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "70",
+                "label": "Reiseleistungen nach § 25 Absatz 2 UStG (Bemessungsgrundlage ohne Umsatzsteuer, volle Euro) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "71",
+                "label": "Summe der Zeilen 67 bis 70 (Bemessungsgrundlage ohne Umsatzsteuer, volle Euro) (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Steuerfreie Umsätze ohne Vorsteuerabzug",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "a) nicht zum Gesamtumsatz (§ 19 Absatz 3 UStG) gehörend",
+            "rows": [
+              {
+                "row": "73",
+                "label": "nach § 4 Nummer 12 UStG (Vermietung und Verpachtung von Grundstücken und so weiter) (Bemessungsgrundlage ohne Umsatzsteuer, volle Euro) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "74",
+                "label": "nach § 4 Nummer ... UStG",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "74",
+                "label": "nach § 4 Nummer ... UStG (Bemessungsgrundlage ohne Umsatzsteuer, volle Euro) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "75",
+                "label": "Summe der Zeilen 73 und 74 (Bemessungsgrundlage ohne Umsatzsteuer, volle Euro) (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          },
+          {
+            "section_label": "b) zum Gesamtumsatz (§ 19 Absatz 3 UStG) gehörend",
+            "rows": [
+              {
+                "row": "77",
+                "label": "nach § ... UStG",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "77",
+                "label": "nach § ... UStG (Bemessungsgrundlage ohne Umsatzsteuer, volle Euro) (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

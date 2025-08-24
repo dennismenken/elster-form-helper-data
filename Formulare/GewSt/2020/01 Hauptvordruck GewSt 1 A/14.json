@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "Korrekturbeträge nach §§ 20, 21",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "84a",
+            "label": "Name der Organgesellschaft",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "84a",
+            "label": "Betrag (Euro, Cent)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

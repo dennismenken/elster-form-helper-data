@@ -1,0 +1,43 @@
+[
+  {
+    "context_label": "3 - Umlagen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "5a",
+            "label": "Der Berufsverband erhebt Umlagen.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "6",
+            "label": "Umlagen werden von allen Mitgliedern erhoben.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "7",
+            "label": "Umlagen werden nach dem gleichen Maßstab erhoben.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

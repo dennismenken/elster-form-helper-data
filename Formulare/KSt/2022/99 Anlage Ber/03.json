@@ -1,0 +1,29 @@
+[
+  {
+    "context_label": "2 - Mitgliederbeiträge",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "4",
+            "label": "Datum der aktuell gültigen Beitragsordnung (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "5",
+            "label": "Liegt die Beitragsordnung dem Finanzamt vor? (ja: Beitragsordnung liegt dem Finanzamt vor; nein: Beitragsordnung liegt nicht vor und wird daher gesondert übermittelt)",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "liegt dem Finanzamt vor.",
+              "wird gesondert übermittelt."
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

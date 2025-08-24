@@ -1,0 +1,37 @@
+[
+  {
+    "context_label": "Anlagen zur Spartentrennung",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "für Unternehmen im Sinne des § 7 Satz 5 GewStG (auch soweit Organgesellschaft) und für Gesellschaften oder Betriebe gewerblicher Art (BgA), die Organträger solcher Gesellschaften sind",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Kurzbezeichnung der Sparte (bei Organgesellschaften: der Tätigkeit)",
+            "rows": [
+              {
+                "row": null,
+                "label": "Kurzbezeichnung der Sparte (bei Organgesellschaften: der Tätigkeit)",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

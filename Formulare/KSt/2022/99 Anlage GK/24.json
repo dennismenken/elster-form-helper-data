@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "13 - Einkünfte aus Gewerbebetrieb",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "299",
+            "label": "Davon ab: Verrechnung mit verrechenbaren Verlusten nach § 15a EStG, die aufgrund einer Anwachsung bei der Körperschaft zu berücksichtigen sind (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "300",
+            "label": "Einkünfte aus Gewerbebetrieb (Übertrag nach Zeile 2, 3 oder 4 der Anlage ZVE) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

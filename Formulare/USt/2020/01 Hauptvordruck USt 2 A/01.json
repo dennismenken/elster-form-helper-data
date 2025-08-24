@@ -1,0 +1,175 @@
+[
+  {
+    "context_label": "1 - Allgemeine Angaben",
+    "sections": [
+      {
+        "section_label": "Angaben zum Unternehmen",
+        "rows": [
+          {
+            "row": "8",
+            "label": "Name des Unternehmers",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "9",
+            "label": "gegebenenfalls abweichender Firmenname",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "10",
+            "label": "Art des Unternehmens",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": "Adresse",
+            "rows": [
+              {
+                "row": "11",
+                "label": "Straße",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "12",
+                "label": "Hausnummer",
+                "type": "",
+                "values": []
+              },
+              {
+                "row": "12",
+                "label": "Adressergänzung",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "13",
+                "label": "Postleitzahl, Ort",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "14",
+                "label": "Postleitzahl zu Postfach",
+                "type": "",
+                "values": []
+              }
+            ],
+            "sections": []
+          },
+          {
+            "section_label": "Kontakt",
+            "rows": [
+              {
+                "row": "14",
+                "label": "Telefon",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "15",
+                "label": "E-Mail-Adresse",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "17",
+                "label": "Im Ausland ansässiger Unternehmer. Bitte tätigen Sie in diesem Fall auch Angaben auf der Anlage UN.",
+                "type": "checkbox",
+                "values": []
+              },
+              {
+                "row": "18",
+                "label": "Fiskalvertreter. Bitte tätigen Sie in diesem Fall auch Angaben auf der Anlage FV.",
+                "type": "checkbox",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Dauer der Unternehmereigenschaft",
+        "rows": [
+          {
+            "row": null,
+            "label": "(nur ausfüllen, falls nicht vom 1. Januar bis zum 31. Dezember 2020)",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "20",
+            "label": "1. Zeitraum (TT.MM-TT.MM)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "21",
+            "label": "2. Zeitraum (TT.MM-TT.MM)",
+            "type": "date",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Besteuerung der Entgelte",
+        "rows": [
+          {
+            "row": "22",
+            "label": "Die Steuer wurde berechnet anhand:",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "vereinbarte Entgelte",
+              "vereinnahmte Entgelte",
+              "vereinbarte und vereinnahmte Entgelte"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Verrechnung / Abtretung",
+        "rows": [
+          {
+            "row": null,
+            "label": "Bitte reichen Sie Verrechnungswünsche in Papierform bei Ihrem Finanzamt ein oder verwenden Sie dazu den beim Finanzamt erhältlichen Vordruck \"Verrechnungsantrag\".",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "25",
+            "label": "Verrechnung des Erstattungsbetrages erwünscht / Erstattungsbetrag ist abgetreten",
+            "type": "checkbox",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Ergänzende Angaben zur Steuererklärung",
+        "rows": [
+          {
+            "row": "27",
+            "label": "Über die Angaben in der Steuererklärung hinaus sind weitere oder abweichende Angaben oder Sachverhalte zu berücksichtigen.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "28",
+            "label": "Ergänzende Angaben zur Steuererklärung",
+            "type": "",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

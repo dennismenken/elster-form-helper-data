@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "29 - Abzugsbetrag nach § 10g",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "60",
+            "label": "Davon ab: Abzugsbetrag nach § 10g EStG (Abzug höchstens bis auf 0 Euro) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

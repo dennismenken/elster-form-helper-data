@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "Gewerbeertrag der Organgesellschaft(en)",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "83a",
+            "label": "Name der Organgesellschaft",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "83a",
+            "label": "Betrag (Euro, Cent)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "context_label": "5 - Angaben zur Mittelverwendung",
+    "sections": [
+      {
+        "section_label": "Mittelverwendung im Jahr 2021",
+        "rows": [
+          {
+            "row": "30",
+            "label": "Einnahmen des Berufsverbandes (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "31",
+            "label": "Summe der Zuwendungen, die für steuerbegünstigte Zwecke im Sinne der §§ 52 folgende AO verwendet wurden (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "32",
+            "label": "Mittel, die für die unmittelbare oder mittelbare Unterstützung oder Förderung politischer Parteien verwendet wurden (Übertrag nach Zeile 74 der Anlage ZVE) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Mittelverwendung im Jahr 2020",
+        "rows": [
+          {
+            "row": "33",
+            "label": "Einnahmen des Berufsverbandes (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "34",
+            "label": "Summe der Zuwendungen, die für steuerbegünstigte Zwecke im Sinne der §§ 52 folgende AO verwendet wurden (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "35",
+            "label": "Mittel, die für die unmittelbare oder mittelbare Unterstützung oder Förderung politischer Parteien verwendet wurden (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Mittelverwendung im Jahr 2019",
+        "rows": [
+          {
+            "row": "36",
+            "label": "Einnahmen des Berufsverbandes (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "37",
+            "label": "Summe der Zuwendungen, die für steuerbegünstigte Zwecke im Sinne der §§ 52 folgende AO verwendet wurden (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "38",
+            "label": "Mittel, die für die unmittelbare oder mittelbare Unterstützung oder Förderung politischer Parteien verwendet wurden (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

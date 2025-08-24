@@ -1,0 +1,91 @@
+[
+  {
+    "context_label": "2 - Bei der Anfertigung dieser Steuererklärung einschließlich der Anlagen hat mitgewirkt:",
+    "sections": [
+      {
+        "section_label": "Kanzlei",
+        "rows": [
+          {
+            "row": null,
+            "label": "Bearbeiterkennzeichen",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": null,
+            "label": "Mandantennummer",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Bearbeiter",
+        "rows": [
+          {
+            "row": null,
+            "label": "Name",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": null,
+            "label": "Vorname",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Adresse oder Postfach",
+        "rows": [
+          {
+            "row": null,
+            "label": "Straße, Hausnummer",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": null,
+            "label": "Postleitzahl, Wohnort",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Kontakt",
+        "rows": [
+          {
+            "row": null,
+            "label": "Telefon",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": null,
+            "label": "zusätzliche Angaben",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Mitwirkung bei der Steuererklärung",
+        "rows": [
+          {
+            "row": "173",
+            "label": "Die Steuererklärung wurde unter Mitwirkung eines Angehörigen der steuerberatenden Berufe im Sinne der §§ 3 und 4 des Steuerberatungsgesetzes erstellt.",
+            "type": "checkbox",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

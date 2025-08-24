@@ -1,0 +1,30 @@
+[
+  {
+    "context_label": "9 - Vergütungen im Sinne des § 50a Absatz 1 Nummer 1 bis 4 und Absatz 7 an beschränkt Steuerpflichtige (zum Beispiel Aufsichtsratsvergütungen, Lizenzvergütungen) oder in den Fällen des § 10 Steueroasen-Abwehrgesetz",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Empfänger der Vergütung",
+            "rows": [
+              {
+                "row": null,
+                "label": "Empfänger der Vergütung",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Steueranmeldung",
+        "rows": [],
+        "sections": []
+      }
+    ]
+  }
+]

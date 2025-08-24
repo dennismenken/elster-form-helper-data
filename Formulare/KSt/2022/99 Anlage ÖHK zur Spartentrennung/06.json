@@ -1,0 +1,55 @@
+[
+  {
+    "context_label": "4 - Fortführungsgebundener Verlustvortrag nach § 8d der einzelnen Sparte",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "234",
+            "label": "Verbleibender fortführungsgebundener Verlustvortrag zum Schluss des vorangegangenen Veranlagungszeitraums (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "235",
+            "label": "Davon ab: Untergang des fortführungsgebundenen Verlustvortrags aufgrund eines schädlichen Ereignisses im Sinne des § 8d Absatz 2 KStG (Betrag laut Zeile 234) (Übertrag nach Zeile 216) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "235a",
+            "label": "Davon ab: Wegfall der Fortführungsgebundenheit bei Vorliegen eines schädlichen Beteiligungserwerbs nach § 8c KStG (Betrag laut Zeile 234) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "236",
+            "label": "Davon ab: Im wegfallenden Verlustvortrag enthaltener fortführungsgebundener Verlustvortrag (im Betrag laut Zeile 220 enthalten, höchstens Betrag laut Zeile 234 abzüglich Summe der Beträge laut Zeilen 235 und 235a) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "237",
+            "label": "Davon ab: Verrechnung mit dem fortführungsgebundenen Verlust (Summe der Beträge laut Zeilen 221, 229 und 231, höchstens Betrag laut Zeile 234 abzüglich Summe der Beträge laut Zeilen 235 bis 236) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "238",
+            "label": "Wenn im Veranlagungszeitraum ein schädlicher Beteiligungserwerb im Sinne des § 8c KStG erfolgte und die Voraussetzungen zur Anwendung des § 8d KStG erfüllt sind:Dazu: Zugang zum fortführungsgebundenen Verlustvortrag (Betrag laut Zeile 232 abzüglich Betrag laut Zeile 234 zuzüglich Summe der Beträge laut Zeilen 235 bis 237). (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "239",
+            "label": "Im Betrag laut Zeile 232 enthaltener zum Schluss des Veranlagungszeitraums verbleibender fortführungsgebundener Verlustvortrag (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

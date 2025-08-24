@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "5 - Einkünfte aus Vermietung und Verpachtung",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "12",
+            "label": "Dazu / Davon ab: Einkünfte aus Vermietung und Verpachtung (laut gesonderter Ermittlung) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "context_label": "2 - Einkünfte aus Gewerbebetrieb",
+    "sections": [
+      {
+        "section_label": "Laufender Gewinn",
+        "rows": [
+          {
+            "row": "2",
+            "label": "Dazu / Davon ab: Einkünfte aus Gewerbebetrieb laut Zeile 300 der Anlage GK; bei zusätzlichem Rumpfwirtschaftsjahr: Einkünfte aus Gewerbebetrieb des zweiten im Veranlagungszeitraum endenden Wirtschaftsjahres; bei mehreren Betrieben: Einkünfte aus Gewerbebetrieb der ersten Anlage GK (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "3",
+            "label": "Dazu / Davon ab: Bei zusätzlichem Rumpfwirtschaftsjahr: Einkünfte aus Gewerbebetrieb des ersten im Veranlagungszeitraum endenden Wirtschaftsjahres (laut Zeile 300 der Anlage GK für das erste Wirtschaftsjahr) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "4",
+            "label": "Bei mehreren Betrieben: Dazu / Davon ab: Einkünfte aus Gewerbebetrieb laut Zeile 300 der übrigen Anlagen GK (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Veräußerungs- / Aufgabegewinn",
+        "rows": [
+          {
+            "row": "5",
+            "label": "Dazu: Veräußerungspreis aller im laufenden Veranlagungszeitraum veräußerten/aufgegebenen Betriebe (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "6",
+            "label": "Davon ab: Veräußerungskosten (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "7",
+            "label": "Davon ab: Wert des Betriebsvermögens (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "7a",
+            "label": "Dazu: Einkünfte aus Gewerbebetrieb nach § 17 EStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

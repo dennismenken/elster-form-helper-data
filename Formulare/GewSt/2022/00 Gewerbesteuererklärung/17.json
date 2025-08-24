@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "13 - Negative Einkünfte aus der Veräußerung oder der Bewertung von Finanzinstrumenten oder Anteilen an einer Körperschaft nach § 2 Absatz 5",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "122",
+            "label": "Negative Einkünfte des übernehmenden Rechtsträgers nach § 2 Absatz 5 UmwStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

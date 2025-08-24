@@ -1,0 +1,37 @@
+[
+  {
+    "context_label": "27 - Verlustabzug",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "56",
+            "label": "Davon ab: Verlustabzug aufgrund der Verrechnung mit dem Verlustvortrag (nicht in den Fällen des § 8 Absatz 9 KStG); (Summe der Beträge laut Zeilen 25 und 27 der Anlage Verluste oder des Betrages laut Zeile 5 der Anlage Invest-Verluste) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "57",
+            "label": "Davon ab: Verlustabzug aufgrund der Verrechnung mit dem Verlustvortrag (in den Fällen des § 8 Absatz 9 KStG); (Betrag laut Zeile 233 aller Anlagen ÖHK) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "58",
+            "label": "Davon ab: Verlustabzug aufgrund eines Verlustrücktrags aus dem folgenden Veranlagungszeitraum, gegebenenfalls unter Berücksichtigung des § 2 Absatz 4 Satz 3 UmwStG und des § 3a Absatz 3 Satz 2 Nummer 12 Satz 2 EStG (nicht in den Fällen des § 8 Absatz 9 KStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "59",
+            "label": "Davon ab: Verlustabzug aufgrund eines Verlustrücktrags aus dem folgenden Veranlagungszeitraum gegebenenfalls unter Berücksichtigung des § 2 Absatz 4 Satz 3 UmwStG und des § 3a Absatz 3 Satz 2 Nummer 12 Satz 2 EStG (in den Fällen des § 8 Absatz 9 KStG) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

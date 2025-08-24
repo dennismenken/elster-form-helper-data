@@ -1,0 +1,37 @@
+[
+  {
+    "context_label": "12 - Zinsschranke",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Nicht bei Organgesellschaften:",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "296",
+            "label": "Dazu: Zinsaufwendungen im Sinne des § 4h Absatz 3 Satz 2 und 4 EStG des laufenden Wirtschaftsjahres (Betrag laut Zeile 11 der Anlage Zinsschranke) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "297",
+            "label": "Dazu: Zinsaufwendungen im Sinne des § 4h Absatz 3 Satz 2 und 4 EStG des laufenden Wirtschaftsjahres der Organgesellschaft(en) (Betrag laut Zeile 12 der Anlage Zinsschranke) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "298",
+            "label": "Davon ab: Nach Anwendung des § 4h EStG in Verbindung mit § 8 Absatz 1, § 8a KStG als Betriebsausgaben abziehbare Zinsaufwendungen (Betrag laut Zeile 24 der Anlage Zinsschranke) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

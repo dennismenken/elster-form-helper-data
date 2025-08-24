@@ -1,0 +1,55 @@
+[
+  {
+    "context_label": "Veräußerungsverluste und sonstige Gewinnminderungen nach § 8b Absatz 3 Satz 3 bis 7",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "98",
+            "label": "Name der Beteiligung",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "98",
+            "label": "Veräußerungspreis oder an dessen Stelle tretender Wert (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "98",
+            "label": "Veräußerungskosten (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "98",
+            "label": "Buchwert des Anteils (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "98",
+            "label": "Verlust im Sinne des § 8b Absatz 3 KStG (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "98",
+            "label": "Gewinnminderung auf den Anteil an der Körperschaft nach § 8b Absatz 3 Satz 3 KStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "98",
+            "label": "Gewinnminderungen auf Darlehensforderung nach § 8b Absatz 3 Satz 4 folgende KStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

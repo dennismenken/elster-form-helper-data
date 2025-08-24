@@ -1,0 +1,31 @@
+[
+  {
+    "context_label": "3 - Anrechenbare Beträge",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "21",
+            "label": "Bei der Beförderungseinzelbesteuerung entrichtete Umsatzsteuer (§ 18 Absatz 5b Satz 2 UStG) - Belege bitte gesondert übermitteln - (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "22",
+            "label": "Entrichtete Sicherheitsleistungen (§ 18 Absatz 12 Satz 5 UStG) - Belege bitte gesondert übermitteln - (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "23",
+            "label": "Summe (zu übertragen in Zeile 166 der Steuererklärung) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

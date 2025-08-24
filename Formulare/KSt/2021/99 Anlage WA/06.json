@@ -1,0 +1,45 @@
+[
+  {
+    "context_label": "5 - Angaben zum fortführungsgebundenen Verlust- und / oder Zinsvortrag nach § 8d",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "12",
+            "label": "Der Antrag nach § 8d KStG wird gestellt. Die gesetzlichen Voraussetzungen hierfür liegen vollumfänglich vor; insbesondere wurde seit dem Beginn des dritten Veranlagungszeitraums, der dem schädlichen Beteiligungserwerb vorausgeht, ausschließlich derselbe Geschäftsbetrieb unterhalten und zusätzlich hat in diesem Zeitraum bis zum Schluss des Veranlagungszeitraums 2021 kein Ereignis im Sinne des § 8d Absatz 2 KStG stattgefunden.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": null,
+            "label": "Erforderliche Angaben zu § 8d Absatz 2 KStG, wenn zum Schluss des vorangegangenen Veranlagungszeitraums oder Wirtschaftsjahres ein fortführungsgebundener Verlust- oder Zinsvortrag festgestellt wurde",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "13",
+            "label": "Im Veranlagungszeitraum sind Ereignisse im Sinne des § 8d Absatz 2 KStG eingetreten. Die festgestellten fortführungsgebundenen Verlustvorträge gehen unter.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "14",
+            "label": "Es liegen stille Reserven zum Schluss des vorangegangenen Veranlagungszeitraums (§ 8d Absatz 2 Satz 1 zweiter Halbsatz KStG) vor.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

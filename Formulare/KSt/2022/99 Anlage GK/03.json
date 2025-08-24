@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "1 - Allgemeine Angaben",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "1",
+            "label": "Bei mehreren Betrieben:Bezeichnung des Betriebs",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "2",
+            "label": "Wirtschaftsjahr vom (TT.MM.JJJJ)",
+            "type": "daterange",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

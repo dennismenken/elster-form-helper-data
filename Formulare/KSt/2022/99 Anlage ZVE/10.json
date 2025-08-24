@@ -1,0 +1,85 @@
+[
+  {
+    "context_label": "7 - Sonstige Einkünfte",
+    "sections": [
+      {
+        "section_label": "Einnahmen aus wiederkehrenden Bezügen",
+        "rows": [
+          {
+            "row": "13",
+            "label": "Dazu: Einnahmen (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "14",
+            "label": "Davon ab: Werbungskosten (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Private Veräußerungsgeschäfte",
+        "rows": [
+          {
+            "row": "15",
+            "label": "Dazu / Davon ab: Einkünfte aus privaten Veräußerungsgeschäften vor Berücksichtigung der Freigrenze nach § 23 Absatz 3 Satz 5 EStG (Übertrag nach Zeile 15a) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "15a",
+            "label": "Davon ab: Freigrenze nach § 23 Absatz 3 Satz 5 EStG (nur wenn Betrag laut Zeile 15 größer als Null aber kleiner als 600 €: Betrag laut Zeile 15) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "15b",
+            "label": "Davon ab: Verrechnung mit einem vortragsfähigen Verlust oder Berücksichtigung eines Verlustrücktrags (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "15c",
+            "label": "Dazu: Negativer Betrag laut Zeile 15 (mit umgekehrtem Vorzeichen eintragen) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Leistungen",
+        "rows": [
+          {
+            "row": "16",
+            "label": "Dazu / Davon ab: Einkünfte aus Leistungen nach § 22 Nummer 3 EStG vor Berücksichtigung der Freigrenze nach § 22 Nummer 3 Satz 2 EStG (Übertrag nach Zeile 16a) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "16a",
+            "label": "Davon ab: Freigrenze nach § 22 Nummer 3 Satz 2 EStG (nur wenn Betrag laut Zeile 16 größer als Null aber kleiner als 256 €: Betrag laut Zeile 16) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "16b",
+            "label": "Davon ab: Verrechnung mit einem vortragsfähigen Verlust oder Berücksichtigung eines Verlustrücktrags (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "16c",
+            "label": "Dazu: Negativer Betrag laut Zeile 16 (mit umgekehrtem Vorzeichen eintragen) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

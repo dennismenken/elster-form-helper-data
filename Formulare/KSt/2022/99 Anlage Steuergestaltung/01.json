@@ -1,0 +1,37 @@
+[
+  {
+    "context_label": "Anlagen Steuergestaltung",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Nutzung grenzüberschreitender Steuergestaltungen",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Registriernummer oder Bezeichnung der Steuergestaltungen, soweit noch keine Registrier- und Offenlegungsnummer vorliegen",
+            "rows": [
+              {
+                "row": null,
+                "label": "Registriernummer oder Bezeichnung der Steuergestaltungen, soweit noch keine Registrier- und Offenlegungsnummer vorliegen",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

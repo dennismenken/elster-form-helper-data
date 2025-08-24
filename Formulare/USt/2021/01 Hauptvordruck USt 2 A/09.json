@@ -1,0 +1,68 @@
+[
+  {
+    "context_label": "8 - G. Innergemeinschaftliche Dreiecksgeschäfte (§ 25b )",
+    "sections": [
+      {
+        "section_label": "Lieferungen des ersten Abnehmers",
+        "rows": [
+          {
+            "row": "92",
+            "label": "Bemessungsgrundlage ohne Umsatzsteuer",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Lieferungen, für die der letzte Abnehmer die Umsatzsteuer schuldet",
+        "rows": [
+          {
+            "row": "94",
+            "label": "zum Steuersatz von 19 Prozent",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          },
+          {
+            "row": "95",
+            "label": "zum Steuersatz von 7 Prozent",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          },
+          {
+            "row": "96",
+            "label": "zu anderen Steuersätzen",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Summe",
+        "rows": [
+          {
+            "row": "97",
+            "label": "Summe der Steuer (zu übertragen in Zeile 155)",
+            "type": "text",
+            "values": [
+              "Steuer (Euro, Cent)"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

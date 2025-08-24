@@ -1,0 +1,65 @@
+[
+  {
+    "context_label": "7 - Auflösung steuerbilanzieller Ausgleichsposten nach § 34 Absatz 6e",
+    "sections": [
+      {
+        "section_label": "Einzelangaben",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Name der Beteiligung an der (gegebenenfalls ehemaligen) Organgesellschaft",
+            "rows": [
+              {
+                "row": null,
+                "label": "Name der Beteiligung an der (gegebenenfalls ehemaligen) Organgesellschaft",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Summe",
+        "rows": [
+          {
+            "row": "215",
+            "label": "Davon ab / Dazu: Im bilanziellen Ergebnis enthaltener Ertrag/Aufwand aus der Anwendung des Angleichungsfaktors nach § 34 Absatz 6e Satz 9 bis 12 KStG",
+            "type": "text",
+            "values": [
+              "Hauptspalte (Euro)"
+            ]
+          },
+          {
+            "row": "216",
+            "label": "Davon ab: Summe der Beteiligungserträge nach § 34 Absatz 6e Satz 13 KStG, die nicht in die Rücklage nach § 34 Absatz 6e Satz 15 KStG eingestellt wurden (Summe aller Beträge laut Zeile 211 vermindert um die Summe aller Beträge laut Zeile 212, wenn § 8b Absatz 7 oder 8 KStG nicht anwendbar sind; Übertrag in die Hauptspalte (nicht bei Organgesellschaften))",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)",
+              "Hauptspalte (Euro)"
+            ]
+          },
+          {
+            "row": "217",
+            "label": "Davon ab: Auflösung der Rücklage nach § 34 Absatz 6e Satz 17 KStG im laufenden Wirtschaftsjahr (ein Zehntel der Summe der Beträge aller Zeilen 212, bei denen § 8b Absatz 7 oder 8 KStG nicht anwendbar sind; Übertrag in Hauptspalte (nicht bei Organgesellschaften))",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)",
+              "Hauptspalte (Euro)"
+            ]
+          },
+          {
+            "row": "218",
+            "label": "Dazu: Nichtabziehbare Ausgaben nach § 8b Absatz 3 Satz 1 in Verbindung mit § 34 Absatz 6e Satz 14 und Satz 20 KStG (5 % der Beträge laut Zeilen 216 und 217 Hauptspalte)",
+            "type": "text",
+            "values": [
+              "Hauptspalte (Euro)"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

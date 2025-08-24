@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "22 - Minderung der laufenden Verluste nach § 3a Absatz 3 Satz 2 Nummer 8",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "41",
+            "label": "Dazu: Minderung des laufenden Verlustes des Sanierungsjahres des zu sanierenden Unternehmens nach § 3a Absatz 3 Satz 2 Nummer 8 EStG (Betrag laut Zeile 17 der Anlage SAN) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "42",
+            "label": "Dazu: Minderung des ausgleichsfähigen Verlustes aus allen anderen Einkunftsarten des Veranlagungszeitraums, in dem das Sanierungsjahr endet nach § 3a Absatz 3 Satz 2 Nummer 9 EStG (Betrag laut Zeile 19 der Anlage SAN) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

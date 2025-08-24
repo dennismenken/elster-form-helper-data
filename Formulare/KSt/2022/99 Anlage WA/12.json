@@ -1,0 +1,97 @@
+[
+  {
+    "context_label": "Empfänger der Vergütung",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "30",
+            "label": "Vor- und Nachname",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "30a",
+            "label": "Straße und Hausnummer",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "30b",
+            "label": "Postleitzahl und Ort",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "30c",
+            "label": "Weitere Adressangaben",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "30d",
+            "label": "Staat",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "30e",
+            "label": "Geleistete Vergütung (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "30f",
+            "label": "Einbehaltener und abgeführter Steuerabzug (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "30g",
+            "label": "Einbehaltener und abgeführter Solidaritätszuschlag auf den Steuerabzug (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "33",
+            "label": "Von der geleisteten Vergütung wurde der Steuerabzug nach § 73f EStDV nicht beziehungsweise nicht in voller Höhe vorgenommen",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "34",
+            "label": "In den Fällen des § 73f EStDV: wegen Abführung an GEMA",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "34a",
+            "label": "In den Fällen des § 73f EStDV: wegen Abführung an",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "34b",
+            "label": "Von der geleisteten Vergütung wurde der Steuerabzug nach § 50c EStG nicht beziehungsweise nicht in voller Höhe vorgenommen",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "35",
+            "label": "In den Fällen des § 50c EStG: auf Grund der Bescheinigung des Bundeszentralamts für Steuern vom (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "35a",
+            "label": "Aktenzeichen der Bescheinigung des Bundeszentralamts für Steuern für den Steuerabzug",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

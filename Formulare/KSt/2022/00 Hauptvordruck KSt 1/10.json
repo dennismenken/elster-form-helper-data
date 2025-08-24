@@ -1,0 +1,65 @@
+[
+  {
+    "context_label": "Einzelaufstellung der Angaben zu Anteilseignern",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "21a",
+            "label": "Die Angaben haben sich bei diesem Anteilseigner gegenüber dem Vorjahr geändert.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "22b",
+            "label": "Name (bei natürlichen Personen Vor- und Nachname)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "22c",
+            "label": "Straße und Hausnummer",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "22d",
+            "label": "Postleitzahl und Wohnort",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "22a",
+            "label": "Identifikationsnummer",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Besitzdauer",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Höhe der Beteiligung in Euro",
+            "rows": [
+              {
+                "row": null,
+                "label": "Höhe der Beteiligung in Euro",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

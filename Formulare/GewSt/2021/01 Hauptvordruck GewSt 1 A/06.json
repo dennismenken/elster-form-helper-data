@@ -1,0 +1,68 @@
+[
+  {
+    "context_label": "5 - Mitteilung von grenzüberschreitenden Steuergestaltungen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Es wird eine grenzüberschreitende Steuergestaltung nach §§ 138d folgende AO genutzt, deren steuerlicher Vorteil sich erstmals im laufenden Erhebungszeitraum auswirken soll.",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Registriernummer",
+            "rows": [
+              {
+                "row": null,
+                "label": "Registriernummer",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": [
+              {
+                "section_label": null,
+                "rows": [
+                  {
+                    "row": "22",
+                    "label": "Registriernummer",
+                    "type": "text",
+                    "values": []
+                  },
+                  {
+                    "row": "23",
+                    "label": "Offenlegungsnummer",
+                    "type": "text",
+                    "values": []
+                  },
+                  {
+                    "row": "24",
+                    "label": "Es liegen noch keine Registriernummer und Offenlegungsnummer vor.",
+                    "type": "checkbox",
+                    "values": []
+                  },
+                  {
+                    "row": "25",
+                    "label": "Bezeichnung der Steuergestaltungen, soweit noch keine Registrier- und Offenlegungsnummer vorliegen",
+                    "type": "text",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

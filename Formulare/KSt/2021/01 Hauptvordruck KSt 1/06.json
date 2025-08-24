@@ -1,0 +1,49 @@
+[
+  {
+    "context_label": "6 - Wirtschaftsjahr",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "14",
+            "label": "Erstes Wirtschaftsjahr vom (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "14",
+            "label": "Erstes Wirtschaftsjahr bis (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "14",
+            "label": "Gegebenenfalls zweites Wirtschaftsjahr vom (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "14",
+            "label": "Gegebenenfalls zweites Wirtschaftsjahr bis (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "14a",
+            "label": "Die Körperschaft wurde im Veranlagungszeitraum neu gegründet.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "15",
+            "label": "Die Körperschaft wurde aufgelöst und befindet sich in Abwicklung (Liquidation). Als Wirtschaftsjahr wurde der Besteuerungszeitraum nach § 11 KStG angegeben. Datum der Auflösung: (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

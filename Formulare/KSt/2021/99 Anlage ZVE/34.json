@@ -1,0 +1,37 @@
+[
+  {
+    "context_label": "31 - Einkommen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "68",
+            "label": "Einkommen (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "68a",
+            "label": "Nur bei Genossenschaften und steuerpflichtigen Vereinen, die ausschließlich Einkünfte aus Land- und Forstwirtschaft erzielen:Die Voraussetzungen für einen Freibetrag nach § 25 KStG liegen vor",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "68b",
+            "label": "Davon ab: Freibetrag nach § 25 KStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "69",
+            "label": "Davon ab: Freibetrag nach § 24 KStG für bestimmte Körperschaften (Betrag laut Zeile 68, höchstens 5.000 Euro) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

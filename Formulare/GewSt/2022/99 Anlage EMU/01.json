@@ -1,0 +1,37 @@
+[
+  {
+    "context_label": "Anlagen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Angaben zur mitunternehmerbezogenen Verlustverrechnung",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Name/Firma des Beteiligten",
+            "rows": [
+              {
+                "row": null,
+                "label": "Name/Firma des Beteiligten",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

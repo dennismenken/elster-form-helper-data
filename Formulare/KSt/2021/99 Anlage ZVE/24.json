@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "21 - Wegfallender Verlust des laufenden Veranlagungszeitraums bei Abspaltung",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "39",
+            "label": "Zwischensumme (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "40",
+            "label": "Dazu: Im Falle einer Abspaltung bei der übertragenden Körperschaft: wegfallender Verlust aus dem laufenden Veranlagungszeitraum nach § 15 Absatz 3, § 16 UmwStG (ohne Vorzeichen eintragen) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

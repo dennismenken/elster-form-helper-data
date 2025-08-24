@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "4 - Ergänzende Angaben zur Steuererklärung",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "13",
+            "label": "Über die Angaben in der Steuererklärung hinaus sind weitere oder abweichende Angaben oder Sachverhalte zu berücksichtigen.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "13",
+            "label": "Ergänzende Angaben zur Steuererklärung",
+            "type": "",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

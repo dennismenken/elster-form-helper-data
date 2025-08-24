@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "Gewerbesteuererklärung",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Erklärung zur gesonderten Feststellung des Gewerbeverlustes und zur gesonderten Feststellung des Zuwendungsvortrags",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

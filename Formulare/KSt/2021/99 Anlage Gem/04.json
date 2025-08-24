@@ -1,0 +1,31 @@
+[
+  {
+    "context_label": "2 - Gesamteinnahmen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "9",
+            "label": "Gesamteinnahmen des Jahres 2021 (einschließlich Beiträge, Spenden, Zuschüsse, Einnahmen aus der Vermögensverwaltung und aus wirtschaftlichen Betätigungen, Umsatzsteuer) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "9a",
+            "label": "Gesamteinnahmen des Jahres 2020 (einschließlich Beiträge, Spenden, Zuschüsse, Einnahmen aus der Vermögensverwaltung und aus wirtschaftlichen Betätigungen, Umsatzsteuer) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "9b",
+            "label": "Gesamteinnahmen des Jahres 2019 (einschließlich Beiträge, Spenden, Zuschüsse, Einnahmen aus der Vermögensverwaltung und aus wirtschaftlichen Betätigungen, Umsatzsteuer) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

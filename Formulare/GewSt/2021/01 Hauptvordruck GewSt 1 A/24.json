@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "18 - Angaben für Zwecke der Steuerermäßigung nach § 35",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "143",
+            "label": "Nur bei Personengesellschaften oder Einzelunternehmen:Veräußerungs- oder Aufgabegewinn nach § 18 Absatz 3 UmwStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

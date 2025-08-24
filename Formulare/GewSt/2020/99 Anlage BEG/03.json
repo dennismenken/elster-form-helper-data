@@ -1,0 +1,61 @@
+[
+  {
+    "context_label": "2 - Angaben zur Ausschüttung",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "6",
+            "label": "Gesamtbetrag der im Wirtschaftsjahr erhaltenen Bezüge im Sinne des § 20 Absatz 1 Nummer 1, 2, 9 und 10 Buchstabe a EStG aus dieser Beteiligung (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "7",
+            "label": "Die Beteiligung erfüllt die Voraussetzungen des",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "§ 9 Nummer 2a GewStG",
+              "§ 9 Nummer 7 GewStG",
+              "§ 9 Nummer 8 GewStG",
+              "Steuerbefreiung nach § 3 Nummer 41 Buchstabe a EStG (nur bei Organgesellschaften)"
+            ]
+          },
+          {
+            "row": "8",
+            "label": "Mit den Bezügen laut Zeile 6 in unmittelbarem Zusammenhang stehende Aufwendungen im Sinne des § 8 Nummer 1 GewStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "9",
+            "label": "Mit den Bezügen laut Zeile 6 in unmittelbarem Zusammenhang stehende andere Aufwendungen (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Nur wenn die Beteiligung im Sonderbetriebsvermögen gehalten wird:",
+        "rows": [
+          {
+            "row": "10",
+            "label": "Nur wenn die Beteiligung im Sonderbetriebsvermögen gehalten wird: Bezogen auf die im Sonderbetriebsvermögen gehaltene Beteiligung sind Körperschaften unmittelbar oder mittelbar über eine Personengesellschaft beteiligt in Höhe von (Prozent) (X,XXXXXX)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "11",
+            "label": "Nur wenn die Beteiligung im Sonderbetriebsvermögen gehalten wird: Bezogen auf die im Sonderbetriebsvermögen gehaltene Beteiligung sind natürliche Personen unmittelbar oder mittelbar über eine Personengesellschaft beteiligt in Höhe von (100 Prozent abzüglich Prozentsatz laut Zeile 10) (Prozent)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

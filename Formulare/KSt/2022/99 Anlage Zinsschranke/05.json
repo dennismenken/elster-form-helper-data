@@ -1,0 +1,55 @@
+[
+  {
+    "context_label": "3 - Fortführungsgebundener Zinsvortrag nach § 8d in Verbindung mit § 8a",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "28",
+            "label": "Verbleibender fortführungsgebundener Zinsvortrag zum Schluss des vorangegangenen Wirtschaftsjahres (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "29",
+            "label": "Davon ab: Untergang des fortführungsgebundenen Zinsvortrags aufgrund eines schädlichen Ereignisses im Sinne des § 8d Absatz 2 KStG (Betrag laut Zeile 28) (Übertrag nach Zeile 6) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "30",
+            "label": "Davon ab: Wegfall der Fortführungsgebundenheit bei Vorliegen eines schädlichen Beteiligungserwerbs nach § 8c KStG (Betrag laut Zeile 28) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "31",
+            "label": "Davon ab: In den Beträgen laut Zeilen 8, 8a und 9 enthaltener fortführungsgebundener Zinsvortrag; höchstens Betrag laut Zeile 28 abzüglich Summe der Beträge laut Zeilen 29 und 30 (Euro) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "33",
+            "label": "Davon ab: In den Beträgen laut Zeilen 24 und 26 enthaltener fortführungsgebundener Zinsvortrag; höchstens Betrag laut Zeile 28 abzüglich der Beträge laut Zeilen 29 und 31 (Euro) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "35",
+            "label": "Wenn im Wirtschaftsjahr ein schädlicher Beteiligungserwerb im Sinne des § 8c KStG erfolgte und die Voraussetzungen zur Anwendung des § 8d KStG erfüllt sind:Dazu: Zugang zum fortführungsgebundenen Zinsvortrag (Betrag laut Zeile 27 abzüglich Betrag laut Zeile 28 zuzüglich Summe der Beträge laut Zeilen 29 bis 33) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "36",
+            "label": "Im Betrag laut Zeile 27 enthaltener zum Schluss des laufenden Wirtschaftsjahres verbleibender fortführungsgebundener Zinsvortrag (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

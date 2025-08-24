@@ -1,0 +1,49 @@
+[
+  {
+    "context_label": "1 - Allgemeine Angaben",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Zeile 3 ist nur von Körperschaften im Sinne des § 1 Absatz 1 Nummer 4 und 5 KStG oder von beschränkt steuerpflichtigen Körperschaften auszufüllen.",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Sind mehrere Betriebe vorhanden, sind Erklärungen zum Zins- / EBITDA-Vortrag für jeden einzelnen Betrieb auf einer gesonderten Anlage zu übermitteln.",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "3",
+            "label": "Bezeichnung des Betriebs, für den ein Zins-/EBITDA-Vortrag festzustellen ist:",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "4",
+            "label": "Wirtschaftsjahr vom (TT.MM.JJJJ)",
+            "type": "daterange",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

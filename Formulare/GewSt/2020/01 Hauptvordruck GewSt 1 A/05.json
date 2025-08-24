@@ -1,0 +1,195 @@
+[
+  {
+    "context_label": "5 - Hinzurechnungen",
+    "sections": [
+      {
+        "section_label": "Finanzierungsanteile nach § 8 Nummer 1 GewStG des (ersten) Wirtschaftsjahres (ohne Kürzung um die Beträge laut Zeilen 67 und 67a)",
+        "rows": [
+          {
+            "row": null,
+            "label": "(enden im Erhebungszeitraum zwei Wirtschaftsjahre, sind zusätzlich die Zeilen 48 bis 54 auszufüllen)",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": null,
+            "label": "Beträge in voller Höhe eintragen; der Hinzurechnungsbetrag wird von Amts wegen ermittelt.",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "41",
+            "label": "Entgelte für Schulden (§ 8 Nummer 1 Buchstabe a GewStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "42",
+            "label": "Renten und dauernde Lasten (§ 8 Nummer 1 Buchstabe b GewStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "43",
+            "label": "Gewinnanteile der stillen Gesellschafter (§ 8 Nummer 1 Buchstabe c GewStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "44",
+            "label": "Miet- und Pachtzinsen (einschließlich Leasingraten) für die Benutzung fremder beweglicher Betriebsanlagegüter (§ 8 Nummer 1 Buchstabe d Satz 1 GewStG) (ohne Beträge laut 44a) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "44a",
+            "label": "Miet- und Pachtzinsen (einschließlich Leasingraten) für Elektrofahrzeuge, begünstigte Hybridelektrofahrzeuge und Fahrräder im Sinne des § 8 Nummer 1 Buchstabe d Satz 2 GewStG aus Verträgen, die nach dem 31.12.2019 abgeschlossen worden sind (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "45",
+            "label": "Miet- und Pachtzinsen (einschließlich Leasingraten) für die Benutzung fremder unbeweglicher Betriebsanlagegüter (§ 8 Nummer 1 Buchstabe e GewStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "46",
+            "label": "Aufwendungen für die zeitlich befristete Überlassung von Rechten - insbesondere Konzessionen und Lizenzen - (§ 8 Nummer 1 Buchstabe f GewStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "47",
+            "label": "Im Betrag laut Zeile 46 enthaltene Vergütungen im Sinne des § 50a Absatz 1 Nummer 3 EStG an beschränkt steuerpflichtige Zahlungsempfänger (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Finanzierungsanteile nach § 8 Nummer 1 GewStG für ein zweites, im Erhebungszeitraum endendes Wirtschaftsjahr (ohne Kürzung um die Beträge laut Zeilen 67 und 67a)",
+        "rows": [
+          {
+            "row": null,
+            "label": "Beträge in voller Höhe eintragen; der Hinzurechnungsbetrag wird von Amts wegen ermittelt.",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "48",
+            "label": "Entgelte für Schulden (§ 8 Nummer 1 Buchstabe a GewStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "49",
+            "label": "Renten und dauernde Lasten (§ 8 Nummer 1 Buchstabe b GewStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "50",
+            "label": "Gewinnanteile der stillen Gesellschafter (§ 8 Nummer 1 Buchstabe c GewStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "51",
+            "label": "Miet- und Pachtzinsen (einschließlich Leasingraten) für die Benutzung fremder beweglicher Betriebsanlagegüter (§ 8 Nummer 1 Buchstabe d Satz 1 GewStG) (ohne Beträge laut Zeile 51a) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "51a",
+            "label": "Miet- und Pachtzinsen (einschließlich Leasingraten) für Elektrofahrzeuge, begünstigte Hybridelektrofahrzeuge und Fahrräder im Sinne des § 8 Nummer1 Buchstabe d Satz 2 GewStG aus Verträgen, die nach dem 31.12.2019 abgeschlossen worden sind (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "52",
+            "label": "Miet- und Pachtzinsen (einschließlich Leasingraten) für die Benutzung fremder unbeweglicher Betriebsanlagegüter (§ 8 Nummer 1 Buchstabe e GewStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "53",
+            "label": "Aufwendungen für die zeitlich befristete Überlassung von Rechten - insbesondere Konzessionen und Lizenzen - (§ 8 Nummer 1 Buchstabe f GewStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "54",
+            "label": "Im Betrag laut Zeile 53 enthaltene Vergütungen im Sinne des § 50a Absatz 1 Nummer 3 EStG an beschränkt steuerpflichtige Zahlungsempfänger (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Weitere Hinzurechnungen",
+        "rows": [
+          {
+            "row": "55",
+            "label": "Nur bei einer Kommanditgesellschaft auf Aktien: Gewinnanteile der in § 8 Nummer 4 GewStG bezeichneten Art an persönlich haftende Gesellschafter (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": "Anteile am Verlust von in- und / oder ausländischen Personengesellschaften (§ 8 Nummer 8 GewStG)",
+            "rows": [
+              {
+                "row": "56",
+                "label": "Anteile am Verlust von in- und/oder ausländischen Personengesellschaften (laut Einzelaufstellung) (§ 8 Nummer 8 GewStG; Betrag ohne Minuszeichen) (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": [
+              {
+                "section_label": "Bezeichnung",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Bezeichnung",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Hinzurechnung nach § 8 Nummer 9 bis 12 GewStG",
+            "rows": [
+              {
+                "row": "57",
+                "label": "Nur bei einer Körperschaft: Ausgaben im Sinne des § 9 Absatz 1 Nummer 2 KStG, soweit sie bei der Ermittlung des Gewinns laut Zeile 33 abgezogen worden sind (§ 8 Nummer 9 GewStG) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "58",
+                "label": "Ausschüttungs- und abführungsbedingte Gewinnminderungen bei Beteiligungsbesitz (§ 8 Nummer 10 GewStG); auch soweit die Gewinnminderung Folge einer Auskehrung von Liquidationsraten ist (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "59",
+                "label": "Ausländische Steuern, soweit sie auf Gewinne oder Gewinnanteile entfallen, die nach § 9 GewStG gekürzt werden oder sonst nicht im Gewerbeertrag enthalten sind (§ 8 Nummer 12 GewStG) (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

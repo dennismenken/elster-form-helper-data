@@ -1,0 +1,61 @@
+[
+  {
+    "context_label": "4 - Fortführungsgebundener Gewerbeverlust nach § 10a Satz 11 und 12 in Verbindung mit § 8d",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "101",
+            "label": "Verbleibender festgestellter vortragsfähiger fortführungsgebundener Gewerbeverlust zum Schluss des vorangegangenen Erhebungszeitraums (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "102",
+            "label": "Davon ab: Untergang des festgestellten vortragsfähigen fortführungsgebundenen Gewerbeverlustes aufgrund eines schädlichen Ereignisses im Sinne des § 10a Satz 11 GewStG in Verbindung mit § 8d Absatz 2 KStG (Betrag laut Zeile 101) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "102a",
+            "label": "Davon ab: Wegfall der Fortführungsgebundenheit bei Vorliegen eines schädlichen Beteiligungserwerbs nach § 10a Satz 10 GewStG in Verbindung mit § 8c KStG (Betrag laut Zeile 101) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "103",
+            "label": "Davon ab: Im wegfallenden Gewerbeverlust enthaltener vortragsfähiger fortführungsgebundener Gewerbeverlust (im Betrag laut Zeile 84 enthalten, höchstens Betrag laut Zeile 101 abzüglich Summe der Beträge laut Zeilen 102 und 102a) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "104",
+            "label": "Davon ab: Verrechnung mit dem vortragsfähigen fortführungsgebundenen Gewerbeverlust (Summe der Beträge laut Zeilen 85 und 99, höchstens Betrag laut Zeile 101 abzüglich der Summe der Beträge laut Zeilen 102 bis 103) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "105",
+            "label": "Davon ab: Aufgrund der Veräußerung oder Aufgabe eines angewachsenen Teilbetriebes wegfallender vortragsfähiger fortführungsgebundener Gewerbeverlust (höchstens Betrag laut Zeile 101 abzüglich der Summe der Beträge laut Zeilen 102 bis 104) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "106",
+            "label": "Wenn im Erhebungszeitraum ein schädlicher Beteiligungserwerb im Sinne des § 10a Satz 10 GewStG in Verbindung mit § 8c KStG erfolgte und die Voraussetzungen zur Anwendung des § 8d KStG erfüllt sind:Dazu: Zugang zum vortragsfähigen fortführungsgebundenen Gewerbeverlust (Betrag laut Zeile 98 abzüglich Betrag laut Zeile 101 zuzüglich Summe der Beträge laut Zeilen 102 bis 105) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "107",
+            "label": "Im Betrag laut Zeile 98 enthaltener zum Schluss des Erhebungszeitraums verbleibender vortragsfähiger fortführungsgebundener Gewerbeverlust (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

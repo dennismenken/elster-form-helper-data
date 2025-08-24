@@ -1,0 +1,61 @@
+[
+  {
+    "context_label": "1 - Anrechnung von Abzugssteuern nach § 36 Absatz 2 Nummer 2 in Verbindung mit § 36a",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Ohne entsprechende Beträge der Organgesellschaften; diese sind auf der Anlage OT einzutragen",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "2",
+            "label": "Kapitalertragsteuer laut gesondert übermittelten Steuerbescheinigungen (ohne Beträge laut Zeile 6) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "3",
+            "label": "Solidaritätszuschlag zur Kapitalertragsteuer laut Zeile 2 (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "4",
+            "label": "Kapitalertragsteuer laut gesonderter und einheitlicher Feststellung aus Beteiligungen an Personengesellschaften (ohne Beträge laut Zeile 6) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "5",
+            "label": "Solidaritätszuschlag zur Kapitalertragsteuer laut Zeile 4 (laut gesonderter und einheitlicher Feststellung aus Beteiligungen an Personengesellschaften) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "6",
+            "label": "Kapitalertragsteuer, für die die Voraussetzungen des § 36a Absatz 1 Satz 1 EStG nicht erfüllt sind und die Anrechnung auf zwei Fünftel beschränkt ist (laut gesondert übermittelten Steuerbescheinigungen und laut gesonderter und einheitlicher Feststellung aus Beteiligungen an Personengesellschaften; die Kapitalertragsteuer ist in voller Höhe einzutragen; die Beschränkung der Anrechnung erfolgt von Amts wegen) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "7",
+            "label": "Solidaritätszuschlag zur Kapitalertragsteuer laut Zeile 6 (Euro, Cent)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "context_label": "34 - Aufteilung des zu versteuernden Einkommens nach Steuersätzen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "71",
+            "label": "Von dem zu versteuernden Einkommen (Betrag laut Zeile 70) unterliegen dem Regelsteuersatz von 15 %",
+            "type": "text",
+            "values": [
+              "Einkommensteile (Euro)",
+              "Körperschaftsteuer (auf volle Euro abgerundet) (Euro)"
+            ]
+          },
+          {
+            "row": "72",
+            "label": "Von dem zu versteuernden Einkommen (Betrag laut Zeile 70) unterliegen dem besonderen Steuersatz laut Zeile 72",
+            "type": "text",
+            "values": [
+              "Steuersatz in Prozent (X,XX)",
+              "Begründung für den besonderen Steuersatz",
+              "Einkommensteile (Euro)",
+              "Körperschaftsteuer (auf volle Euro abgerundet) (Euro)"
+            ]
+          },
+          {
+            "row": "73",
+            "label": "Betrag der aufgelösten Rücklage nach § 3 Absatz 4 Satz 2 Forstschäden-Ausgleichsgesetz",
+            "type": "text",
+            "values": [
+              "Einkommensteile (Euro)",
+              "Körperschaftsteuer (auf volle Euro abgerundet) (Euro)"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

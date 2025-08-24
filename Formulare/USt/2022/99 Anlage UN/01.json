@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "Anlage UN zur Umsatzsteuererklärung",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "für im Ausland ansässige Unternehmer",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

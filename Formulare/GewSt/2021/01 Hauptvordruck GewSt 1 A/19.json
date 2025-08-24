@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "13 - Fälle des § 2 Absatz 4 Satz 3 und 4",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "120",
+            "label": "Beim übernehmenden Rechtsträger:Positiver Gewerbeertrag des übertragenden oder einbringenden Rechtsträgers im Rückwirkungszeitraum (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "121",
+            "label": "Nur bei Organträgern:Beim Organträger des übernehmenden Rechtsträgers: Positiver Gewerbeertrag des auf die Organgesellschaft(en) übertragenden oder einbringenden Rechtsträgers im Rückwirkungszeitraum (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "context_label": "6 - -Vortrag bezogen auf das fünfte vorangegangene Wirtschaftsjahr",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "60",
+            "label": "Abschlusszeitpunkt des Wirtschaftsjahres (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "61",
+            "label": "EBITDA-Vortrag zum Schluss des sechsten vorangegangenen Wirtschaftsjahres (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "62",
+            "label": "Davon ab: Verringerung des EBITDA-Vortrags bei Abspaltung (§ 15 Absatz 3, § 16 UmwStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "63",
+            "label": "Davon ab: Verringerung des EBITDA-Vortrags in anderen Fällen (gegebenenfalls unter Beachtung der § 2 Absatz 4 Satz 1, § 20 Absatz 6 Satz 4 UmwStG), insbesondere durch: Aufgabe oder Übertragung eines Betriebs oder Teilbetriebs (§ 8a Absatz 1 KStG in Verbindung mit § 4h Absatz 5 EStG), Ausscheiden einer Organgesellschaft aus dem Organkreis (§ 15 Satz 1 Nummer 3 KStG, § 8a Absatz 1 KStG in Verbindung mit § 4h Absatz 5 EStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "64",
+            "label": "Nicht bei Organgesellschaften:Davon ab: Verbrauch des EBITDA-Vortrags im laufenden Wirtschaftsjahr (Betrag laut Zeile 56 höchstens Betrag laut Zeile 61 abzüglich Beträge laut Zeilen 62 und 63) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "65",
+            "label": "Zwischensumme (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "66",
+            "label": "Davon ab: Minderung des EBITDA-Vortrags nach § 3a Absatz 3 Satz 2 Nummer 13 Buchstabe b EStG (gegebenenfalls anteiliger Betrag laut Zeile 40 der Anlage SAN, höchstens Betrag laut Zeile 65) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "67",
+            "label": "Wegfall des EBITDA-Vortrags des fünften vorangegangenen Wirtschaftsjahres (Übertrag in Zeile 58) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

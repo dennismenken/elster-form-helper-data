@@ -1,0 +1,31 @@
+[
+  {
+    "context_label": "Beteiligungen an Personengesellschaften",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "6",
+            "label": "Name der Personengesellschaft",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "7",
+            "label": "Unternehmensgegenstand",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "8",
+            "label": "Finanzamt",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

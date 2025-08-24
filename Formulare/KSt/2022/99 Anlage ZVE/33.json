@@ -1,0 +1,70 @@
+[
+  {
+    "context_label": "30 - Rechtsfähige Pensions-, Sterbe-, Kranken- und Unterstützungskassen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Zeilen 61 bis 66: Nur bei Überdotierung von rechtsfähigen Pensions-, Sterbe-, Kranken- und Unterstützungskassen",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "61",
+            "label": "Zwischensumme (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "62",
+            "label": "Davon steuerpflichtiges Einkommen in Höhe der Überdotierung (Betrag laut Zeile 61 multipliziert mit dem Wert laut Zeile 45 der Anlage Kassen, dividiert durch den Wert laut Zeile 43 der Anlage Kassen beziehungsweise Betrag laut Zeile 61 multipliziert mit dem Wert laut Zeile 62 der Anlage Kassen, dividiert durch Wert laut Zeile 60 der Anlage Kassen) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "63",
+            "label": "Höhe der im Wirtschaftsjahr getätigten Versorgungsleistungen",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "64",
+            "label": "Festgestellter Betrag nach § 6 Absatz 5a Satz 6 Nummer 2 KStG zum Ende des vorangegangenen Veranlagungszeitraums",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "65",
+            "label": "Davon ab: Betrag nach § 6 Absatz 5a Satz 4 und 5 KStG (wenn Betrag laut Zeile 62 positiv: niedrigerer Betrag aus den Zeilen 62, 63 oder 64)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)",
+              "Hauptspalte (Euro)"
+            ]
+          },
+          {
+            "row": "66",
+            "label": "Festzustellender Betrag nach § 6 Absatz 5a Satz 6 Nummer 2 KStG zum Ende des laufenden Veranlagungszeitraums (Betrag laut Zeile 64 abzüglich Betrag laut Zeile 65)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

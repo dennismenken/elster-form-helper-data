@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "6 - Nicht dem Steuerabzug unterliegende Einkünfte im Sinne des § 6 Absatz 2 Satz 2 von (Spezial-)Investmentfonds",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "12a",
+            "label": "Dazu / Davon ab: Inländische Immobilienerträge nach § 6 Absatz 4 InvStG sowie sonstige inländische Einkünfte nach § 6 Absatz 5 InvStG, die keinem Steuerabzug unterliegen (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

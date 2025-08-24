@@ -1,0 +1,55 @@
+[
+  {
+    "context_label": "5 - Fortführungsgebundener Verlustvortrag nach § 8d",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "29",
+            "label": "Verbleibender fortführungsgebundener Verlustvortrag zum Schluss des vorangegangenen Veranlagungszeitraums (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "30",
+            "label": "Davon ab: Untergang des fortführungsgebundenen Verlustvortrags aufgrund eines schädlichen Ereignisses im Sinne des § 8d Absatz 2 KStG (Betrag laut Zeile 29) (Übertrag nach Zeile 13) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "31",
+            "label": "Davon ab: Wegfall der Fortführungsgebundenheit bei Vorliegen eines schädlichen Beteiligungserwerbs nach § 8c KStG (Betrag laut Zeile 29) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "32",
+            "label": "Davon ab: Im wegfallenden Verlustvortrag enthaltener fortführungsgebundener Verlustvortrag (im Betrag laut Zeile 16 enthalten, höchstens Betrag laut Zeile 29 abzüglich Summe der Beträge laut Zeilen 30 und 31) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "34",
+            "label": "Davon ab: Verrechnung mit dem fortführungsgebundenen Verlust (Summe der Beträge laut Zeilen 18, 25 und 27, höchstens Betrag laut Zeile 29 abzüglich Summe der Beträge laut Zeilen 30 bis 32) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "36",
+            "label": "Wenn im Veranlagungszeitraum ein schädlicher Beteiligungserwerb im Sinne des § 8c KStG erfolgte und die Voraussetzungen zur Anwendung des § 8d KStG erfüllt sind:Dazu: Zugang zum fortführungsgebundenen Verlustvortrag (Betrag laut Zeile 28 abzüglich Betrag laut Zeile 29 zuzüglich Summe der Beträge laut Zeilen 30 bis 34) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "37",
+            "label": "Im Betrag laut Zeile 28 enthaltener zum Schluss des Veranlagungszeitraums verbleibender fortführungsgebundener Verlustvortrag (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

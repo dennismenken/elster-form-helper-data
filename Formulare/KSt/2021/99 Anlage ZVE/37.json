@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "34 - Unterstützung oder Förderung politischer Parteien durch Berufsverbände",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "74",
+            "label": "Mittel, die für die unmittelbare oder mittelbare Unterstützung oder Förderung politischer Parteien verwendet wurden (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "75",
+            "label": "Körperschaftsteuer (50 Prozent des Betrages aus Zeile 74) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

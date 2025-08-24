@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "4 - Einkünfte aus Kapitalvermögen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "11",
+            "label": "Dazu: Einkünfte aus Kapitalvermögen ohne Beträge laut Zeile 11a (unter Berücksichtigung des § 20 Absatz 6 und 9 EStG; laut gesonderter Ermittlung) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "11a",
+            "label": "Dazu / Davon ab: Einkünfte aus Kapitalvermögen, bei denen § 8 Absatz 10 Satz 2 KStG in Verbindung mit § 32d Absatz 2 Nummer 1 oder 3 EStG erfüllt ist (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

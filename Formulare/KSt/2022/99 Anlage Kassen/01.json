@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "Anlage Kassen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Steuerbefreiung von rechtsfähigen Pensions-, Sterbe-, Kranken- und Unterstützungskassen (§ 5 Absatz 1 Nummer 3 KStG, § 3 Nummer 9 GewStG)",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

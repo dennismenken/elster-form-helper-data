@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "2 - Träger der Kasse",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Name des Unternehmens, das Zuwendungen leistet",
+            "rows": [
+              {
+                "row": null,
+                "label": "Name des Unternehmens, das Zuwendungen leistet",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

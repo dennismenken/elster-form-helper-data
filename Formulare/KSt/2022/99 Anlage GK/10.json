@@ -1,0 +1,67 @@
+[
+  {
+    "context_label": "Einzelangaben zum Übernahmegewinn/-verlust nach § 12 Absatz 2",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "104",
+            "label": "Name des übertragenden Rechtsträgers",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "105",
+            "label": "Wert mit dem das übernommene Betriebsvermögen in der Steuerbilanz angesetzt wurde (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "106",
+            "label": "Davon ab: Buchwert der Anteile am übertragenden Rechtsträger (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "107",
+            "label": "Davon ab: Kosten für den Vermögensübergang (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "108",
+            "label": "Übernahmegewinn/-verlust nach § 12 Absatz 2 UmwStG (Übertrag nach Zeile 111) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "109",
+            "label": "Übernahmegewinn nach § 12 Absatz 2 Satz 2 UmwStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "110",
+            "label": "Übernahmegewinn nach § 12 Absatz 2 Satz 1 UmwStG (Positiver Betrag laut Zeile 108 abzüglich Betrag laut Zeile 109) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "111",
+            "label": "Übernahmeverlust nach § 12 Absatz 2 Satz 1 UmwStG (Negativer Betrag laut Zeile 108) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "112",
+            "label": "Betrag des in der Steuerbilanz erfolgsneutral angesetzten übernommenen Vermögens (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

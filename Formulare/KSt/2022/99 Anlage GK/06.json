@@ -1,0 +1,755 @@
+[
+  {
+    "context_label": "3 - Außerbilanzielle Korrekturen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "38",
+            "label": "Dazu / Davon ab: Betrag nach § 4e Absatz 3 EStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "39",
+            "label": "Dazu / Davon ab: Betrag nach § 4f EStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "40",
+            "label": "Dazu: Nichtabziehbare Aufwendungen bei Besteuerungsinkongruenzen nach § 4k EStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Nichtabziehbare Aufwendungen für Rechteüberlassungen nach § 4j Absatz 3 EStG",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Einzelangaben",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Staat",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Staat",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": [
+                  {
+                    "section_label": null,
+                    "rows": [
+                      {
+                        "row": "41",
+                        "label": "Staat",
+                        "type": "select",
+                        "values": [
+                          "Keine Angabe",
+                          "Afghanistan",
+                          "Ägypten",
+                          "Albanien",
+                          "Algerien",
+                          "Andorra",
+                          "Angola",
+                          "Antigua und Barbuda",
+                          "Äquatorialguinea",
+                          "Argentinien",
+                          "Armenien",
+                          "Aserbaidschan",
+                          "Äthiopien",
+                          "Australien",
+                          "Bahamas",
+                          "Bahrain",
+                          "Bangladesch",
+                          "Barbados",
+                          "Belgien",
+                          "Belize",
+                          "Benin",
+                          "Bhutan",
+                          "Bolivien",
+                          "Bosnien und Herzegowina",
+                          "Botsuana",
+                          "Brasilien",
+                          "Brunei Darussalam",
+                          "Bulgarien",
+                          "Burkina Faso",
+                          "Burundi",
+                          "Chile",
+                          "China",
+                          "Cookinseln",
+                          "Costa Rica",
+                          "Cote d'Ivoire",
+                          "Dänemark",
+                          "Dominica",
+                          "Dominikanische Republik",
+                          "Dschibuti",
+                          "Ecuador",
+                          "El Salvador",
+                          "Eritrea",
+                          "Estland",
+                          "Eswatini",
+                          "Fidschi",
+                          "Finnland",
+                          "Frankreich",
+                          "Gabun",
+                          "Gambia",
+                          "Georgien",
+                          "Ghana",
+                          "Grenada",
+                          "Griechenland",
+                          "Guatemala",
+                          "Guinea",
+                          "Guinea-Bissau",
+                          "Guyana",
+                          "Haiti",
+                          "Honduras",
+                          "Indien",
+                          "Indonesien",
+                          "Irak",
+                          "Iran",
+                          "Irland",
+                          "Island",
+                          "Israel",
+                          "Italien",
+                          "Jamaika",
+                          "Japan",
+                          "Jemen",
+                          "Jordanien",
+                          "Kambodscha",
+                          "Kamerun",
+                          "Kanada",
+                          "Kap Verde",
+                          "Kasachstan",
+                          "Katar",
+                          "Kenia",
+                          "Kirgisistan",
+                          "Kiribati",
+                          "Kolumbien",
+                          "Komoren",
+                          "Kongo",
+                          "Kongo, Demokratische Republik",
+                          "Korea, Demokratische Volksrepublik",
+                          "Korea, Republik",
+                          "Kosovo",
+                          "Kroatien",
+                          "Kuba",
+                          "Kuwait",
+                          "Laos",
+                          "Lesotho",
+                          "Lettland",
+                          "Libanon",
+                          "Liberia",
+                          "Libyen",
+                          "Liechtenstein",
+                          "Litauen",
+                          "Luxemburg",
+                          "Madagaskar",
+                          "Malawi",
+                          "Malaysia",
+                          "Malediven",
+                          "Mali",
+                          "Malta",
+                          "Marokko",
+                          "Marshallinseln",
+                          "Mauretanien",
+                          "Mauritius",
+                          "Mexiko",
+                          "Föderierte Staaten von Mikronesien",
+                          "Moldau",
+                          "Monaco",
+                          "Mongolei",
+                          "Montenegro",
+                          "Mosambik",
+                          "Myanmar",
+                          "Namibia",
+                          "Nauru",
+                          "Nepal",
+                          "Neuseeland",
+                          "Nicaragua",
+                          "Niederlande",
+                          "Niger",
+                          "Nigeria",
+                          "Niue",
+                          "Nordmazedonien",
+                          "Norwegen",
+                          "Oman",
+                          "Österreich",
+                          "Pakistan",
+                          "Palau",
+                          "Panama",
+                          "Papua-Neuguinea",
+                          "Paraguay",
+                          "Peru",
+                          "Philippinen",
+                          "Polen",
+                          "Portugal",
+                          "Ruanda",
+                          "Rumänien",
+                          "Russische Föderation",
+                          "Salomonen",
+                          "Sambia",
+                          "Samoa",
+                          "San Marino",
+                          "Sao Tome und Principe",
+                          "Saudi-Arabien",
+                          "Schweden",
+                          "Schweiz",
+                          "Senegal",
+                          "Serbien",
+                          "Seychellen",
+                          "Sierra Leone",
+                          "Simbabwe",
+                          "Singapur",
+                          "Slowakei",
+                          "Slowenien",
+                          "Somalia",
+                          "Spanien",
+                          "Sri Lanka",
+                          "St. Kitts und Nevis",
+                          "St. Lucia",
+                          "St. Vincent und die Grenadinen",
+                          "Südafrika",
+                          "Sudan",
+                          "Südsudan",
+                          "Surinam",
+                          "Syrien",
+                          "Tadschikistan",
+                          "Tansania",
+                          "Thailand",
+                          "Timor-Leste",
+                          "Togo",
+                          "Tonga",
+                          "Trinidad und Tobago",
+                          "Tschad",
+                          "Tschechische Republik",
+                          "Tunesien",
+                          "Türkei",
+                          "Turkmenistan",
+                          "Tuvalu",
+                          "Uganda",
+                          "Ukraine",
+                          "Ungarn",
+                          "Uruguay",
+                          "USA",
+                          "Usbekistan",
+                          "Vanuatu",
+                          "Vatikanstadt",
+                          "Venezuela",
+                          "Vereinigte Arabische Emirate",
+                          "Vereinigtes Königreich",
+                          "Vietnam",
+                          "Weißrussland",
+                          "Zentralafrikanische Republik",
+                          "Zypern",
+                          "* nicht in Liste / Unterlagen werden eingereicht *"
+                        ]
+                      },
+                      {
+                        "row": "42",
+                        "label": "Empfänger der Lizenzzahlungen",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "43",
+                        "label": "Gesamtbetrag der geleisteten Lizenzaufwendungen an Konzerngesellschaften (Euro)",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "44",
+                        "label": "Maßgebende Belastung durch Ertragsteuern (Prozentsatz), § 4j Absatz 2 Satz 1 EStG (X,XX)",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "45",
+                        "label": "Nichtabziehbare Aufwendungen nach § 4j EStG (Euro)",
+                        "type": "text",
+                        "values": []
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": "46",
+                "label": "Dazu: Nichtabziehbare Aufwendungen für Rechteüberlassungen nach § 4j Absatz 3 EStG (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Verlustausgleichsbeschränkung bei Steuerstundungsmodellen nach § 15b EStG",
+        "rows": [
+          {
+            "row": null,
+            "label": "- ohne Beträge laut Zeile 22 -",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "47",
+            "label": "Dazu: Nicht ausgleichsfähige Verluste im Sinne des § 15b EStG gegebenenfalls in Verbindung mit § 2 Absatz 4 Satz 1 und 2 UmwStG und des § 20 Absatz 6 Satz 4 UmwStG (ohne Beträge aus Beteiligungen an Personengesellschaften) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "48",
+            "label": "Davon ab: Verlustverrechnung nach § 15b EStG, gegebenenfalls unter Berücksichtigung von § 2 Absatz 4 Satz 3 und 4 UmwStG (ohne Beträge aus Beteiligungen an Personengesellschaften) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Verlustausgleichsbeschränkung bei gewerblicher Tierzucht/-haltung nach § 15 Absatz 4 Satz 1 und 2 EStG",
+        "rows": [
+          {
+            "row": "49",
+            "label": "Dazu: Nicht ausgleichsfähige Verluste aus gewerblicher Tierzucht/-haltung im Sinne des § 15 Absatz 4 Satz 1 EStG gegebenenfalls in Verbindung mit § 2 Absatz 4 Satz 1 und 2 UmwStG und des § 20 Absatz 6 Satz 4 UmwStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "50",
+            "label": "Davon ab: Verrechnung von Gewinnen aus gewerblicher Tierzucht/-haltung des laufenden Jahres mit dem Verlustvortrag und dem Verlustrücktrag aus dem folgenden Veranlagungszeitraum nach § 15 Absatz 4 Satz 2 EStG, gegebenenfalls unter Berücksichtigung von § 2 Absatz 4 Satz 3 und 4 UmwStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Verlustausgleichsbeschränkung bei Termingeschäften nach § 15 Absatz 4 Satz 3 EStG",
+        "rows": [
+          {
+            "row": "51",
+            "label": "Dazu: Nicht ausgleichsfähige Verluste aus Termingeschäften im Sinne des § 15 Absatz 4 Satz 3 EStG gegebenenfalls in Verbindung mit § 2 Absatz 4 Satz 1 und 2 UmwStG und des § 20 Absatz 6 Satz 4 UmwStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "52",
+            "label": "Davon ab: Verrechnung von Gewinnen aus Termingeschäften des laufenden Jahres mit dem Verlustvortrag und dem Verlustrücktrag aus dem folgenden Veranlagungszeitraum nach § 15 Absatz 4 Satz 3 in Verbindung mit Satz 2 EStG, gegebenenfalls unter Berücksichtigung von § 2 Absatz 4 Satz 3 und 4 UmwStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Verlustausgleichsbeschränkung als atypisch stiller Gesellschafter nach § 15 Absatz 4 Satz 6 bis 8 EStG",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Einzelangaben",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Name der Körperschaft",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Name der Körperschaft",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": "57",
+                "label": "Dazu: Nicht ausgleichsfähige Verluste als atypisch stiller Gesellschafter im Sinne des § 15 Absatz 4 Satz 6 bis 8 EStG gegebenenfalls in Verbindung mit § 2 Absatz 4 Satz 1 und 2 UmwStG und des § 20 Absatz 6 Satz 4 UmwStG (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "58",
+                "label": "Davon ab: Verrechnung von Gewinnen als atypisch stiller Gesellschafter mit dem Verlustvortrag und dem Verlustrücktrag aus dem folgenden Veranlagungszeitraum nach § 15 Absatz 4 Satz 6 bis 8 EStG, gegebenenfalls unter Berücksichtigung von § 2 Absatz 4 Satz 3 und 4 UmwStG (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Verlustausgleichsbeschränkung als typisch stiller Gesellschafter nach § 20 Absatz 1 Nummer 4 Satz 2 in Verbindung mit § 15 Absatz 4 Satz 6 und 8 und § 15a EStG",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Einzelangaben",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Name des Unternehmens",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Name des Unternehmens",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": "63",
+                "label": "Dazu: Nicht ausgleichsfähige Verluste als typisch stiller Gesellschafter im Sinne des § 20 Absatz 1 Nummer 4 Satz 2 EStG in Verbindung mit § 15 Absatz 4 Satz 6 und 8 und § 15a EStG und gegebenenfalls § 2 Absatz 4 Satz 1 und 2 UmwStG und des § 20 Absatz 6 Satz 4 UmwStG (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "64",
+                "label": "Davon ab: Verrechnung von Gewinnen als typisch stiller Gesellschafter im Sinne des § 20 Absatz 1 Nummer 4 Satz 1 EStG mit dem Verlustvortrag und dem Verlustrücktrag aus dem folgenden Veranlagungszeitraum nach § 20 Absatz 1 Nummer 4 Satz 2 EStG in Verbindung mit § 15 Absatz 4 Satz 6 bis 8 EStG oder mit dem Verlustvortrag nach § 15a EStG und gegebenenfalls unter Berücksichtigung von § 2 Absatz 4 Satz 3 und 4 UmwStG (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Verlustausgleichsbeschränkung nach § 19 Absatz 4 REITG bei Anteilen an REIT-Körperschaften",
+        "rows": [
+          {
+            "row": "65",
+            "label": "Dazu: Nicht ausgleichsfähige Verluste aus Anteilen an REIT-Körperschaften im Sinne des § 19 Absatz 4 REITG gegebenenfalls in Verbindung mit § 2 Absatz 4 Satz 1 und 2 UmwStG und des § 20 Absatz 6 Satz 4 UmwStG (vorbehaltlich des § 19a Absatz 1 Satz 2 REITG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "66",
+            "label": "Davon ab: Verrechnung von Gewinnen aus Anteilen an REIT-Körperschaften des laufenden Jahres nach § 19 Absatz 4 REITG gegebenenfalls unter Berücksichtigung von § 2 Absatz 4 Satz 3 und 4 UmwStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Investitionsabzugsbeträge nach § 7g EStG",
+        "rows": [
+          {
+            "row": "67",
+            "label": "Davon ab: Investitionsabzugsbeträge des laufenden Wirtschaftsjahres nach § 7g Absatz 1 EStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "68",
+            "label": "Dazu: Im Wirtschaftsjahr der Anschaffung/Herstellung: Investitionsabzugsbeträge nach § 7g Absatz 2 Satz 1 EStG aus 2017 (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "69",
+            "label": "Dazu: Im Wirtschaftsjahr der Anschaffung/Herstellung: Investitionsabzugsbeträge nach § 7g Absatz 2 Satz 1 EStG aus 2018 (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "70",
+            "label": "Dazu: Im Wirtschaftsjahr der Anschaffung/Herstellung: Investitionsabzugsbeträge nach § 7g Absatz 2 Satz 1 EStG aus 2019 (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "71",
+            "label": "Dazu: Im Wirtschaftsjahr der Anschaffung/Herstellung: Investitionsabzugsbeträge nach § 7g Absatz 2 Satz 1 EStG aus 2020 (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "72",
+            "label": "Dazu: Im Wirtschaftsjahr der Anschaffung/Herstellung: Investitionsabzugsbeträge nach § 7g Absatz 2 Satz 1 EStG aus 2021 (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Verdeckte Gewinnausschüttungen",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Einzelangaben",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Bezeichnung",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Bezeichnung",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": "75",
+                "label": "Nicht bei Organgesellschaften: Dazu: Verdeckte Gewinnausschüttungen nach § 8 Absatz 3 Satz 2 KStG (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Weitere außerbilanzielle Korrekturen",
+        "rows": [
+          {
+            "row": "76",
+            "label": "Davon ab: Gewinnerhöhungen im Zusammenhang mit versteuerten verdeckten Gewinnausschüttungen (gemäß BMF-Schreiben vom 28.05.2002, BStBl I 2002, 603) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "77",
+            "label": "Dazu: Nichtabziehbare genossenschaftliche Rückvergütungen - verdeckte Gewinnausschüttungen nach R 22 Absatz 13 KStR 2022 (Betrag laut Zeile 18 der Anlage GR) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "78",
+            "label": "Dazu: Nicht erfolgswirksam gebuchte Einlagen im Sinne des § 8 Absatz 3 Satz 4 KStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "79",
+            "label": "Dazu: Gewinnzuschlag nach § 6b Absatz 7 EStG gegebenenfalls in Verbindung mit § 6c EStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "80",
+            "label": "Dazu: Aufwendungen für satzungsmäßige Zwecke (§ 10 Nummer 1 KStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "81",
+            "label": "Dazu: Körperschaftsteuer (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "82",
+            "label": "Dazu: Solidaritätszuschlag (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "83",
+            "label": "Dazu: Kapitalertragsteuer auf vereinnahmte Kapitalerträge (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "84",
+            "label": "Dazu: Gewerbesteuer ab Erhebungszeitraum 2008 (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "84a",
+            "label": "Dazu: Nach § 4 Absatz 2 Satz 2 EU-EnergieKBG nicht abziehbarer EU-Energiekrisenbeitrag (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "85",
+            "label": "Dazu: Sonstige Personensteuern (zum Beispiel Vermögensteuer, Erbschaft- und Schenkungsteuer) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "86",
+            "label": "Dazu: Nach § 10 Nummer 2 KStG nichtabziehbarer Teil der Umsatzsteuer und Vorsteuerbeträge (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "87",
+            "label": "Dazu: Ausländische Personensteuern und ausländische Steuern vom Einkommen im Sinne des § 10 Nummer 2 KStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "88",
+            "label": "Dazu: Nebenleistungen zu den Steuern laut Zeilen 81 bis 87 (zum Beispiel Säumnis- und Verspätungszuschläge, Zwangsgelder, Zinsen nach §§ 234 bis 237 AO, Nachzahlungszinsen nach § 233a AO, Zuschläge nach § 162 Absatz 4 AO, Gebühren nach §§ 89 und 178a AO) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "89",
+            "label": "Dazu: Die Hälfte der Vergütungen aller Art, die an Mitglieder des Aufsichtsrats, Verwaltungsrats oder andere mit der Überwachung der Geschäftsführung beauftragte Personen gewährt werden (einschließlich des von der Körperschaft getragenen Steuerabzugs nach § 50a Absatz 1 Nummer 4 EStG und des Solidaritätszuschlags; § 10 Nummer 4 KStG) – Zeilen 20 bis 20g und 30 bis 37 der Anlage WA sind zusätzlich auszufüllen - (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "90",
+            "label": "Dazu: Sonstige nichtabziehbare Aufwendungen; insbesondere nach § 4 Absatz 5 Satz 1 Nummer 1 bis 4, 7, 8, 8a, 10 und Absatz 6 bis 8 EStG, §§ 4c und 4d EStG, § 160 Absatz 1 AO, § 10 Nummer 3 KStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "91",
+            "label": "Dazu: Nichtabziehbare Beitragsrückerstattungen nach § 21 KStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "92",
+            "label": "Dazu: Sämtliche Spenden und nicht als Betriebsausgaben abziehbare Beiträge (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "93",
+            "label": "Davon ab: Einlagen der Gesellschafter (§ 8 Absatz 3 Satz 3 KStG), die erfolgswirksam gebucht und bis zum Ende des Wirtschaftsjahres geleistet wurden (einschließlich eines Erhöhungsbetrages im Sinne des § 23 Absatz 2 und 3 UmwStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "94",
+            "label": "Davon ab: Einlagen der Gesellschafter (§ 8 Absatz 3 Satz 3 KStG), die erfolgswirksam gebucht, aber nicht bis zum Ende des Wirtschaftsjahres geleistet wurden (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "95",
+            "label": "Davon ab: Gewinnerhöhung aus der Begründung des Besteuerungsrechts der Bundesrepublik Deutschland hinsichtlich des Gewinns aus der Veräußerung eines Wirtschaftsgutes (§ 4 Absatz 1 Satz 8 zweiter Halbsatz EStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "96",
+            "label": "Davon ab: Investitionszulage (zurückgeforderte Investitionszulage mit negativem Vorzeichen eintragen) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "97",
+            "label": "Dazu: Einkommenserhöhung aus der Steuerentstrickung nach § 12 Absatz 1 Satz 1 und 2 KStG, § 16 Absatz 3a EStG (soweit im Betrag laut Zeilen 11 und 12 nicht erfasst) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "97a",
+            "label": "Davon ab: Nach § 3 Nummer 72 EStG steuerfreie Einnahmen und Entnahmen aus dem Betrieb von Photovoltaikanlagen, vermindert um damit im Zusammenhang stehende Betriebsausgaben nach § 3c Absatz 1 EStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": "Sonstige steuerfreie Einnahmen",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Steuerbefreiung nach §",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Steuerbefreiung nach §",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": [
+                  {
+                    "section_label": null,
+                    "rows": [
+                      {
+                        "row": "98",
+                        "label": "Steuerbefreiung nach §",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "99",
+                        "label": "Art der sonstigen steuerfreien Einnahmen",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "100",
+                        "label": "Betrag der Einnahmen (Euro, Cent)",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "101",
+                        "label": "Betrag der Ausgaben (Euro, Cent)",
+                        "type": "text",
+                        "values": []
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": "102",
+                "label": "Davon ab: Sonstige steuerfreie Einnahmen, vermindert um damit im Zusammenhang stehende nicht abzugsfähige Betriebsausgaben nach § 3c Absatz 1 EStG (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

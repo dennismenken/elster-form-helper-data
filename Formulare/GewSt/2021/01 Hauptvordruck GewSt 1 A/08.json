@@ -1,0 +1,91 @@
+[
+  {
+    "context_label": "7 - Gewinn aus Gewerbebetrieb",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "(Im Fall der Zeile 103 ist eine Eintragung nur in Zeile 103 zulässig; bei einem Spartenfall (Anlagen ÖHG) sind Eintragungen nur in den Zeilen 70, 71, 72, 104, 127 und 128 zulässig; Zeilen 39 bis 41, 43, 44 und 48: Negative Beträge mit Minuszeichen eintragen)",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "39",
+            "label": "Gewinn aus Gewerbebetrieb vor Anwendung des § 7 Satz 4 GewStG (ohne Beträge laut Zeilen 46 und 100 bis 102) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "40",
+            "label": "Nur bei Personengesellschaften:Steuerfreie Einnahmen nach § 3 Nummer 40 EStG und § 8b KStG vermindert um nichtabziehbare Beträge nach § 3c Absatz 2 EStG und § 8b KStG (§ 7 Satz 4 GewStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "41",
+            "label": "Nur bei Personengesellschaften:Nach §§ 20, 42 und 43 InvStG steuerfreie Erträge vermindert um Beträge nach §§ 21 und 44 InvStG (Randziffer 20.20 des BMF-Schreibens vom 21.05.2019, BStBl I 2019, 527) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "42",
+            "label": "Der Gewerbebetrieb ist nach folgender Nummer des § 3 GewStG vollständig oder partiell von der Gewerbesteuer befreit:",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "43",
+            "label": "Von der Gewerbesteuer befreiter Gewinn aus Gewerbebetrieb laut Zeile 39 (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "44",
+            "label": "Von der Gewerbesteuer nach § 13 GewStDV befreiter Anteil am Gewinn aus Gewerbebetrieb laut Zeile 39 (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "45",
+            "label": "Korrektur des Gewinns aus Gewerbebetrieb aufgrund der Erstattung von Aufwendungen, die in einem vorangegangenen Erhebungszeitraum der Hinzurechnung unterlegen haben (Eintrag mit negativem Vorzeichen) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "46",
+            "label": "Gewinn des wirtschaftlichen Geschäftsbetriebs nach § 15 Absatz 4 InvStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "47",
+            "label": "Nur bei Personengesellschaften:Abzug von Kapitalertragsteuer gemäß Antrag nach § 36a Absatz 1 Satz 3 EStG: Abzuziehende nicht anrechenbare Kapitalertragsteuer nach § 36a Absatz 1 Satz 3 EStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "48",
+            "label": "Anwendung des § 20 Absatz 5 (gegebenenfalls in Verbindung mit § 45 Absatz 2) InvStG:Gesamtbetrag der bei der Ermittlung des Gewinns aus Gewerbebetrieb vorgenommenen Teilfreistellungen aus unmittelbaren Beteiligungen nach §§ 20 und 21 InvStG (gegebenenfalls in Verbindung mit § 43 Absatz 3 und § 44 InvStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "49",
+            "label": "Anwendung des § 45 Absatz 1 InvStG:Korrekturbetrag nach § 45 Absatz 1 InvStG für die Ermittlung des Gewerbeertrags beim Anleger (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

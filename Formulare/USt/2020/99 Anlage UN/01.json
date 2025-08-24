@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "Anlage zur Umsatzsteuererklärung für im Ausland ansässige Unternehmer",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Nach § 21 Absatz 1 Abgabenordnung (AO) in Verbindung mit der Umsatzsteuerzuständigkeitsverordnung sind für Unternehmer, die ihren Wohnsitz, Sitz oder ihre Geschäftsleitung außerhalb des Geltungsbereichs des Umsatzsteuergesetzes (UStG) haben, bestimmte Finanzämter zentral zuständig. Informationen hierzu erhalten Sie beim Bundeszentralamt für Steuern (www.bzst.de unter der Rubrik: Steuern International > USt-Identifikationsnummer > Merkblätter > Zuständigkeitsübersicht).",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

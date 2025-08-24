@@ -1,0 +1,31 @@
+[
+  {
+    "context_label": "Beteiligungen an Personengesellschaften",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "1b",
+            "label": "Name der Gesellschaft",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "1b",
+            "label": "Finanzamt",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "1b",
+            "label": "Einkünfte aus Land- und Forstwirtschaft laut gesonderter (und gegebenenfalls einheitlicher) Feststellung (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

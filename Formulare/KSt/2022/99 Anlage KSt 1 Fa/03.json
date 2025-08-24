@@ -1,0 +1,43 @@
+[
+  {
+    "context_label": "1 - Allgemeine Angaben",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "1",
+            "label": "Datum des Eintritts in die unbeschränkte Steuerpflicht im laufenden Wirtschaftsjahr oder Stichtag der Zusammenfassung bisheriger Einzelbetriebe gewerblicher Art im laufenden Wirtschaftsjahr (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "1a",
+            "label": "Wirtschaftsjahr vom (TT.MM.JJJJ)",
+            "type": "daterange",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Nur bei Regiebetrieben und bei wirtschaftlichen Geschäftsbetrieben von Körperschaften, die nicht nach § 5 Absatz 1 Nummer 9 KStG steuerbefreit sind und die ihren Gewinn nach § 4 Absatz 3 EStG (Einnahmenüberschussrechnung) ermitteln:",
+        "rows": [
+          {
+            "row": "2",
+            "label": "Umsätze des Kalenderjahres einschließlich der steuerfreien Umsätze, jedoch ohne Umsätze nach § 4 Nummer 8 bis 10 UStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "3",
+            "label": "Gewinn/Verlust im Sinne des § 20 Absatz 1 Nummer 10 Buchstabe b EStG; gegebenenfalls geschätzt laut Randnummer 27 oder Gewinn laut Randnummer 31 des BMF-Schreibens vom 28.01.2019, BStBl I 2019, 97 (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

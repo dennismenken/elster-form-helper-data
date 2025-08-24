@@ -1,0 +1,67 @@
+[
+  {
+    "context_label": "8 - Einkünfte, für die der Antrag nach § 32 Absatz 2 Nummer 2 gestellt wird",
+    "sections": [
+      {
+        "section_label": "Steuerabzug nach § 50a Absatz 1 Nummer 1 EStG",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Bezeichnung",
+            "rows": [
+              {
+                "row": null,
+                "label": "Bezeichnung",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": "17",
+                "label": "Dazu / Davon ab: Einkünfte, die dem Steuerabzug nach § 50a Absatz 1 Nummer 1 EStG unterlegen haben (laut gesonderter Einzelaufstellung) (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Steuerabzug nach § 50a Absatz 1 Nummer 2 EStG",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Bezeichnung",
+            "rows": [
+              {
+                "row": null,
+                "label": "Bezeichnung",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": "18",
+                "label": "Dazu / Davon ab: Einkünfte, die dem Steuerabzug nach § 50a Absatz 1 Nummer 2 EStG unterlegen haben (laut gesonderter Einzelaufstellung) (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

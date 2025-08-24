@@ -1,0 +1,195 @@
+[
+  {
+    "context_label": "7 - Unmittelbar gehaltene Anteile an Investmentfonds (§ 20 Absatz 1 Nummer 3 )",
+    "sections": [
+      {
+        "section_label": "Aktienfonds",
+        "rows": [
+          {
+            "row": "109",
+            "label": "Investmenterträge im Sinne des § 20 Absatz 1 Nummer 3 EStG aus Aktienfonds im Sinne des § 2 Absatz 6 InvStG und Erträge aus dem Ansatz des Teilwerts (vor Teilfreistellung; ohne Beträge, die in Zeile 112 einzutragen sind)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "110",
+            "label": "Mit den Erträgen laut Zeile 109 in Zusammenhang stehende Betriebsvermögensminderungen, Betriebsausgaben, Teilwertabschreibungen oder Veräußerungskosten",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "111",
+            "label": "Nach § 20 Absatz 1 InvStG freizustellender Betrag für Aktienfonds (Vorspalte: Betrag laut Zeile 109 abzüglich Betrag laut Zeile 110; Hauptspalte: 80 Prozent des Wertes der Vorspalte mit umgekehrtem Vorzeichen)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)",
+              "Hauptspalte (Euro)"
+            ]
+          },
+          {
+            "row": "112",
+            "label": "Investmenterträge im Sinne des § 20 Absatz 1 Nummer 3 EStG aus Aktienfonds im Sinne des § 2 Absatz 6 InvStG, die den Kapitalanlagen eines Lebens- oder Krankenversicherungsunternehmens beziehungsweise einem Pensionsfonds zuzurechnen sind oder wenn die Voraussetzungen des § 20 Absatz 1 Satz 4 Nummer 2 InvStG erfüllt sind und Erträge aus dem Ansatz des Teilwerts (vor Teilfreistellung)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "113",
+            "label": "Mit den Erträgen laut Zeile 112 in Zusammenhang stehende Betriebsvermögensminderungen, Betriebsausgaben, Teilwertabschreibungen oder Veräußerungskosten",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "114",
+            "label": "In den Fällen des § 20 Absatz 1 Satz 4 und 5 InvStG nach § 20 Absatz 1 InvStG freizustellender Betrag für Aktienfonds (Vorspalte: Betrag laut Zeile 112 abzüglich Betrag laut Zeile 113; Hauptspalte: 30 Prozent des Wertes der Vorspalte mit umgekehrtem Vorzeichen)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)",
+              "Hauptspalte (Euro)"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Mischfonds",
+        "rows": [
+          {
+            "row": "115",
+            "label": "Investmenterträge im Sinne des § 20 Absatz 1 Nummer 3 EStG aus Mischfonds im Sinne des § 2 Absatz 7 InvStG und Erträge aus dem Ansatz des Teilwerts (vor Teilfreistellung; ohne Beträge, die in Zeile 118 einzutragen sind)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "116",
+            "label": "Mit den Erträgen laut Zeile 115 in Zusammenhang stehende Betriebsvermögensminderungen, Betriebsausgaben, Teilwertabschreibungen oder Veräußerungskosten",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "117",
+            "label": "Nach § 20 Absatz 2 in Verbindung mit Absatz 1 InvStG freizustellender Betrag für Mischfonds (Vorspalte: Betrag laut Zeile 115 abzüglich Betrag laut Zeile 116; Hauptspalte: 40 Prozent des Wertes der Vorspalte mit umgekehrtem Vorzeichen)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)",
+              "Hauptspalte (Euro)"
+            ]
+          },
+          {
+            "row": "118",
+            "label": "Investmenterträge im Sinne des § 20 Absatz 1 Nummer 3 EStG aus Mischfonds im Sinne des § 2 Absatz 7 InvStG, die den Kapitalanlagen eines Lebens- oder Krankenversicherungsunternehmens beziehungsweise einem Pensionsfonds zuzurechnen sind oder wenn die Voraussetzungen des § 20 Absatz 1 Satz 4 Nummer 2 InvStG erfüllt sind und Erträge aus dem Ansatz des Teilwerts (vor Teilfreistellung)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "119",
+            "label": "Mit den Erträgen laut Zeile 118 in Zusammenhang stehende Betriebsvermögensminderungen, Betriebsausgaben, Teilwertabschreibungen oder Veräußerungskosten",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "120",
+            "label": "In den Fällen des § 20 Absatz 1 Satz 4 und 5 InvStG nach § 20 Absatz 2 in Verbindung mit Absatz 1 InvStG freizustellender Betrag für Mischfonds (Vorspalte: Betrag laut Zeile 118 abzüglich Betrag laut Zeile 119; Hauptspalte: 15 Prozent des Wertes der Vorspalte mit umgekehrtem Vorzeichen)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)",
+              "Hauptspalte (Euro)"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Immobilienfonds im Sinne des § 2 Absatz 9 Satz 1 InvStG",
+        "rows": [
+          {
+            "row": "121",
+            "label": "Investmenterträge im Sinne des § 20 Absatz 1 Nummer 3 EStG aus Immobilienfonds im Sinne des § 2 Absatz 9 Satz 1 InvStG und Erträge aus dem Ansatz des Teilwerts (vor Teilfreistellung)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "122",
+            "label": "Mit den Erträgen laut Zeile 121 in Zusammenhang stehende Betriebsvermögensminderungen, Betriebsausgaben, Teilwertabschreibungen oder Veräußerungskosten",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "123",
+            "label": "Nach § 20 Absatz 3 Satz 1 InvStG freizustellender Betrag für Immobilienfonds (Vorspalte: Betrag laut Zeile 121 abzüglich Betrag laut Zeile 122; Hauptspalte: 60 Prozent des Wertes der Vorspalte mit umgekehrtem Vorzeichen)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)",
+              "Hauptspalte (Euro)"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Auslands-Immobilienfonds im Sinne des § 2 Absatz 9 Satz 2 InvStG",
+        "rows": [
+          {
+            "row": "125",
+            "label": "Investmenterträge im Sinne des § 20 Absatz 1 Nummer 3 EStG aus Auslands-Immobilienfonds im Sinne des § 2 Absatz 9 Satz 2 InvStG und Erträge aus dem Ansatz des Teilwerts (vor Teilfreistellung)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "126",
+            "label": "Mit den Erträgen laut Zeile 125 in Zusammenhang stehende Betriebsvermögensminderungen, Betriebsausgaben, Teilwertabschreibungen oder Veräußerungskosten",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "127",
+            "label": "Nach § 20 Absatz 3 Satz 2 InvStG freizustellender Betrag für Auslands-Immobilienfonds im Sinne des § 2 Absatz 9 Satz 2 InvStG (Vorspalte: Betrag laut Zeile 125 abzüglich Betrag laut Zeile 126; Hauptspalte: 80 Prozent des Wertes der Vorspalte mit umgekehrtem Vorzeichen)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)",
+              "Hauptspalte (Euro)"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Unterschiedsbeträge nach InvStG 2004 ¹",
+        "rows": [
+          {
+            "row": "128",
+            "label": "Dazu / Davon ab: Unterschiedsbeträge nach § 5 Absatz 1 Satz 1 Nummer 5 Satz 5 beziehungsweise § 13 Absatz 4a Satz 2 InvStG 2004",
+            "type": "text",
+            "values": [
+              "Hauptspalte (Euro)"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

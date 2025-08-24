@@ -1,0 +1,61 @@
+[
+  {
+    "context_label": "9 - -Vortrag bezogen auf das zweite vorangegangene Wirtschaftsjahr",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "84",
+            "label": "Abschlusszeitpunkt des Wirtschaftsjahres (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "85",
+            "label": "EBITDA-Vortrag zum Schluss des dritten vorangegangenen Wirtschaftsjahres (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "86",
+            "label": "Davon ab: Verringerung des EBITDA-Vortrags bei Abspaltung (§ 15 Absatz 3, § 16 UmwStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "87",
+            "label": "Davon ab: Verringerung des EBITDA-Vortrags in anderen Fällen (gegebenenfalls unter Beachtung der § 2 Absatz 4 Satz 1, § 20 Absatz 6 Satz 4 UmwStG), insbesondere durch: Aufgabe oder Übertragung eines Betriebs oder Teilbetriebs (§ 8a Absatz 1 KStG in Verbindung mit § 4h Absatz 5 EStG), Ausscheiden einer Organgesellschaft aus dem Organkreis (§ 15 Satz 1 Nummer 3 KStG, § 8a Absatz 1 KStG in Verbindung mit § 4h Absatz 5 EStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "88",
+            "label": "Nicht bei Organgesellschaften:Davon ab: Verbrauch des EBITDA-Vortrags im laufenden Wirtschaftsjahr (Betrag laut Zeile 56 abzüglich Beträge laut Zeilen 64, 72 und 80, höchstens Betrag laut Zeile 85 abzüglich Beträge laut Zeilen 86 und 87) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "89",
+            "label": "Zwischensumme (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "90",
+            "label": "Davon ab: Minderung des EBITDA-Vortrags nach § 3a Absatz 3 Satz 2 Nummer 13 Buchstabe b EStG (gegebenenfalls anteiliger Betrag laut Zeile 40 der Anlage SAN abzüglich Beträge laut Zeilen 66, 74 und 82, höchstens Betrag laut Zeile 89) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "91",
+            "label": "EBITDA-Vortrag zum Schluss des Wirtschaftsjahres bezogen auf das zweite vorangegangene Wirtschaftsjahr (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "context_label": "6 - Ermittlung der Bezüge nach § 7 bei Abspaltung",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "167",
+            "label": "Zum steuerlichen Übertragungsstichtag ausgewiesenes Eigenkapital laut Steuerbilanz des übertragenden Rechtsträgers (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "168",
+            "label": "Steuerliches Einlagekonto zum Übertragungsstichtag (Betrag laut Zeile 132) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "169",
+            "label": "Verbleibender Betrag (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "170",
+            "label": "Auf Personengesellschaften übergehende Anteile am Nennkapital (Zähler)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "171",
+            "label": "Nennkapital (Nenner)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "172",
+            "label": "Bezüge des Anteilseigners im Sinne des § 20 Absatz 1 Nummer 1 EStG(Betrag laut Zeile 169 multipliziert mit dem Betrag laut Zeile 170 dividiert durch den Betrag laut Zeile 171) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

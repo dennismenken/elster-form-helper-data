@@ -1,0 +1,49 @@
+[
+  {
+    "context_label": "Anlagen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Hinzurechnungen/Kürzungen bei Organträgern",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Für jede Organgesellschaft ist eine gesonderte Anlage OT auszufüllen.",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Bezeichnung der Organgesellschaft oder der Personengesellschaft",
+            "rows": [
+              {
+                "row": null,
+                "label": "Bezeichnung der Organgesellschaft oder der Personengesellschaft",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "context_label": "3 - Positiver Gesamtbetrag der Einkünfte",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "22",
+            "label": "Positiver Gesamtbetrag der Einkünfte (positiver Betrag laut Zeile 53 der Anlage ZVE) oder bei Organgesellschaften: positiver Betrag laut Zeile 17 der Anlage OG",
+            "type": "text",
+            "values": [
+              "(Euro)"
+            ]
+          },
+          {
+            "row": "23",
+            "label": "Im Falle von Umwandlungen mit steuerlicher Rückwirkung beim übernehmenden Rechtsträger:Davon ab: Im Betrag laut Zeile 22 enthaltene positive Einkünfte des übertragenden oder einbringenden Rechtsträgers im Rückwirkungszeitraum (vergleiche § 2 Absatz 4 Satz 3 und 4 UmwStG) - Summe der Beträge laut Zeilen 48 bis 50 Vorspalte der Anlage ZVE",
+            "type": "text",
+            "values": [
+              "(Euro)"
+            ]
+          },
+          {
+            "row": "24",
+            "label": "Zwischensumme",
+            "type": "text",
+            "values": [
+              "(Euro)"
+            ]
+          },
+          {
+            "row": "25",
+            "label": "Davon ab: Niedrigerer Betrag aus Zeile 21 und 24, höchstens 1 Million Euro (Übertrag des Betrages laut Hauptspalte nach Zeile 56 der Anlage ZVE)",
+            "type": "text",
+            "values": [
+              "(Euro)",
+              "(Euro)"
+            ]
+          },
+          {
+            "row": "26",
+            "label": "Zwischensumme",
+            "type": "text",
+            "values": [
+              "(Euro)",
+              "(Euro)"
+            ]
+          },
+          {
+            "row": "27",
+            "label": "Davon ab: Betrag laut Zeile 26 Hauptspalte, höchstens 60 Prozent des Betrages laut Zeile 26 Vorspalte (Übertrag des Betrages laut Hauptspalte nach Zeile 56 der Anlage ZVE)",
+            "type": "text",
+            "values": [
+              "(Euro)"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

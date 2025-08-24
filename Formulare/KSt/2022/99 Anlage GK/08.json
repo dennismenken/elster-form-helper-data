@@ -1,0 +1,31 @@
+[
+  {
+    "context_label": "Verlustausgleichsbeschränkung als typisch stille Gesellschaft",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "59",
+            "label": "Name des Unternehmens, an dem die typisch stille Gesellschaft besteht",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "61",
+            "label": "Nicht ausgleichsfähiger laufender Verlust (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "62",
+            "label": "Verlustverrechnung (Euro, Cent)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

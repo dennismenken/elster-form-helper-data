@@ -1,0 +1,61 @@
+[
+  {
+    "context_label": "Anlagen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Beteiligung an Körperschaften",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Anwendung des § 9 Nummer 2a, 7 oder 8 beziehungsweise des § 8 Nummer 5 GewStG;",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Anwendung des § 7a GewStG bei einer Organgesellschaft",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Bezeichnung der Körperschaft",
+            "rows": [
+              {
+                "row": null,
+                "label": "Bezeichnung der Körperschaft",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

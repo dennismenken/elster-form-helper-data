@@ -1,0 +1,116 @@
+[
+  {
+    "context_label": "3 - Wirtschaftliche Betätigung",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "10",
+            "label": "Die Einnahmen des Jahres 2022 (einschließlich der Umsatzsteuer) aus wirtschaftlichen Geschäftsbetrieben (einschließlich Zweckbetriebe) betragen mehr als 45.000 € (wenn ja: weiter ab Zeile 11; wenn nein: weiter ab Zeile 25)",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Steuerpflichtige wirtschaftliche Geschäftsbetriebe",
+        "rows": [
+          {
+            "row": "13",
+            "label": "Summe Einnahmen aus allen steuerpflichtigen wirtschaftlichen Geschäftsbetrieben (einschließlich Umsatzsteuer) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "14",
+            "label": "Summe Ausgaben aus allen steuerpflichtigen wirtschaftlichen Geschäftsbetrieben (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "15",
+            "label": "Summe Überschuss/Fehlbetrag aus allen steuerpflichtigen wirtschaftlichen Geschäftsbetrieben (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": "Bezeichnung des steuerpflichtigen wirtschaftlichen Geschäftsbetriebs",
+            "rows": [
+              {
+                "row": null,
+                "label": "Bezeichnung des steuerpflichtigen wirtschaftlichen Geschäftsbetriebs",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": [
+              {
+                "section_label": null,
+                "rows": [
+                  {
+                    "row": "11",
+                    "label": "Bezeichnung des steuerpflichtigen wirtschaftlichen Geschäftsbetriebs",
+                    "type": "text",
+                    "values": []
+                  },
+                  {
+                    "row": "12",
+                    "label": "Einnahmen (einschließlich Umsatzsteuer) (Euro)",
+                    "type": "text",
+                    "values": []
+                  },
+                  {
+                    "row": "12",
+                    "label": "Ausgaben (Euro)",
+                    "type": "text",
+                    "values": []
+                  },
+                  {
+                    "row": "12",
+                    "label": "Überschuss/Fehlbetrag (Euro)",
+                    "type": "text",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_label": "Zweckbetriebe",
+        "rows": [
+          {
+            "row": "24",
+            "label": "Summe Einnahmen aus allen Zweckbetrieben (einschließlich Umsatzsteuer) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": "Bezeichnung des Zweckbetriebs",
+            "rows": [
+              {
+                "row": null,
+                "label": "Bezeichnung des Zweckbetriebs",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

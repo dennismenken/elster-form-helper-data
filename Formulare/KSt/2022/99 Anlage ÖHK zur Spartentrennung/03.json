@@ -1,0 +1,79 @@
+[
+  {
+    "context_label": "1 - Allgemeine Angaben",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "2",
+            "label": "Kurzbezeichnung der Sparte (bei Organgesellschaften: der Tätigkeit)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "3",
+            "label": "Art der Tätigkeit",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "4",
+            "label": "Straße, Hausnummer",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "5",
+            "label": "Postleitzahl",
+            "type": "",
+            "values": []
+          },
+          {
+            "row": "5",
+            "label": "Auslands-Postleitzahl",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "6",
+            "label": "Name der Organgesellschaft(en)/Personengesellschaft(en), deren Tätigkeit in die Sparte einbezogen wurde:",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "7",
+            "label": "Die von der/den Gesellschaft(en) laut Zeile 6 ausgeübte Tätigkeit, besteht auch beim Steuerpflichtigen.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "8",
+            "label": "Die Sparte ist in 2022 neu entstanden.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "9",
+            "label": "Die Sparte ist in 2022 gegenüber dem Vorjahr verändert worden.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "10",
+            "label": "Die Sparte ist in 2022 beendet worden zum (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "11",
+            "label": "Die Tätigkeit erfüllt die Voraussetzungen für die Annahme eines begünstigten Dauerverlustgeschäfts im Sinne des § 8 Absatz 7 Satz 2 KStG.",
+            "type": "checkbox",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

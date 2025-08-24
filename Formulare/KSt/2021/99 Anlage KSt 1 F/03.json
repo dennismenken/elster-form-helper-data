@@ -1,0 +1,128 @@
+[
+  {
+    "context_label": "2 - Im Wirtschaftsjahr erfolgte Gewinnausschüttungen / Leistungen",
+    "sections": [
+      {
+        "section_label": "Einzelangaben",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Art der Leistung",
+            "rows": [
+              {
+                "row": null,
+                "label": "Art der Leistung",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": [
+              {
+                "section_label": null,
+                "rows": [
+                  {
+                    "row": "2",
+                    "label": "Art der Leistung",
+                    "type": "select",
+                    "values": [
+                      "Keine Angabe",
+                      "Gewinnausschüttungen, die auf einem ordentlichen Gewinnverteilungsbeschluss beruhen",
+                      "verdeckte Gewinnausschüttungen",
+                      "Abschlagszahlung auf das Liquidationsergebnis",
+                      "Leistungen im Sinne des § 20 Absatz 1 Nummer 9 und 10 Buchstabe a EStG"
+                    ]
+                  },
+                  {
+                    "row": "2",
+                    "label": "Datum des Gewinnverteilungsbeschlusses (TT.MM.JJJJ)",
+                    "type": "date",
+                    "values": []
+                  },
+                  {
+                    "row": "2",
+                    "label": "Datum des Abflusses (TT.MM.JJJJ)",
+                    "type": "date",
+                    "values": []
+                  },
+                  {
+                    "row": "2",
+                    "label": "Bruttobetrag der Leistung (Euro)",
+                    "type": "text",
+                    "values": []
+                  },
+                  {
+                    "row": "2",
+                    "label": "Bescheinigte Verwendung des Einlagekontos (Euro)",
+                    "type": "text",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_label": "Summenangaben",
+        "rows": [
+          {
+            "row": "2",
+            "label": "Summe der im Wirtschaftsjahr erbrachten Gewinnausschüttungen und sonstigen Leistungen (zum Beispiel Gewinnausschüttungen, die auf einem den gesellschaftsrechtlichen Vorschriften entsprechenden Gewinnverteilungsbeschluss beruhen; verdeckte Gewinnausschüttungen; Abschlagszahlungen auf das Liquidationsergebnis, soweit diese nicht als Nennkapitalrückzahlung im Sinne des § 28 Absatz 2 KStG zu beurteilen sind; Leistungen im Sinne des § 20 Absatz 1 Nummer 9 und 10 Buchstabe a EStG; bei Organgesellschaften: einschließlich geleisteter Ausgleichszahlungen und verdeckter Gewinnausschüttungen an außenstehende Anteilseigner; ohne den in Zeile 3 enthaltenen Betrag) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "3",
+            "label": "Mehrabführungen, die ihre Ursache in vororganschaftlicher Zeit haben (§ 14 Absatz 3 Satz 1 KStG, Betrag laut Zeile 20 der Anlage OG) (Übertrag nach Zeile 54) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "4",
+            "label": "Bescheinigte Verwendung des steuerlichen Einlagekontos zu Zeile 3 (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "5",
+            "label": "Im Wirtschaftsjahr erbrachte Leistungen ohne Leistungen aus der Rückzahlung von Nennkapital im Sinne des § 28 Absatz 2 KStG (Summe der Beträge laut Zeilen 2 und 3) (Übertrag nach Zeile 18) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "6",
+            "label": "Summe der bescheinigten Minderung des steuerlichen Einlagekontos zu den in Zeilen 2 und 3 enthaltenen Beträgen (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "7",
+            "label": "Bei mehr als einer Gewinnausschüttung/Leistung:Es wurde mindestens eine Bescheinigung über die Minderung des steuerlichen Einlagekontos ausgestellt",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "7a",
+            "label": "Im Falle einer Liquidation: Bescheinigte Minderung(en) des steuerlichen Einlagekontos für die Schlussauskehrung, soweit nicht Nennkapital ausgekehrt wird (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "8",
+            "label": "Kapitalertragsteuer wurde durch die Körperschaft nicht angemeldet, weil die Voraussetzungen des § 43 Absatz 1 Satz 1 Nummer 1a EStG (Sammelverwahrung oder Sonderverwahrung) vorliegen und damit die auszahlende Stelle die Kapitalertragsteuer anzumelden hat",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "9",
+            "label": "Eine der Leistungen laut Zeile 2 oder die Auszahlung des Nennkapitals aufgrund einer Kapitalherabsetzung laut Zeile 31 ist nicht dem Beteiligungsverhältnis entsprechend (disquotal) erfolgt (BMF-Schreiben vom 17.12.2013, BStBl I 2014, 63)",
+            "type": "checkbox",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "context_label": "2 - Vermögensbindung",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "43",
+            "label": "Vermögen sowie etwa erzielte Überschüsse werden sowohl nach Gesellschaftsvertrag als auch nach tatsächlicher Geschäftsführung ausschließlich für die im Gesellschaftsvertrag aufgeführten Zwecke verwendet.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Die Gesellschaft hat folgende Rücklagen gebildet:",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Zweck",
+            "rows": [
+              {
+                "row": null,
+                "label": "Zweck",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Die Gesellschaft hat folgende vorübergehende Kapitalanlagen vorgenommen:",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Bezeichnung",
+            "rows": [
+              {
+                "row": null,
+                "label": "Bezeichnung",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Gewinnausschüttungen / Einlagerückgewähr",
+        "rows": [
+          {
+            "row": "52",
+            "label": "Es wurden Mittel an die Gesellschafter ausgekehrt (Gewinnausschüttungen, Einlagenrückgewähr).",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

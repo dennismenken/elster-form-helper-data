@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "Einzelaufstellung Gewinnanteile von Personengesellschaften",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "71",
+            "label": "Bezeichnung",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "71",
+            "label": "Betrag (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

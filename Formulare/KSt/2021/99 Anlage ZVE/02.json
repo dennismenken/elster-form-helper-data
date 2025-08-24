@@ -1,0 +1,61 @@
+[
+  {
+    "context_label": "1 - Einkünfte aus Land- und Forstwirtschaft",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "1",
+            "label": "Gewinn aus eigenen Betrieben (einschließlich Veräußerungsgewinn; laut gesonderter Ermittlung): Auf das Kalenderjahr 2021 entfallender Gewinn aus dem Wirtschaftsjahr 2020/2021 (2021) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "1a",
+            "label": "Dazu / Davon ab: Gewinn aus eigenen Betrieben (einschließlich Veräußerungsgewinn; laut gesonderter Ermittlung): Auf das Kalenderjahr 2021 entfallender Gewinn aus dem Wirtschaftsjahr 2021/2022 (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Beteiligungen an Personengesellschaften",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": null,
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Name der Gesellschaft",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Name der Gesellschaft",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": "1b",
+                "label": "Dazu / Davon ab: Einkünfte aus Land- und Forstwirtschaft aus Beteiligungen an Personengesellschaften (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

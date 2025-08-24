@@ -1,0 +1,61 @@
+[
+  {
+    "context_label": "10 - Weitere Angaben für Unterstützungskassen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "63",
+            "label": "Die Leistungsempfänger sind zu laufenden Beiträgen oder sonstigen Zuschüssen an die Kasse verpflichtet.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "64",
+            "label": "Die Leistungsempfänger haben laufende Beiträge oder sonstige Zuschüsse an die Kasse geleistet.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "65",
+            "label": "Den Leistungsempfängern oder den Arbeitnehmervertretungen des Betriebs oder der Dienststelle steht satzungsgemäß und tatsächlich das Recht zu, an der Verwaltung der Kassenmittel beratend mitzuwirken.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Wenn ja",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Name der mitwirkenden Personen",
+            "rows": [
+              {
+                "row": null,
+                "label": "Name der mitwirkenden Personen",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

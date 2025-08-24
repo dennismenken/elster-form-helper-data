@@ -1,0 +1,201 @@
+[
+  {
+    "context_label": "12 - Berichtigung des Vorsteuerabzugs (§ 15a )",
+    "sections": [
+      {
+        "section_label": "Sind im Kalenderjahr 2020 Grundstücke, Grundstücksteile, Gebäude oder Gebäudeteile, für die Vorsteuer abgezogen worden ist, erstmals tatsächlich verwendet worden?",
+        "rows": [
+          {
+            "row": "134",
+            "label": "Ja",
+            "type": "checkbox",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": "Angaben zu den Grundstücken oder Gebäuden",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Lage des Grundstücks oder Gebäudes",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Lage des Grundstücks oder Gebäudes",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": [
+                  {
+                    "section_label": null,
+                    "rows": [
+                      {
+                        "row": "135",
+                        "label": "Lage des Grundstücks oder Gebäudes",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "135",
+                        "label": "Zeitpunkt der erstmaligen tatsächlichen Verwendung (TT.MM.JJJJ)",
+                        "type": "date",
+                        "values": []
+                      },
+                      {
+                        "row": "135",
+                        "label": "Art der Verwendung im Erstjahr",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "135",
+                        "label": "Umfang der Verwendung im Erstjahr (X,XX)",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "135",
+                        "label": "insgesamt angefallene Vorsteuer (Euro)",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "135",
+                        "label": "in den Vorjahren - Investitionsphase - bereits abgezogene Vorsteuer (Euro)",
+                        "type": "text",
+                        "values": []
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_label": "Haben sich im Jahr 2020 die für den ursprünglichen Vorsteuerabzug maßgebenden Verhältnisse geändert bei:",
+        "rows": [
+          {
+            "row": "137",
+            "label": "1. Grundstücken, Grundstücksteilen, Gebäuden oder Gebäudeteilen, die innerhalb der letzten 10 Jahre erstmals tatsächlich und nicht nur einmalig zur Ausführung von Umsätzen verwendet worden sind?",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "138",
+            "label": "2. anderen Wirtschaftsgütern und sonstigen Leistungen, die innerhalb der letzten 5 Jahre erstmals tatsächlich und nicht nur einmalig zur Ausführung von Umsätzen verwendet worden sind?",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "139",
+            "label": "3. Wirtschaftsgütern und sonstigen Leistungen, die nur einmalig zur Ausführung von Umsätzen verwendet worden sind?",
+            "type": "checkbox",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Die Verhältnisse, die ursprünglich für die Beurteilung des Vorsteuerabzugs maßgebend waren, haben sich seitdem geändert durch:",
+        "rows": [
+          {
+            "row": "141",
+            "label": "Veräußerung",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "141",
+            "label": "Lieferung im Sinne des § 3 Absatz 1b UStG",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "141",
+            "label": "Wechsel der Besteuerungsform, § 15a Absatz 7 UStG",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "142",
+            "label": "Nutzungsänderung, und zwar",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "143",
+            "label": "Übergang von steuerpflichtiger zu steuerfreier Vermietung oder umgekehrt beziehungsweise Änderung des Verwendungsschlüssels bei gemischt genutzten Grundstücken (insbesondere bei Mieterwechsel).",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "144",
+            "label": "steuerfreie Vermietung bisher eigengewerblich genutzter Räume oder umgekehrt; Übergang von einer Vermietung für NATO- oder ähnliche Zwecke zu einer nach § 4 Nummer 12 UStG steuerfreien Vermietung.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "145",
+            "label": "Andere Gründe für die geänderte Beurteilung des Vorsteuerabzugs:",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "145",
+            "label": "Begründung",
+            "type": "",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Vorsteuerberichtigungsbeträge",
+        "rows": [
+          {
+            "row": "147",
+            "label": "zu 1. Grundstücke und so weiter, § 15a Absatz 1 Satz 2 UStG Hilfe zum Begriff anzeigen",
+            "type": "text",
+            "values": [
+              "nachträglich abziehbar (Euro, Cent)",
+              "zurückzuzahlen (Euro, Cent)"
+            ]
+          },
+          {
+            "row": "148",
+            "label": "zu 2. andere Wirtschaftsgüter und so weiter, § 15a Absatz 1 Satz 1 UStG Hilfe zum Begriff anzeigen",
+            "type": "text",
+            "values": [
+              "nachträglich abziehbar (Euro, Cent)",
+              "zurückzuzahlen (Euro, Cent)"
+            ]
+          },
+          {
+            "row": "149",
+            "label": "zu 3. Wirtschaftsgüter und so weiter, § 15a Absatz 2 UStG Hilfe zum Begriff anzeigen",
+            "type": "text",
+            "values": [
+              "nachträglich abziehbar (Euro, Cent)",
+              "zurückzuzahlen (Euro, Cent)"
+            ]
+          },
+          {
+            "row": "150",
+            "label": "Summe (Übertrag nach Zeile 159 bzw. Zeile 161)",
+            "type": "text",
+            "values": [
+              "nachträglich abziehbar (Euro, Cent)",
+              "zurückzuzahlen (Euro, Cent)"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

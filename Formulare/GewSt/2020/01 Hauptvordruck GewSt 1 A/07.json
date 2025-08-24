@@ -1,0 +1,97 @@
+[
+  {
+    "context_label": "6 - Gewinne aus Anteilen an bestimmten Körperschaften",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "61",
+            "label": "Nur bei Mitunternehmerschaften: Anteil der an der Mitunternehmerschaft unmittelbar oder mittelbar über andere Mitunternehmerschaften beteiligten Körperschaften in Höhe von (Prozent) (X,XXXXXX)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "62",
+            "label": "Nur bei Organgesellschaften: Anteil der an der Organgesellschaft unmittelbar oder mittelbar über Mitunternehmerschaften beteiligten Körperschaften in Höhe von (Prozent) (X,XXXXXX)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "63",
+            "label": "Bei Mitunternehmerschaften und Organgesellschaften: Anteil der an der Mitunternehmerschaft oder der Organgesellschaft unmittelbar oder mittelbar über andere Mitunternehmerschaften beteiligten natürlichen Personen (100 Prozent abzüglich Prozentsatz laut Zeile 61 oder 62) (Prozent) (X,XXXXXX)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": null,
+            "label": "Nur bei Organgesellschaften:",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "64",
+            "label": "Steuerfreie Bezüge nach § 8b Absatz 1 und 4 KStG beziehungsweise nach § 3 Nummer 41 Buchstabe a EStG oder nach DBA (Summe der Beträge laut Zeile 13 aller Anlagen BEG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "64a",
+            "label": "Steuerfreie Bezüge nach § 3 Nummer 41 Buchstabe a EStG (Summe der Beträge laut Zeile 21a aller Anlagen BEG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "65",
+            "label": "Bezüge nach § 3 Nummer 40 EStG gekürzt um Betriebsausgaben nach § 3c Absatz 2 EStG vor Anwendung des Teileinkünfteverfahrens (Summe der positiven Beträge laut Zeile 22 aller Anlagen BEG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "65a",
+            "label": "Bezüge nach § 3 Nummer 40 EStG gekürzt um Betriebsausgaben nach § 3c Absatz 2 EStG vor Anwendung des Teileinkünfteverfahrens (Summe der negativen Beträge laut Zeile 22 aller Anlagen BEG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "66",
+            "label": "Hinzurechnungsbetrag nach § 8 Nummer 5 GewStG, soweit auf Körperschaften entfallend (Summe der Beträge laut Zeile 15 aller Anlagen BEG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "66a",
+            "label": "Hinzurechnungsbetrag nach § 8 Nummer 5 GewStG, soweit auf natürliche Personen entfallend (Summe der Beträge laut Zeile 23 aller Anlagen BEG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "67",
+            "label": "Kürzung des Hinzurechnungsbetrages nach § 8 Nummer 1 GewStG aufgrund des § 9 Nummer 2a Satz 3 zweiter Halbsatz GewStG, § 9 Nummer 7 Satz 2 beziehungsweise § 9 Nummer 8 Satz 2 GewStG (Summe der Beträge laut Zeile 20 aller Anlagen BEG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "67a",
+            "label": "Kürzung des Hinzurechnungsbetrages nach § 8 Nummer 1 GewStG aufgrund des § 9 Nummer 2a Satz 3 zweiter Halbsatz GewStG, § 9 Nummer 7 Satz 2 beziehungsweise § 9 Nummer 8 Satz 2 GewStG (Summe der Beträge laut Zeile 28 aller Anlagen BEG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "68",
+            "label": "Kürzung nach § 9 Nummer 2a, 7 und 8 GewStG (Betrag laut Zeile 19 aller Anlagen BEG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "68a",
+            "label": "Kürzung nach § 9 Nummer 2a, 7 und 8 GewStG vor Anwendung des Teileinkünfteverfahrens (Betrag laut Zeile 27 aller Anlagen BEG) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

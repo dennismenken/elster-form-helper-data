@@ -1,0 +1,93 @@
+[
+  {
+    "context_label": "5 - Einrichtungen der Wohlfahrtspflege",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "30",
+            "label": "Wir erklären, dass mindestens zwei Drittel der Leistungen der Einrichtung hilfebedürftigen Personen (§ 53 Nummer 1 und 2 AO) zugute kommen. Von der Hilfebedürftigkeit haben wir uns überzeugt. Aufzeichnungen darüber liegen vor.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "31",
+            "label": "Wir erklären, dass der Zweckbetrieb der Wohlfahrtspflege nicht des Erwerbs wegen unterhalten wird. Aufzeichnungen darüber liegen vor.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Finanzierungsbedarf der wohlfahrtspflegerischen Gesamtsphäre",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Finanzierungsbedarf des Jahres 2022",
+            "rows": [
+              {
+                "row": "32",
+                "label": "Tatsächliches Ergebnis der wohlfahrtspflegerischen Gesamtsphäre (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "33",
+                "label": "Konkreter Finanzierungsbedarf der wohlfahrtspflegerischen Gesamtsphäre (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          },
+          {
+            "section_label": "Finanzierungsbedarf des Jahres 2021",
+            "rows": [
+              {
+                "row": "34",
+                "label": "Tatsächliches Ergebnis der wohlfahrtspflegerischen Gesamtsphäre (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "35",
+                "label": "Konkreter Finanzierungsbedarf der wohlfahrtspflegerischen Gesamtsphäre (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          },
+          {
+            "section_label": "Finanzierungsbedarf des Jahres 2020",
+            "rows": [
+              {
+                "row": "36",
+                "label": "Tatsächliches Ergebnis der wohlfahrtspflegerischen Gesamtsphäre (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "37",
+                "label": "Konkreter Finanzierungsbedarf der wohlfahrtspflegerischen Gesamtsphäre (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

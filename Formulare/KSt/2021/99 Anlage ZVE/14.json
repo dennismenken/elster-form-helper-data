@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "11 - Abzug von Kapitalertragsteuer gemäß Antrag nach § 36a Absatz 1 Satz 3",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "28",
+            "label": "Davon ab: Abzuziehende Kapitalertragsteuer nach § 36a Absatz 1 Satz 3 EStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

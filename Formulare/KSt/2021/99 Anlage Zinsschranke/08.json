@@ -1,0 +1,61 @@
+[
+  {
+    "context_label": "7 - -Vortrag bezogen auf das vierte vorangegangene Wirtschaftsjahr",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "68",
+            "label": "Abschlusszeitpunkt des Wirtschaftsjahres (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "69",
+            "label": "EBITDA-Vortrag zum Schluss des fünften vorangegangenen Wirtschaftsjahres (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "70",
+            "label": "Davon ab: Verringerung des EBITDA-Vortrags bei Abspaltung (§ 15 Absatz 3, § 16 UmwStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "71",
+            "label": "Davon ab: Verringerung des EBITDA-Vortrags in anderen Fällen (gegebenenfalls unter Beachtung der § 2 Absatz 4 Satz 1, § 20 Absatz 6 Satz 4 UmwStG), insbesondere durch: Aufgabe oder Übertragung eines Betriebs oder Teilbetriebs (§ 8a Absatz 1 KStG in Verbindung mit § 4h Absatz 5 EStG), Ausscheiden einer Organgesellschaft aus dem Organkreis (§ 15 Satz 1 Nummer 3 KStG, § 8a Absatz 1 KStG in Verbindung mit § 4h Absatz 5 EStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "72",
+            "label": "Nicht bei Organgesellschaften:Davon ab: Verbrauch des EBITDA-Vortrags im laufenden Wirtschaftsjahr (Betrag laut Zeile 56 abzüglich Betrag laut Zeile 64, höchstens Betrag laut Zeile 69 abzüglich Beträge laut Zeilen 70 und 71) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "73",
+            "label": "Zwischensumme (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "74",
+            "label": "Davon ab: Minderung des EBITDA-Vortrags nach § 3a Absatz 3 Satz 2 Nummer 13 Buchstabe b EStG (gegebenenfalls anteiliger Betrag laut Zeile 40 der Anlage SAN abzüglich Betrag laut Zeile 66, höchstens Betrag laut Zeile 73) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "75",
+            "label": "EBITDA-Vortrag zum Schluss des Wirtschaftsjahres bezogen auf das vierte vorangegangene Wirtschaftsjahr (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "Anteile am Gewinn von in- und/oder ausländischen Personengesellschaften (§ 9 Nummer 2 )",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "89",
+            "label": "Bezeichnung",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "89",
+            "label": "Betrag (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

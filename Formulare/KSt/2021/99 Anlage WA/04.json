@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "3 - Anrechnung ausländischer Steuer nach § 50d Absatz 10 Satz 5 in Verbindung mit § 26 Absatz 1",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "10",
+            "label": "Inländische Einkünfte im Sinne des § 50d Absatz 10 EStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "11",
+            "label": "Darauf entfallende festgesetzte, gezahlte, um einen entstandenen Ermäßigungsanspruch gekürzte, anteilige ausländische Steuer (laut Nachweis), die der deutschen Einkommensteuer beziehungsweise Körperschaftsteuer entspricht und auf die die deutsche Steuer nicht angerechnet wurde (§ 50d Absatz 10 Satz 5 EStG) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

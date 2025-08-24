@@ -1,0 +1,29 @@
+[
+  {
+    "context_label": "10 - Angaben zum fortführungsgebundenen vortragsfähigen Gewerbeverlust nach § 10a Satz 10 in Verbindung mit § 8d",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "94",
+            "label": "Aufgrund einer beantragten Feststellung eines fortführungsgebundenen Körperschaftsteuer-Verlustvortrages ist § 8d KStG sinngemäß auf die Gewerbesteuerfehlbeträge anzuwenden (§ 10a Satz 10 GewStG).",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "95",
+            "label": "Wenn zum Schluss des vorangegangenen Erhebungszeitraums ein fortführungsgebundener Gewerbeverlust festgestellt wurde: Im Erhebungszeitraum sind Ereignisse im Sinne des § 8d Absatz 2 KStG eingetreten.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

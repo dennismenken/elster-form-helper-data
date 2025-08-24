@@ -1,0 +1,747 @@
+[
+  {
+    "context_label": "2 - Ermittlung des Gewerbeertrages (§§ 7 bis 9 )",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Ermittlung des Gewerbeertrages für die einzelne Sparte",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "21",
+            "label": "Gewinn aus Gewerbebetrieb (Zeile 39 des Vordrucks GewSt 1 A) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "22",
+            "label": "Der Gewerbebetrieb ist nach folgender Nummer des § 3 GewStG vollständig oder partiell von der Gewerbesteuer befreit (Zeile 42 des Vordrucks GewSt 1 A)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "23",
+            "label": "Davon ab / Dazu: Von der Gewerbesteuer befreiter Gewinn aus Gewerbebetrieb laut Zeile 21 (Zeile 43 des Vordrucks GewSt 1 A) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "24",
+            "label": "Davon ab: Korrektur des Gewinns aus Gewerbebetrieb aufgrund der Erstattung von Aufwendungen, die in einem vorangegangenen Erhebungszeitraum der Hinzurechnung unterlegen haben (Zeile 45 des Vordrucks GewSt 1 A) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "25",
+            "label": "Dazu: Anwendung des § 20 Absatz 5 InvStG (gegebenenfalls in Verbindung mit § 45 Absatz 2 InvStG) (50 % der bei der Ermittlung des Gewinns aus Gewerbebetrieb vorgenommenen Teilfreistellungen aus unmittelbarer Beteiligung nach §§ 20, 21 InvStG gegebenenfalls in Verbindung mit § 43 Absatz 3 und § 44 InvStG) (Zeile 48 des Vordrucks GewSt 1 A) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "26",
+            "label": "Dazu / Davon ab: Korrekturbetrag nach § 45 Absatz 1 InvStG, der dieser Sparte zuzurechnen ist (Zeile 49 des Vordrucks GewSt 1 A) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "27",
+            "label": "Nur bei Organgesellschaften:Davon ab: Steuerfreie Beträge nach § 8b Absatz 1 in Verbindung mit Absatz 4 und 5 KStG beziehungsweise nach § 3 Nummer 41 Buchstabe a EStG oder nach DBA in Verbindung mit § 7a Absatz 2 GewStG (95 % der Summe der Beträge laut Zeile 13 aller Anlagen BEG, die dieser Sparte zuzurechnen sind) (Zeile 73 des Vordrucks GewSt 1 A) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "28",
+            "label": "Zwischensumme (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Hinzurechnungen",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Ermittlung des Hinzurechnungsbetrages nach § 8 Nummer 1 GewStG für das erste Wirtschaftsjahr",
+            "rows": [
+              {
+                "row": "29",
+                "label": "Entgelte für Schulden (Zeile 50 des Vordrucks GewSt 1 A)",
+                "type": "text",
+                "values": [
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "30",
+                "label": "Renten und dauernde Lasten (Zeile 51 des Vordrucks GewSt 1 A)",
+                "type": "text",
+                "values": [
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "31",
+                "label": "Gewinnanteile der stillen Gesellschafter (Zeile 52 des Vordrucks GewSt 1 A)",
+                "type": "text",
+                "values": [
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "32",
+                "label": "Miet- und Pachtzinsen (einschließlich Leasingraten) für die Benutzung fremder beweglicher Betriebsanlagegüter nach § 8 Nummer 1 Buchstabe d Satz 1 GewStG; Übertrag mit einem Fünftel des Betrages der Vorspalte in die Hauptspalte (ohne Beträge laut Zeile 32a) (Zeile 53 des Vordrucks GewSt 1 A)",
+                "type": "text",
+                "values": [
+                  "Vorspalte (Euro)",
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "32a",
+                "label": "Miet- und Pachtzinsen (einschließlich Leasingraten) für Elektrofahrzeuge, begünstigte Hybridelektrofahrzeuge und Fahrräder im Sinne des § 8 Nummer 1 Buchstabe d Satz 2 GewStG aus Verträgen, die nach dem 31.12.2019 abgeschlossen worden sind (Zeile 54 des Vordrucks GewSt 1 A)",
+                "type": "text",
+                "values": [
+                  "Vorspalte (Euro)",
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "33",
+                "label": "Miet- und Pachtzinsen (einschließlich Leasingraten) für die Benutzung fremder unbeweglicher Betriebsanlagegüter; Übertrag mit dem hälftigen Betrag der Vorspalte in die Hauptspalte (Zeile 55 des Vordrucks GewSt 1 A)",
+                "type": "text",
+                "values": [
+                  "Vorspalte (Euro)",
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "34",
+                "label": "Aufwendungen für die zeitlich befristete Überlassung von Rechten - insbesondere Konzessionen und Lizenzen; Übertrag mit einem Viertel des Betrages der Vorspalte in die Hauptspalte (Zeile 56 des Vordrucks GewSt 1 A)",
+                "type": "text",
+                "values": [
+                  "Vorspalte (Euro)",
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "35",
+                "label": "Kürzung des Hinzurechnungsbetrages nach § 8 Nummer 1 GewStG aufgrund des § 9 Nummer 2a Satz 3 zweiter Halbsatz GewStG, § 9 Nummer 7 Satz 2 beziehungsweise § 9 Nummer 8 Satz 2 GewStG, gegebenenfalls in Verbindung mit § 7a Absatz 2 GewStG (Summe der Beträge laut Zeile 20 aller Anlagen BEG, die dieser Sparte und diesem Wirtschaftsjahr zuzurechnen sind) (Zeile 79 des Vordrucks GewSt 1 A)",
+                "type": "text",
+                "values": [
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "36",
+                "label": "Summe der Beträge laut Zeilen 29 bis 34 (Hauptspalte) abzüglich Betrag laut Zeile 35",
+                "type": "text",
+                "values": [
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "37",
+                "label": "Davon ab: Freibetrag 200.000 € (höchstens Betrag laut Zeile 36; aufzuteilen nach dem Verhältnis der Beträge laut Zeile 36 aller Anlagen ÖHG)",
+                "type": "text",
+                "values": [
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "38",
+                "label": "Zwischensumme (Betrag laut Zeile 36 abzüglich Betrag laut Zeile 37)",
+                "type": "text",
+                "values": [
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "39",
+                "label": "Hinzurechnungsbetrag (ein Viertel des Betrages laut Zeile 38)",
+                "type": "text",
+                "values": [
+                  "Hauptspalte (Euro)"
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "section_label": "Ermittlung des Hinzurechnungsbetrages nach § 8 Nummer 1 GewStG für das zweite Wirtschaftsjahr",
+            "rows": [
+              {
+                "row": "39a",
+                "label": "Entgelte für Schulden (Zeile 58 des Vordrucks GewSt 1 A)",
+                "type": "text",
+                "values": [
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "39b",
+                "label": "Renten und dauernde Lasten (Zeile 59 des Vordrucks GewSt 1 A)",
+                "type": "text",
+                "values": [
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "39c",
+                "label": "Gewinnanteile der stillen Gesellschafter (Zeile 60 des Vordrucks GewSt 1 A)",
+                "type": "text",
+                "values": [
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "39d",
+                "label": "Miet- und Pachtzinsen (einschließlich Leasingraten) für die Benutzung fremder beweglicher Betriebsanlagegüter nach § 8 Nummer 1 Buchstabe d Satz 1 GewStG; Übertrag mit einem Fünftel des Betrages der Vorspalte in die Hauptspalte (ohne Beträge laut Zeile 39e) (Zeile 61 des Vordrucks GewSt 1 A)",
+                "type": "text",
+                "values": [
+                  "Vorspalte (Euro)",
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "39e",
+                "label": "Miet- und Pachtzinsen (einschließlich Leasingraten) für Elektrofahrzeuge, begünstigte Hybridelektrofahrzeuge und Fahrräder im Sinne des § 8 Nummer 1 Buchstabe d Satz 2 GewStG aus Verträgen, die nach dem 31.12.2019 abgeschlossen worden sind; Übertrag mit einem Zehntel des Betrages der Vorspalte in die Hauptspalte (Zeile 62 des Vordrucks GewSt 1 A)",
+                "type": "text",
+                "values": [
+                  "Vorspalte (Euro)",
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "39f",
+                "label": "Miet- und Pachtzinsen (einschließlich Leasingraten) für die Benutzung fremder unbeweglicher Betriebsanlagegüter; Übertrag mit dem hälftigen Betrag der Vorspalte in die Hauptspalte (Zeile 63 des Vordrucks GewSt 1 A)",
+                "type": "text",
+                "values": [
+                  "Vorspalte (Euro)",
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "39g",
+                "label": "Aufwendungen für die zeitlich befristete Überlassung von Rechten - insbesondere Konzessionen und Lizenzen; Übertrag mit einem Viertel des Betrages der Vorspalte in die Hauptspalte (Zeile 64 des Vordrucks GewSt 1 A)",
+                "type": "text",
+                "values": [
+                  "Vorspalte (Euro)",
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "39h",
+                "label": "Kürzung des Hinzurechnungsbetrages nach § 8 Nummer 1 GewStG aufgrund des § 9 Nummer 2a Satz 3 zweiter Halbsatz GewStG, § 9 Nummer 7 Satz 2 beziehungsweise § 9 Nummer 8 Satz 2 GewStG, gegebenenfalls in Verbindung mit § 7a Absatz 2 GewStG (Summe der Beträge laut Zeile 20 aller Anlagen BEG, die dieser Sparte und diesem Wirtschaftsjahr zuzurechnen sind) (Zeile 79 des Vordrucks GewSt 1 A)",
+                "type": "text",
+                "values": [
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "39i",
+                "label": "Summe der Beträge laut Zeilen 39a bis 39g (Hauptspalte) abzüglich Betrag laut Zeile 39h",
+                "type": "text",
+                "values": [
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "39j",
+                "label": "Davon ab: Freibetrag 200.000 € (höchstens Betrag laut Zeile 39i; aufzuteilen nach dem Verhältnis der Beträge laut Zeile 39i aller Anlagen ÖHG)",
+                "type": "text",
+                "values": [
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "39k",
+                "label": "Zwischensumme (Betrag laut Zeile 39i abzüglich Betrag laut Zeile 39j)",
+                "type": "text",
+                "values": [
+                  "Hauptspalte (Euro)"
+                ]
+              },
+              {
+                "row": "39l",
+                "label": "Hinzurechnungsbetrag (ein Viertel des Betrages laut Zeile 39k)",
+                "type": "text",
+                "values": [
+                  "Hauptspalte (Euro)"
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "section_label": "Weitere Hinzurechnungen",
+            "rows": [
+              {
+                "row": "40",
+                "label": "Summe der Beträge laut Zeilen 28, 39 und 39l (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "43",
+                "label": "Dazu: Ausschüttungs- und abführungsbedingte Gewinnminderungen (Zeile 68 des Vordrucks GewSt 1 A) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "44",
+                "label": "Dazu: Ausländische Steuern (Zeile 69 des Vordrucks GewSt 1 A) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "45",
+                "label": "Dazu: Weitere Hinzurechnungen (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          },
+          {
+            "section_label": "Anteile am Verlust von Personengesellschaften",
+            "rows": [
+              {
+                "row": null,
+                "label": "laut gesonderter Einzelaufstellung",
+                "type": "note",
+                "values": []
+              },
+              {
+                "row": "45d",
+                "label": "Dazu: Summe der Anteile am Verlust von in- und/oder ausländischen Personengesellschaften (Zeile 67c des Vordrucks GewSt 1 A) (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": [
+              {
+                "section_label": "Name der Personengesellschaft",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Name der Personengesellschaft",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Gewinn aus Gewerbebetrieb nach Hinzurechnungen (ohne § 8 Nummer 5 GewStG)",
+            "rows": [
+              {
+                "row": "46",
+                "label": "Summe des Gewinns aus Gewerbebetrieb und der Hinzurechnungen nach § 8 GewStG (ohne Berücksichtigung des § 8 Nummer 5 GewStG) (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Gewinne aus Anteilen an bestimmten Körperschaften",
+        "rows": [
+          {
+            "row": "47",
+            "label": "Dazu: Hinzurechnungsbetrag nach § 8 Nummer 5 GewStG (bei Organgesellschaften in Verbindung mit § 7a GewStG) (Summe der Beträge laut Zeile 15 aller Anlagen BEG, die dieser Sparte zuzurechnen sind) (Zeile 77 des Vordrucks GewSt 1 A) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "48",
+            "label": "Davon ab: Kürzung nach § 9 Nummer 2a, 7 und 8 GewStG (bei Organgesellschaften in Verbindung mit § 7a GewStG) (Summe der Beträge laut Zeile 19 aller Anlagen BEG, die dieser Sparte zuzurechnen sind) (Zeile 81 des Vordrucks GewSt 1 A) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Kürzungen",
+        "rows": [
+          {
+            "row": "49",
+            "label": "Davon ab: Kürzungsbetrag nach § 9 Nummer 1 Satz 1 GewStG (Zeile 87 des Vordrucks GewSt 1 A) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "50",
+            "label": "Davon ab: Erweiterte Kürzung bei einem Grundstücksunternehmen (Zeile 88 des Vordrucks GewSt 1 A) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "52",
+            "label": "Davon ab / Dazu: Teil des Gewerbeertrages, der auf Betriebsstätten im Ausland entfällt (Zeile 91 des Vordrucks GewSt 1 A) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "53",
+            "label": "Davon ab: Unter Berücksichtigung der Höchstbeträge abziehbare Zuwendungen nach § 9 Nummer 5 GewStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "54",
+            "label": "Davon ab: Weitere Kürzungen (zum Beispiel Betrag laut Zeile 90 des Vordrucks GewSt 1 A) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": "Anteile am Gewinn von Personengesellschaften",
+            "rows": [
+              {
+                "row": null,
+                "label": "laut gesonderter Einzelaufstellung",
+                "type": "note",
+                "values": []
+              },
+              {
+                "row": "54d",
+                "label": "Davon ab: Summe der Anteile am Gewinn von in- und/oder ausländischen Personengesellschaften (Zeile 89c des Vordrucks GewSt 1 A) (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": [
+              {
+                "section_label": "Name der Personengesellschaft",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Name der Personengesellschaft",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Verbleibender Betrag nach Kürzungen",
+            "rows": [
+              {
+                "row": "55",
+                "label": "Verbleibender Betrag (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Kürzungsbetrag bei Beteiligungen an Zwischengesellschaften nach dem AStG",
+        "rows": [
+          {
+            "row": null,
+            "label": "laut gesonderter Einzelaufstellung",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "55a",
+            "label": "Davon ab: Summe der Kürzungsbeträge nach § 11 Absatz 5 AStG (Zeile 99c des Vordrucks GewSt 1 A) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": null,
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Bezeichnung der Zwischengesellschaft",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Bezeichnung der Zwischengesellschaft",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_label": "Weitere Angaben",
+        "rows": [
+          {
+            "row": "55b",
+            "label": "Dazu: Negative Einkünfte des übernehmenden Rechtsträgers nach § 2 Absatz 5 UmwStG (Zeile 122 des Vordrucks GewSt 1 A) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "56",
+            "label": "Dazu: Nach § 10a Satz 10 GewStG in Verbindung mit § 8c KStG nicht ausgleichsfähiger Gewerbeverlust des laufenden Erhebungszeitraums (gegebenenfalls in Verbindung mit § 2 Absatz 4 Satz 1 und 2 UmwStG, § 20 Absatz 6 Satz 4 UmwStG) (Zeile 124 des Vordrucks GewSt 1 A) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": "Gewerbeertrag der Organgesellschaft(en)",
+            "rows": [
+              {
+                "row": null,
+                "label": "laut gesonderter Einzelaufstellung",
+                "type": "note",
+                "values": []
+              },
+              {
+                "row": "58",
+                "label": "Dazu / Davon ab: Summe der Gewerbeerträge der Organgesellschaften (Zeile 108 des Vordrucks GewSt 1 A) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "58a",
+                "label": "Dazu / Davon ab: Summe der Korrekturbeträge aufgrund der Anwendung des § 3 Nummer 40 Buchstabe a, § 3 Nummer 41 Buchstabe b, § 3c EStG, § 8b Absatz 2 und 3 KStG, § 12 Absatz 2 UmwStG in Verbindung mit § 15 Satz 1 Nummer 2 und Satz 2 KStG und der Anwendung von § 34c Absatz 3 EStG (Zeile 109 des Vordrucks GewSt 1 A) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "58b",
+                "label": "Dazu / Davon ab: Summe der Korrekturbeträge aufgrund der Anwendung der §§ 20 und 21 InvStG in Verbindung mit § 15 Satz 1 Nummer 2a und Satz 2 KStG gegebenenfalls in Verbindung mit § 43 Absatz 3 und § 45 Absatz 2 InvStG (Zeile 110 des Vordrucks GewSt 1 A) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "58c",
+                "label": "Dazu: Summe der Korrekturbeträge aufgrund der Anwendung des § 45 Absatz 1 InvStG (Zeile 111 des Vordrucks GewSt 1 A) (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": [
+              {
+                "section_label": "Name der Organgesellschaft",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Name der Organgesellschaft",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Minderung des Gewerbeverlustes bei Abspaltung",
+            "rows": [
+              {
+                "row": "59",
+                "label": "Dazu: Bei der übertragenden Körperschaft im Fall der Abspaltung wegfallender Gewerbeverlust aus dem laufenden Erhebungszeitraum (§ 18 Absatz 1 beziehungsweise § 19 Absatz 1 in Verbindung mit § 15 Absatz 1 Satz 1, § 15 Absatz 3 und § 16 Satz 1 UmwStG) (Zeile 125 des Vordrucks GewSt 1 A) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "60",
+                "label": "Zwischensumme (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          },
+          {
+            "section_label": "Minderung des negativen Gewerbeertrages bei Sanierung",
+            "rows": [
+              {
+                "row": "61",
+                "label": "Dazu: Minderung des negativen Gewerbeertrags des Sanierungsjahres bei unternehmensbezogener Sanierung nach § 7b Absatz 2 Satz 1 Nummer 1 gegebenenfalls in Verbindung mit Satz 2 beziehungsweise Absatz 3 GewStG (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "62",
+                "label": "Zwischensumme (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Korrekturen nach § 2 Absatz 4 Satz 3 und 4 UmwStG",
+        "rows": [
+          {
+            "row": null,
+            "label": "Zeilen 63 bis 66: Nur im Falle von Umwandlungen mit steuerlicher Rückwirkung zur Anwendung des § 2 Absatz 4 Satz 3 und 4 UmwStG beim übernehmenden Rechtsträger; nicht bei Organgesellschaften",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "63",
+            "label": "Betrag laut Zeile 62",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "64",
+            "label": "Davon ab: Im Betrag laut Zeile 63 enthaltener positiver Gewerbeertrag des übertragenden oder einbringenden Rechtsträgers im Rückwirkungszeitraum aus eigenen Übernahmen (Zeile 120 des Vordrucks GewSt 1 A)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "65",
+            "label": "Beim Organträger des übernehmenden Rechtsträgers:Davon ab: Im Betrag laut Zeile 63 enthaltener positiver Gewerbeertrag des auf die Organgesellschaft(en) übertragenden oder einbringenden Rechtsträgers im Rückwirkungszeitraum (Zeile 121 des Vordrucks GewSt 1 A)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "66",
+            "label": "Zwischensumme:Wenn negativ: Nach § 2 Absatz 4 Satz 3 und 4 UmwStG nicht ausgleichsfähiger Verlust des übernehmenden Rechtsträgers (Übertrag eines negativen Betrages mit umgekehrtem Vorzeichen in die Hauptspalte)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)",
+              "Hauptspalte (Euro)"
+            ]
+          },
+          {
+            "row": "67",
+            "label": "Zwischensumme",
+            "type": "text",
+            "values": [
+              "Hauptspalte (Euro)"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Maßgebender Gewerbeertrag und Gewerbeverlust",
+        "rows": [
+          {
+            "row": "68",
+            "label": "Gewerbeertrag vor Verlustabzug (wenn Betrag laut Zeile 67 positiv: Eintragung des Betrages laut Zeile 67; wenn Betrag laut Zeile 67 negativ: Eintragung von \"0\" und weiter in Zeile 71) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "69",
+            "label": "Verlustabzug (Betrag laut Zeile 99) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "70",
+            "label": "Nur bei Organgesellschaften:Im Erhebungszeitraum zu berücksichtigender nach dem rechtswirksamen Abschluss des Gewinnabführungsvertrages bei der Personengesellschaft entstandener Verlust aus der Anwachsung einer Personengesellschaft (R 10a.4 Satz 3 GewStR 2009; laut gesonderter Ermittlung, vergleiche Zeile 100) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "71",
+            "label": "Maßgebender verbleibender Gewerbeertrag (Betrag laut Zeile 68 abzüglich Betrag laut Zeile 69 oder 70); Übertrag des Betrages nach Zeile 104 des Vordrucks GewSt 1 A - nicht bei Organgesellschaften (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "72",
+            "label": "Maßgebender Gewerbeverlust (negativer Gewerbeertrag dieser Sparte, Betrag laut Zeile 67) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": "Werte, die für die Ermittlung des Gewerbeertrages des Organträgers von Bedeutung sind",
+            "rows": [
+              {
+                "row": null,
+                "label": "Nur bei Organgesellschaften",
+                "type": "note",
+                "values": []
+              },
+              {
+                "row": "73",
+                "label": "Zu berücksichtigender Korrekturbetrag zum Gewerbeertrag aufgrund der Anwendung des § 8b Absatz 2 und 3 KStG und § 3 Nummer 41 Buchstabe b EStG in Verbindung mit § 15 Satz 1 Nummer 2 und Satz 2 KStG (Zeile 113 des Vordrucks GewSt 1 A) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "74",
+                "label": "Wenn der Organträger eine Körperschaft ist:Zu berücksichtigender Korrekturbetrag zum Gewerbeertrag aufgrund der Anwendung der §§ 20, 21 InvStG in Verbindung mit § 15 Satz 1 Nummer 2a und Satz 2 KStG (gegebenenfalls in Verbindung mit § 43 Absatz 3 und § 45 Absatz 2 InvStG) (Zeile 116 des Vordrucks GewSt 1 A) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "75",
+                "label": "Wenn der Organträger eine Körperschaft ist:Zu berücksichtigender Korrekturbetrag aufgrund der Anwendung des § 45 Absatz 1 InvStG (Zeile 118 des Vordrucks GewSt 1 A) (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          },
+          {
+            "section_label": "Fälle des § 2 Absatz 4 Satz 3 und 4 UmwStG",
+            "rows": [
+              {
+                "row": null,
+                "label": "Nur bei Organgesellschaften",
+                "type": "note",
+                "values": []
+              },
+              {
+                "row": "76",
+                "label": "Im Falle von Umwandlungen mit steuerlicher Rückwirkung zur Anwendung des § 2 Absatz 4 Satz 3 und 4 UmwStG beim Organträger:Im Betrag laut Zeile 68 oder 72 enthaltener positiver Gewerbeertrag des auf die Organgesellschaft übertragenden oder einbringenden Rechtsträgers im Rückwirkungszeitraum aus eigenen Übernahmen (Zeile 120 des Vordrucks GewSt 1 A) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "77",
+                "label": "Wenn die Organgesellschaft zugleich Organträger ist:Im Betrag laut Zeile 68 oder 72 enthaltener positiver Gewerbeertrag des auf die der Organgesellschaft vorgelagerte(n) Organgesellschaft(en) übertragenden oder einbringenden Rechtsträgers im Rückwirkungszeitraum (Zeile 121 des Vordrucks GewSt 1 A) (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

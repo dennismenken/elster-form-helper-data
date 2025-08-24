@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "4 - D. Ergänzende Angaben zu Umsätzen",
+    "sections": [
+      {
+        "section_label": "In den steuerpflichtigen Umsätzen enthaltene Umsätze",
+        "rows": [
+          {
+            "row": "25",
+            "label": "Innergemeinschaftliche Fernverkäufe aus dem übrigen Gemeinschaftsgebiet (§ 3c UStG) (Bemessungsgrundlage ohne Umsatzsteuer, volle EUR) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

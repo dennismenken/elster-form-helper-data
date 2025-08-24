@@ -1,0 +1,49 @@
+[
+  {
+    "context_label": "Korrekturen bei Beteiligungen an Personengesellschaften",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "13",
+            "label": "Name der Personengesellschaft",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "13",
+            "label": "Im bilanziellen Ergebnis enthaltener Gewinn/Verlust aus dieser Personengesellschaft (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "14",
+            "label": "Nicht bei Organgesellschaften:Steuerpflichtige Einkünfte aus der Beteiligung an der Mitunternehmerschaft laut gesonderter und einheitlicher Feststellung nach Anwendung aller außerbilanziellen Korrekturen (zum Beispiel § 8b KStG) sowie von Verlustverrechnungsbeschränkungen, die auf Ebene der Mitunternehmerschaft anzuwenden sind (zum Beispiel § 15a EStG) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "14a",
+            "label": "Nur bei Organgesellschaften:Einkünfte aus der Beteiligung an der Mitunternehmerschaft laut gesonderter und einheitlicher Feststellung vor Anwendung der aufgrund § 15 Satz 1 Nummer 2 und 2a und § 15 Satz 2 KStG nicht vorzunehmenden außerbilanziellen Korrekturen (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "15",
+            "label": "Nur bei unbeschränkt steuerpflichtigen Körperschaften im Sinne des § 1 Absatz 1 Nummer 1 bis 3 KStG, die keine Organgesellschaften sind:Steuerpflichtige Einkünfte aus der Beteiligung an dieser Personengesellschaft aus vermögensverwaltenden Tätigkeiten (Überleitung nach Maßgabe des BMF-Schreibens vom 29.04.1994, BStBl I 1994, 282) nach Anwendung aller außerbilanziellen Korrekturen (zum Beispiel § 8b KStG) sowie von Verlustverrechnungsbeschränkungen, die auf Ebene der Personengesellschaft anzuwenden sind (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "15a",
+            "label": "Nur bei unbeschränkt steuerpflichtigen Körperschaften im Sinne des § 1 Absatz 1 Nummer 1 bis 3 KStG, die Organgesellschaften sind:Einkünfte aus der Beteiligung an dieser Personengesellschaft aus vermögensverwaltenden Tätigkeiten (Überleitung nach Maßgabe des BMF-Schreibens vom 29.04.1994, BStBl I 1994, 282) vor Anwendung der aufgrund § 15 Satz 1 Nummer 2 und 2a und § 15 Satz 2 KStG nicht vorzunehmenden außerbilanziellen Korrekturen (Euro, Cent)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "context_label": "Einzelangaben pro Prüfungszeitraum",
+    "sections": [
+      {
+        "section_label": "Sterbegeld",
+        "rows": [
+          {
+            "row": "19",
+            "label": "Anzahl der Personen, für die im Prüfungszeitraum der Rechtsanspruch auf Sterbegeld beziehungsweise die Leistung der Kasse an diese Personen weniger als 7.670 € betragen hat",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "20",
+            "label": "Anzahl der Personen, für die im Prüfungszeitraum der Rechtsanspruch auf Sterbegeld beziehungsweise die Leistung der Kasse an diese Personen mehr als 7.669 € betragen hat",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Pension",
+        "rows": [
+          {
+            "row": "21",
+            "label": "Anzahl der Personen, für die im Prüfungszeitraum der Rechtsanspruch auf Pension beziehungsweise die Leistung der Kasse an diese Personen weniger als 25.770 € betragen hat",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "22",
+            "label": "Anzahl der Personen, für die im Prüfungszeitraum der Rechtsanspruch auf Pension beziehungsweise die Leistung der Kasse an diese Personen mehr als 25.669 € und weniger als 38.655 € betragen hat",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "23",
+            "label": "Anzahl der Personen, für die im Prüfungszeitraum der Rechtsanspruch auf Pension beziehungsweise die Leistung der Kasse an diese Personen mehr als 38.654 € betragen hat",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "24",
+            "label": "Prozentsatz der Fälle, bei denen die erreichten Rechtsansprüche der Leistungsempfänger beziehungsweise die Leistungen der Kasse an die Leistungsempfänger mehr als 25.669 € betragen haben (X,XX)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "25",
+            "label": "Prozentsatz der Fälle, bei denen die erreichten Rechtsansprüche der Leistungsempfänger beziehungsweise die Leistungen der Kasse an die Leistungsempfänger mehr als 38.654 € betragen haben (X,XX)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Witwengeld",
+        "rows": [
+          {
+            "row": "26",
+            "label": "Anzahl der Personen, für die im Prüfungszeitraum der Rechtsanspruch auf Witwengeld beziehungsweise die Leistung der Kasse an diese Personen weniger als 17.180 € betragen hat",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "27",
+            "label": "Anzahl der Personen, für die im Prüfungszeitraum der Rechtsanspruch auf Witwengeld beziehungsweise die Leistung der Kasse an diese Personen mehr als 17.179 € und weniger als 25.770 € betragen hat",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "28",
+            "label": "Anzahl der Personen, für die im Prüfungszeitraum der Rechtsanspruch auf Witwengeld beziehungsweise die Leistung der Kasse an diese Personen mehr als 25.769 € betragen hat",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "29",
+            "label": "Prozentsatz der Fälle, bei denen die erreichten Rechtsansprüche der Leistungsempfänger beziehungsweise die Leistungen der Kasse an die Leistungsempfänger mehr als 17.179 € betragen haben (X,XX)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "30",
+            "label": "Prozentsatz der Fälle, bei denen die erreichten Rechtsansprüche der Leistungsempfänger beziehungsweise die Leistungen der Kasse an die Leistungsempfänger mehr als 25.769 € betragen haben (X,XX)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Vollwaisengeld",
+        "rows": [
+          {
+            "row": "31",
+            "label": "Anzahl der Personen, für die im Prüfungszeitraum der Rechtsanspruch auf Vollwaisengeld beziehungsweise die Leistung der Kasse an diese Personen weniger als 10.309 € betragen hat",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "32",
+            "label": "Anzahl der Personen, für die im Prüfungszeitraum der Rechtsanspruch auf Vollwaisengeld beziehungsweise die Leistung der Kasse an diese Personen mehr als 10.308 € und weniger als 15.462 € betragen hat",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "33",
+            "label": "Anzahl der Personen, für die im Prüfungszeitraum der Rechtsanspruch auf Vollwaisengeld beziehungsweise die Leistung der Kasse an diese Personen mehr als 15.461 € betragen hat",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "34",
+            "label": "Prozentsatz der Fälle, bei denen die erreichten Rechtsansprüche der Leistungsempfänger beziehungsweise die Leistungen der Kasse an die Leistungsempfänger mehr als 10.308 € betragen haben (X,XX)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "35",
+            "label": "Prozentsatz der Fälle, bei denen die erreichten Rechtsansprüche der Leistungsempfänger beziehungsweise die Leistungen der Kasse an die Leistungsempfänger mehr als 15.461 € betragen haben (X,XX)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Halbwaisengeld",
+        "rows": [
+          {
+            "row": "36",
+            "label": "Anzahl der Personen, für die im Prüfungszeitraum der Rechtsanspruch auf Halbwaisengeld beziehungsweise die Leistung der Kasse an diese Personen weniger als 5.155 € betragen hat",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "37",
+            "label": "Anzahl der Personen, für die im Prüfungszeitraum der Rechtsanspruch auf Halbwaisengeld beziehungsweise die Leistung der Kasse an diese Personen mehr als 5.154 € und weniger als 7.732 € betragen hat",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "38",
+            "label": "Anzahl der Personen, für die im Prüfungszeitraum der Rechtsanspruch auf Halbwaisengeld beziehungsweise die Leistung der Kasse an diese Personen mehr als 7.731 € betragen hat",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "39",
+            "label": "Prozentsatz der Fälle, bei denen die erreichten Rechtsansprüche der Leistungsempfänger beziehungsweise die Leistungen der Kasse an die Leistungsempfänger mehr als 5.154 € betragen haben (X,XX)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "40",
+            "label": "Prozentsatz der Fälle, bei denen die erreichten Rechtsansprüche der Leistungsempfänger beziehungsweise die Leistungen der Kasse an die Leistungsempfänger mehr als 7.731 € betragen haben (X,XX)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Rechtsansprüche",
+        "rows": [
+          {
+            "row": "41",
+            "label": "Die Rechtsansprüche übersteigen die Grenzen des § 2 KStDV (wenn in der Zeile 20 ein Wert beziehungsweise jeweils in den Zeilen 24, 29, 34 oder 39 ein Wert größer als 12 % beziehungsweise in den Zeilen 25, 30, 35 oder 40 ein Wert größer als 4 % eingetragen wurde).",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

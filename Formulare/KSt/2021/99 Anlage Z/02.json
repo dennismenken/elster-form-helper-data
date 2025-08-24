@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "Personengesellschaft",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "4",
+            "label": "Name der Personengesellschaft",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "4",
+            "label": "Betrag (Euro, Cent)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

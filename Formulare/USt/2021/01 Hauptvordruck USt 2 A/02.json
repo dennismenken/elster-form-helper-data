@@ -1,0 +1,181 @@
+[
+  {
+    "context_label": "1 - A. Allgemeine Angaben",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Bitte berücksichtigen Sie Entgeltserhöhungen und Entgeltsminderungen bei den Bemessungsgrundlagen. Als Bemessungsgrundlage sind die Entgelte für Umsätze sowie die Anzahlungen einzutragen. Negative Beträge sind durch ein Minuszeichen zu kennzeichnen. Rechnen Sie Werte in fremder Währung in Euro um.",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Angaben zum Unternehmen",
+        "rows": [
+          {
+            "row": "8",
+            "label": "Name des Unternehmers",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "9",
+            "label": "gegebenenfalls abweichender Firmenname",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "10",
+            "label": "Art des Unternehmens",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": "Adresse oder Postfach",
+            "rows": [
+              {
+                "row": "11",
+                "label": "Straße",
+                "type": "",
+                "values": []
+              },
+              {
+                "row": "12",
+                "label": "Adressergänzung",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "13",
+                "label": "Postleitzahl, Ort",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "14",
+                "label": "Postleitzahl zum Postfach",
+                "type": "",
+                "values": []
+              }
+            ],
+            "sections": []
+          },
+          {
+            "section_label": "Kontakt",
+            "rows": [
+              {
+                "row": "14",
+                "label": "Telefon",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "15",
+                "label": "E-Mail-Adresse",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Im Ausland ansässiger Unternehmer",
+        "rows": [
+          {
+            "row": "17",
+            "label": "Im Ausland ansässiger Unternehmer. Bitte tätigen Sie in diesem Fall auch Angaben auf der Anlage UN.",
+            "type": "checkbox",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Fiskalvertreter",
+        "rows": [
+          {
+            "row": "18",
+            "label": "Fiskalvertreter. Bitte tätigen Sie in diesem Fall auch Angaben auf der Anlage FV.",
+            "type": "checkbox",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Dauer der Unternehmereigenschaft (falls nicht vom 1. Januar bis zum 31. Dezember 2021)",
+        "rows": [
+          {
+            "row": "20",
+            "label": "1. Zeitraum (TT.MM-TT.MM)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "21",
+            "label": "2. Zeitraum (TT.MM-TT.MM)",
+            "type": "date",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Art der Besteuerung",
+        "rows": [
+          {
+            "row": "22",
+            "label": "Die Steuer wurde berechnet anhand:",
+            "type": "radio",
+            "values": [
+              "Keine Angabe",
+              "vereinbarten Entgelten (§ 16 Absatz 1 Satz 1 UStG)",
+              "vereinnahmten Entgelten (§ 20 UStG)",
+              "vereinnahmten Entgelten nur für einzelne Unternehmensteile (§ 20 Satz 1 Nummer 2 in Verbindung mit Satz 2 oder § 20 Satz 1 Nummer 3 UStG)"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Verrechnung / Abtretung",
+        "rows": [
+          {
+            "row": "25",
+            "label": "Verrechnung des Erstattungsbetrages erwünscht / Erstattungsbetrag ist abgetreten",
+            "type": "checkbox",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Ergänzende Angaben zur Steuererklärung",
+        "rows": [
+          {
+            "row": "27",
+            "label": "Über die Angaben in der Steuererklärung hinaus sind weitere oder abweichende Angaben oder Sachverhalte zu berücksichtigen.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "28",
+            "label": "Ergänzende Angaben zur Steuererklärung",
+            "type": "",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

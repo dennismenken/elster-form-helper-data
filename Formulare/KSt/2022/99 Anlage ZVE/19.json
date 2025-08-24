@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "16 - Freibetrag für Land- und Forstwirte",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "33",
+            "label": "Davon ab: Freibetrag für Land- und Forstwirtschaft (§ 13 Absatz 3 EStG) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

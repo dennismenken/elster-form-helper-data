@@ -1,0 +1,59 @@
+[
+  {
+    "context_label": "8 - Name und Anschrift der Anteilseigner",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Auszufüllen von Kapitalgesellschaften und Genossenschaften sowie vergleichbaren ausländischen Rechtsformen. Beteiligungen unter 1 % beziehungsweise Anteile im Streubesitz können jeweils in einer Position als Summe eingetragen werden.",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Einzelaufstellung der Angaben zu Anteilseignern",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Name (bei natürlichen Personen Vor- und Nachname)",
+            "rows": [
+              {
+                "row": null,
+                "label": "Name (bei natürlichen Personen Vor- und Nachname)",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Allgemeine Angaben zu den Anteilseignern",
+        "rows": [
+          {
+            "row": "26",
+            "label": "Eine Aufstellung über die erstmalige oder geänderte von der Höhe der Beteiligung abweichende Verteilung der Stimmrechte wird gesondert übermittelt (einschließlich Erläuterung zur abweichenden Verteilung).",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "27",
+            "label": "Die oben genannten Angaben zu den Anteilseignern haben sich gegenüber dem Vorjahr geändert.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

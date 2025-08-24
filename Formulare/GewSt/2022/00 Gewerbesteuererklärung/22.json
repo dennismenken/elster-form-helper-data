@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "18 - Sanierungsertrag",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "144",
+            "label": "Nach Anwendung des § 3a Absatz 3 Satz 2 Nummer 1 EStG verbleibender geminderter Sanierungsertrag im Sinne des § 3a Absatz 3 Satz 1 EStG (§ 7b Absatz 2 Satz 1, gegebenenfalls in Verbindung mit Satz 2 und 3 beziehungsweise Absatz 3 GewStG) vor Anwendung des § 7b Absatz 2 Satz 1 Nummer 1 bis 3 GewStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

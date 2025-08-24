@@ -1,0 +1,43 @@
+[
+  {
+    "context_label": "Gewerbeertrag der Organgesellschaft(en)",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "105",
+            "label": "Name der Organgesellschaft",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "107",
+            "label": "Gewerbeertrag der Organgesellschaft (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "107a",
+            "label": "Korrekturbetrag nach § 3 Nummer 40 Buchstabe a, § 3 Nummer 41 Buchstabe b, § 3c EStG und § 8b Absatz 2 und 3 KStG, § 12 Absatz 2 UmwStG in Verbindung mit § 15 Satz 1 Nummer 2 und Satz 2 KStG und § 34c Absatz 3 EStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "107b",
+            "label": "Korrekturbetrag nach §§ 20 und 21 InvStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "107c",
+            "label": "Nur bei Körperschaften:Korrekturbetrag nach § 45 Absatz 1 InvStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

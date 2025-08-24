@@ -1,0 +1,30 @@
+[
+  {
+    "context_label": "7 - F. Steuerschuldner bei Auslagerung (§ 13a Absatz 1 Nummer 6 )",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "89",
+            "label": "Lieferungen, die der Auslagerung vorangegangen sind (§ 4 Nummer 4a Satz 1 Buchstabe a Satz 2 UStG)",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          },
+          {
+            "row": "90",
+            "label": "Summe der Steuer (zu übertragen in Zeile 154) (Übertrag aus Zeile 89)",
+            "type": "text",
+            "values": [
+              "Steuer (Euro, Cent)"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

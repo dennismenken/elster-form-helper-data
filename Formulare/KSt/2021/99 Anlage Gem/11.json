@@ -1,0 +1,162 @@
+[
+  {
+    "context_label": "9 - Zuführung von Vermögen / Ausstattung anderer Körperschaften",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Zeilen 64 bis 70 nur für Körperschaften, die im Prüfungszeitraum Mittel nach § 58 Nummer 3 AO weitergegeben oder erhalten haben",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "63",
+            "label": "Zuführung zum Vermögen nach § 62 Absatz 3 Nummer 1 bis 4 und Absatz 4 AO (gegebenenfalls \"0\" eintragen) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Vermögensausstattung nach § 58 Nummer 3 AO",
+        "rows": [
+          {
+            "row": null,
+            "label": "Nur für Körperschaften, die im Prüfungszeitraum Mittel nach § 58 Nummer 3 AO weitergegeben oder erhalten haben",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": "Zuwendungen zur Vermögensausstattung an eine steuerbegünstigte Körperschaft oder juristische Person des öffentlichen Rechts",
+            "rows": [
+              {
+                "row": "64",
+                "label": "Wir haben einer steuerbegünstigten Körperschaft oder einer juristischen Person des öffentlichen Rechts Mittel zur Vermögensausstattung zugewendet.",
+                "type": "select",
+                "values": [
+                  "Keine Angabe",
+                  "Ja",
+                  "Nein"
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "section_label": "Zuwendungen zur Vermögensausstattung",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Empfängerkörperschaft",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Empfängerkörperschaft",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": [
+                  {
+                    "section_label": null,
+                    "rows": [
+                      {
+                        "row": "65",
+                        "label": "Empfängerkörperschaft, Finanzamt, Steuernummer",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "65",
+                        "label": "Begünstigter Zweck",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "65",
+                        "label": "Betrag (Euro)",
+                        "type": "text",
+                        "values": []
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "section_label": "Mittel zur Vermögensausstattung von einer steuerbegünstigten Körperschaft",
+            "rows": [
+              {
+                "row": "69",
+                "label": "Wir haben von einer steuerbegünstigten Körperschaft Mittel zur Vermögensausstattung erhalten.",
+                "type": "select",
+                "values": [
+                  "Keine Angabe",
+                  "Ja",
+                  "Nein"
+                ]
+              }
+            ],
+            "sections": []
+          },
+          {
+            "section_label": "Mittel zur Vermögensausstattung",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Geberkörperschaft",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Geberkörperschaft",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": [
+                  {
+                    "section_label": null,
+                    "rows": [
+                      {
+                        "row": "70",
+                        "label": "Geberkörperschaft, Finanzamt, Steuernummer",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "70",
+                        "label": "Begünstigter Zweck",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "70",
+                        "label": "Betrag (Euro)",
+                        "type": "text",
+                        "values": []
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

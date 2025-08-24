@@ -1,0 +1,79 @@
+[
+  {
+    "context_label": "10 - Ergänzende Angaben zu Umsätzen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "104",
+            "label": "Umsätze, die auf Grund eines Verzichts auf Steuerbefreiung (§ 9 UStG) als steuerpflichtig behandelt worden sind (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "105",
+            "label": "Steuerpflichtige Umsätze des leistenden Unternehmers, für die der Leistungsempfänger die Steuer nach § 13b Absatz 5 UStG schuldet (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "106",
+            "label": "Beförderungs- und Versendungslieferungen in das übrige Gemeinschaftsgebiet (§ 3c UStG) auf Teilseite 3 oder 4 enthalten (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "107",
+            "label": "Beförderungs- und Versendungslieferungen in das übrige Gemeinschaftsgebiet (§ 3c UStG) in anderen EU-Mitgliedstaaten zu versteuern (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "109",
+            "label": "Telekommunikations-, Rundfunk- und Fernsehdienstleistungen sowie auf elektronischem Weg erbrachte sonstige Leistungen an im übrigen Gemeinschaftsgebiet ansässige Nichtunternehmer unter der Voraussetzung des § 3a Absatz 5 Sätze 3 und 4 UStG auf Teilseite 3 oder 4 enthalten (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "110",
+            "label": "Telekommunikations-, Rundfunk- und Fernsehdienstleistungen sowie auf elektronischem Weg erbrachte sonstige Leistungen an im übrigen Gemeinschaftsgebiet ansässige Nichtunternehmer unter der Voraussetzung des § 3a Absatz 5 Sätze 3 und 4 UStG in anderen EU-Mitgliedstaaten zu versteuern (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "111",
+            "label": "Nicht steuerbare Geschäftsveräußerung im Ganzen gemäß § 1 Absatz 1a UStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "112",
+            "label": "Nicht steuerbare sonstige Leistungen gemäß § 18b Satz 1 Nummer 2 UStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "113",
+            "label": "Übrige nicht steuerbare Umsätze (Leistungsort nicht im Inland) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "114",
+            "label": "In den Zeilen 107, 110, 112 und 113 enthaltene Umsätze, die nach § 15 Absatz 2 und 3 UStG den Vorsteuerabzug ausschließen (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "115",
+            "label": "Auf den inländischen Streckenanteil entfallende Umsätze grenzüberschreitender Personenbeförderungen im Luftverkehr (§ 26 Absatz 3 UStG) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

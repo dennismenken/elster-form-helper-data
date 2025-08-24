@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "20 - Einkommenszurechnung bei einem Organträger",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "38",
+            "label": "Dazu / Davon ab: Korrigierte zuzurechnende Einkommen der Organgesellschaften (Summe der Beträge aus Zeile 25 aller Anlagen OT) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

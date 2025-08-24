@@ -1,0 +1,91 @@
+[
+  {
+    "context_label": "Veräußerungsgewinne und Teilwertaufholungen im Sinne des § 8b Absatz 2",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "162",
+            "label": "Name der Beteiligung",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "163",
+            "label": "Veräußerungspreis oder an dessen Stelle tretender Wert (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "164",
+            "label": "Veräußerungskosten (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "165",
+            "label": "Buchwert des Anteils (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "166",
+            "label": "Gewinn im Sinne des § 8b Absatz 2 Satz 1 und Satz 6 KStG (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "167",
+            "label": "Gewinne aus dem Ansatz des in § 6 Absatz 1 Nummer 2 Satz 3 EStG bezeichneten Wertes, die nach § 8b Absatz 2 Satz 3 KStG steuerfrei sind (Wertaufholung) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "168",
+            "label": "Buchwert der Beteiligung vor Berücksichtigung der Rückzahlung von Nennkapital, Einlagenrückgewähr und Mehr- und Minderabführungen (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "169",
+            "label": "Davon ab: Einlagenrückgewähr laut Bescheinigung (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "170",
+            "label": "Davon ab: Rückzahlung von Nennkapital (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "171",
+            "label": "Davon ab: Mehrabführungen, die ihre Ursache in organschaftlicher Zeit haben (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "172",
+            "label": "Davon ab: Mehrabführungen, die ihre Ursache in vororganschaftlicher Zeit haben und für die die Verwendung des steuerlichen Einlagekontos bescheinigt wurde (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "173",
+            "label": "Dazu: Minderabführungen (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "174",
+            "label": "Gewinne aus der Auflösung oder der Herabsetzung des Nennkapitals oder aus einer Einlagenrückgewähr, die nach § 8b Absatz 2 Satz 3 KStG steuerfrei sind (Euro, Cent)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

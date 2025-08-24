@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "7 - Aufsichtsratsvergütungen an unbeschränkt Steuerpflichtige",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Empfänger der Vergütung",
+            "rows": [
+              {
+                "row": null,
+                "label": "Empfänger der Vergütung",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "context_label": "23 - Einkommenskorrekturen bei einer Organgesellschaft",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "43",
+            "label": "Zwischensumme (Bei einer Organgesellschaft: Einkommen der Organgesellschaft vor Zurechnung an den Organträger) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "44",
+            "label": "Davon ab / Dazu: Dem Organträger zuzurechnendes Einkommen (Betrag laut Zeile 18 der Anlage OG; einzutragen mit umgekehrtem Vorzeichen) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "45",
+            "label": "Dazu: Vom Organträger zu leistende Ausgleichszahlungen im Sinne des § 16 Satz 2 KStG (Betrag laut Zeile 15 der Anlage OG) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

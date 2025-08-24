@@ -1,0 +1,41 @@
+[
+  {
+    "context_label": "10 - Nicht in Erfüllung des Satzungszwecks geleistete unentgeltliche Zuwendungen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "74",
+            "label": "Es haben Mitglieder, Gesellschafter oder außenstehende Personen unentgeltliche Zuwendungen erhalten, die nicht in der Erfüllung des Satzungszweckes geleistet wurden.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Nicht satzungsgemäße unentgeltliche Zuwendungen",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Zuwendungsgrund",
+            "rows": [
+              {
+                "row": null,
+                "label": "Zuwendungsgrund",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+# JSON-Daten
+
+- `00-hauptvordruck-kst-1.json` ← 00 Hauptvordruck KSt 1
+- `anlage-aest.json` ← Anlage AESt
+- `anlage-aev.json` ← Anlage AEV
+- `anlage-ber.json` ← Anlage Ber
+- `anlage-gem.json` ← Anlage Gem
+- `anlage-geno-ver.json` ← Anlage Geno Ver
+- `anlage-gk.json` ← Anlage GK
+- `anlage-gr.json` ← Anlage GR
+- `anlage-hk-zur-spartentrennung.json` ← Anlage ÖHK zur Spartentrennung
+- `anlage-invest-verluste.json` ← Anlage Invest-Verluste
+- `anlage-kassen.json` ← Anlage Kassen
+- `anlage-kst-1-f.json` ← Anlage KSt 1 F
+- `anlage-kst-1-fa.json` ← Anlage KSt 1 Fa
+- `anlage-og.json` ← Anlage OG
+- `anlage-ot.json` ← Anlage OT
+- `anlage-part.json` ← Anlage Part
+- `anlage-san.json` ← Anlage SAN
+- `anlage-steuergestaltung.json` ← Anlage Steuergestaltung
+- `anlage-verluste.json` ← Anlage Verluste
+- `anlage-wa.json` ← Anlage WA
+- `anlage-wif.json` ← Anlage WiFö
+- `anlage-z.json` ← Anlage Z
+- `anlage-zinsschranke.json` ← Anlage Zinsschranke
+- `anlage-zve.json` ← Anlage ZVE
+- `anlage-zwig.json` ← Anlage ZwiG

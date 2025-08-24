@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "33 - Zu versteuerndes Einkommen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "70",
+            "label": "Zu versteuerndes Einkommen (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "10 - Nicht nach steuerfreie negative Einkünfte / Nicht zu berücksichtigende Gewinnminderungen im Sinne des § 2a Absatz 1",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "26",
+            "label": "Dazu: Nicht zu berücksichtigende negative Einkünfte / Gewinnminderungen nach § 2a Absatz 1 EStG (Summe der Beträge laut Zeilen 9 und 10 aller Anlagen AEV) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "27",
+            "label": "Davon ab: Verlustabzug nach § 2a Absatz 1 Satz 3 EStG (Summe der Beträge laut Zeile 15 aller Anlagen AEV) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

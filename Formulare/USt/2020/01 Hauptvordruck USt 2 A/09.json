@@ -1,0 +1,48 @@
+[
+  {
+    "context_label": "9 - Leistungsempfänger als Steuerschuldner (§ 13b )",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "99",
+            "label": "Sonstige Leistungen nach § 3a Absatz 2 UStG eines im übrigen Gemeinschaftsgebiet ansässigen Unternehmers (§ 13b Absatz 1 UStG)",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          },
+          {
+            "row": "100",
+            "label": "Umsätze, die unter das GrEStG fallen (§ 13b Absatz 2 Nummer 3 UStG)",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          },
+          {
+            "row": "101",
+            "label": "Andere Leistungen (§ 13b Absatz 2 Nummer 1, 2, 4 bis 11 UStG)",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          },
+          {
+            "row": "102",
+            "label": "Summe der Steuer (zu übertragen in Zeile 156)",
+            "type": "text",
+            "values": [
+              "Steuer (Euro, Cent)"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

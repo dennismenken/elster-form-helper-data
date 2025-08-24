@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "Anlage",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Ermittlung des zu versteuernden Einkommens",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

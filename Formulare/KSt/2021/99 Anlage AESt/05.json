@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "4 - Abzuziehende ausländische Steuern nach § 34c Absatz 2",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "41",
+            "label": "Nicht bei Organgesellschaften: Der Antrag auf Abzug vom Einkommen gemäß § 34c Absatz 2 EStG wird gestellt",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "42",
+            "label": "Abzuziehende ausländische Steuern nach § 34c Absatz 2 EStG (wenn Antrag laut Zeile 41 gestellt: Summe aus 20 Prozent des Betrages laut Zeile 10, 70 Prozent des Betrages laut Zeile 13, 60 Prozent des Betrages laut Zeile 16, 85 Prozent des Betrages laut Zeile 19, 40 Prozent des Betrages laut Zeile 22 und 20 Prozent des Betrages laut Zeile 25 zuzüglich Summe der Beträge laut Zeilen 28, 34 und 39) - (Übertrag nach Zeile 20 der Anlage ZVE) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

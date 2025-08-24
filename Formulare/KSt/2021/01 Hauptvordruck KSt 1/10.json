@@ -1,0 +1,31 @@
+[
+  {
+    "context_label": "10 - Angaben zu Belegen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Grundsätzlich brauchen Sie keine Belege mit Ihrer Steuererklärung einzureichen. Bitte bewahren Sie Ihre Unterlagen für eventuelle Rückfragen auf und reichen diese nur auf Anforderung durch Ihr Finanzamt nach. Beabsichtigen Sie dennoch Belege einzureichen, kreuzen Sie bitte das nachfolgende Feld an. Reichen Sie Belege und separate Aufstellungen nur dann ein, wenn sich dies ausdrücklich aus den Vordrucken und Anleitungen ergibt.",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Belege werden nachgereicht",
+            "type": "checkbox",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

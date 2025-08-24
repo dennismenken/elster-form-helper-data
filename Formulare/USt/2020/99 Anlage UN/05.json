@@ -1,0 +1,55 @@
+[
+  {
+    "context_label": "4 - Ergänzende Angaben zu Umsätzen",
+    "sections": [
+      {
+        "section_label": "In den steuerpflichtigen Umsätzen enthaltene Umsätze",
+        "rows": [
+          {
+            "row": "25",
+            "label": "Beförderungs- und Versendungslieferungen aus dem übrigen Gemeinschaftsgebiet (§ 3c UStG) (Bemessungsgrundlage ohne Umsatzsteuer, volle Euro) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "In den steuerpflichtigen Umsätzen nicht enthaltene Umsätze",
+        "rows": [
+          {
+            "row": null,
+            "label": "Sonstige Leistungen auf dem Gebiet der Telekommunikation, Rundfunk- und Fernsehdienstleistungen und die auf elektronischem Weg erbrachten sonstigen Leistungen (§ 3a Absatz 5 UStG)",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "27",
+            "label": "sind für Deutschland erklärt worden bei",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "28",
+            "label": "im Besteuerungszeitraum 2020 vom (TT.MM)",
+            "type": "daterange",
+            "values": []
+          },
+          {
+            "row": "29",
+            "label": "unter der Registriernummer:",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "29",
+            "label": "Betrag (Bemessungsgrundlage ohne Umsatzsteuer, volle Euro) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

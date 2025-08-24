@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "35 - Nachzuholender Steuerabzug bei Investmentfonds",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "76",
+            "label": "Inländische Beteiligungseinnahmen und sonstige inländische Einkünfte, für die ein Steuerabzug nachzuholen ist (§ 6 Absatz 3 und 5 in Verbindung mit § 7 InvStG) (laut gesonderter Ermittlung) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "77",
+            "label": "Körperschaftsteuer auf den Betrag laut Zeile 76 (Steuersatz nach § 7 Absatz 1 InvStG) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

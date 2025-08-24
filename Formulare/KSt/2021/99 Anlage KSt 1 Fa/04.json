@@ -1,0 +1,31 @@
+[
+  {
+    "context_label": "3 - Angaben zu ausgestellten Bescheinigungen über die Verwendung des steuerlichen Einlagekontos",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "65a",
+            "label": "Die Minderung des steuerlichen Einlagekontos für die in Zeile 24 eingetragenen Leistungen wurde im Wirtschaftsjahr bescheinigt in Höhe von (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "65b",
+            "label": "Die Minderung des steuerlichen Einlagekontos für die in Zeile 31a eingetragenen Leistungen wurde im Wirtschaftsjahr bescheinigt in Höhe von (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "65c",
+            "label": "Die Minderung des steuerlichen Einlagekontos für die in Zeile 55a eingetragenen Leistungen wurde im Wirtschaftsjahr bescheinigt in Höhe von (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

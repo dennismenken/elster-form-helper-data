@@ -1,0 +1,61 @@
+[
+  {
+    "context_label": "1 - Allgemeine Angaben zur Körperschaft, an der die Beteiligung besteht",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "1a",
+            "label": "ISIN (soweit vorhanden)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "2",
+            "label": "Bezeichnung der Körperschaft",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Anschrift der Körperschaft",
+        "rows": [
+          {
+            "row": "3",
+            "label": "Straße",
+            "type": "",
+            "values": []
+          },
+          {
+            "row": "4",
+            "label": "Adressergänzung",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "5",
+            "label": "Postleitzahl",
+            "type": "",
+            "values": []
+          },
+          {
+            "row": "5",
+            "label": "Postleitzahl (Ausland)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "5a",
+            "label": "Ansässigkeitsstaat",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

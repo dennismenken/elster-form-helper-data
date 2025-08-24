@@ -1,0 +1,43 @@
+[
+  {
+    "context_label": "Anlagen Zinsschranke",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Betriebsausgabenabzug für Zinsaufwendungen (§ 4h EStG in Verbindung mit § 8 Absatz 1, § 8a KStG)",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Die Anlage ist auszufüllen: – von Organträgern, die nicht zugleich Organgesellschaft sind oder – wenn ein Zins- oder EBITDA-Vortrag zum Schluss des vorangegangenen Wirtschaftsjahres festgestellt wurde oder – wenn die Zinsaufwendungen (Betrag laut Zeile 11) mindestens 3 Mio. Euro betragen.",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Enden in einem Veranlagungszeitraum zwei Wirtschaftsjahre, ist für jedes Wirtschaftsjahr die Anlage Zinsschranke (KSt) gesondert auszufüllen.",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

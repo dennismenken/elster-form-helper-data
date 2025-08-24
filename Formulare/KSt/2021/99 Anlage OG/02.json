@@ -1,0 +1,97 @@
+[
+  {
+    "context_label": "1 - Allgemeine Angaben",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Die Steuerpflichtige ist Organgesellschaft:",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "1",
+            "label": "Bezeichnung des Organträgers",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "2",
+            "label": "Straße, Hausnummer",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "3",
+            "label": "Postleitzahl",
+            "type": "",
+            "values": []
+          },
+          {
+            "row": "4a",
+            "label": "Wirtschaftsjahr der Organgesellschaft vom (TT.MM.JJJJ)",
+            "type": "daterange",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Empfangsbevollmächtigter / Postempfänger",
+        "rows": [
+          {
+            "row": null,
+            "label": "Der Feststellungsbescheid im Sinne des § 14 Absatz 5 KStG für den Organträger soll folgendem von den Zeilen 1 bis 3 abweichenden Empfangsbevollmächtigten / Postempfänger zugesandt werden:",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "5",
+            "label": "Namenszeile 1",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "5a",
+            "label": "Namenszeile 2",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "5b",
+            "label": "Namenszeile 3",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "5c",
+            "label": "Namenszeile 4",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "5d",
+            "label": "Straße/Postfach",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "5e",
+            "label": "Straße",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "5f",
+            "label": "Postleitzahl und Ort",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

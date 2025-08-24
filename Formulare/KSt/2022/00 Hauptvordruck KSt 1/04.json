@@ -1,0 +1,38 @@
+[
+  {
+    "context_label": "3 - Angaben zur Steuerbefreiung",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "10",
+            "label": "Die Körperschaft ist nach der folgenden Nummer des § 5 Absatz 1 KStG von der Körperschaftsteuer befreit:",
+            "type": "radio",
+            "values": [
+              "Keine Angabe",
+              "Nr. 3 - Rechtsfähige Pensions-, Sterbe-, Kranken- und Unterstützungskassen",
+              "Nr. 5 - Berufsverbände",
+              "Nr. 7 - Parteien und kommunale Wählervereinigungen",
+              "Nr. 9 - Gemeinnützige, mildtätige oder kirchliche Zwecke",
+              "Nr. 10 - Wohnungsgenossenschaften und -vereine",
+              "Nr. 14 - Genossenschaften und Vereine im Sinne des § 5 Absatz 1 Nummer 14 KStG",
+              "Nr. 16 - Körperschaften im Rahmen des Einlagensicherungssystems",
+              "Nr. 18 - Wirtschaftsförderungsgesellschaften",
+              "Nr. 19 - Gesamthafenbetriebe",
+              "Nr. 21 - Nicht öffentlich-rechtliche Arbeitsgemeinschaften Medizinischer Dienst der Krankenversicherung",
+              "Nr. 22 - Gemeinsame Einrichtungen der Tarifvertragsparteien"
+            ]
+          },
+          {
+            "row": "11",
+            "label": "Die Körperschaft ist vollumfänglich von der Körperschaftsteuer befreit.",
+            "type": "checkbox",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

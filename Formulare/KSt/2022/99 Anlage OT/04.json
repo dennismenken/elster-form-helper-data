@@ -1,0 +1,64 @@
+[
+  {
+    "context_label": "2 - Einkommenszurechnung",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "(laut gesonderter und einheitlicher Feststellung nach § 14 Absatz 5 KStG)",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "13",
+            "label": "Dem Organträger zuzurechnendes Einkommen der Organgesellschaft (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "14",
+            "label": "Betrag, um den das zuzurechnende Einkommen zu korrigieren ist, wenn der Organträger der Körperschaftsteuer unterliegt(ein abzuziehender Betrag ist mit negativem Vorzeichen einzugeben; Übertrag in Hauptspalte, wenn der Organträger nicht zugleich Organgesellschaft ist)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)",
+              "Hauptspalte (Euro)"
+            ]
+          },
+          {
+            "row": "14a",
+            "label": "Betrag, um den das zuzurechnende Einkommen zu korrigieren ist, wenn der Organträger der Einkommensteuer unterliegt (ein abzuziehender Betrag ist mit negativem Vorzeichen einzugeben)",
+            "type": "text",
+            "values": [
+              "Vorspalte (Euro)"
+            ]
+          },
+          {
+            "row": "24",
+            "label": "Davon ab: Der Organgesellschaft nach § 16 Satz 2 KStG zuzurechnendes Einkommen des Organträgers (Ausgleichszahlungen des Organträgers an außenstehende Anteilseigner der Organgesellschaft ohne darauf entfallende Belastung mit Körperschaftsteuer)",
+            "type": "text",
+            "values": [
+              "Hauptspalte (Euro)"
+            ]
+          },
+          {
+            "row": "25",
+            "label": "Korrigiertes dem Organträger zuzurechnendes Einkommen der Organgesellschaft",
+            "type": "text",
+            "values": [
+              "Hauptspalte (Euro)"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

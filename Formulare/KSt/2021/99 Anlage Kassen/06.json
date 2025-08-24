@@ -1,0 +1,61 @@
+[
+  {
+    "context_label": "5 - Leistungsempfänger",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "13",
+            "label": "Anzahl der von der Kasse betreuten Leistungsempfänger",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "14",
+            "label": "Zu den Leistungsempfängern gehören satzungsmäßig auch der Unternehmer, die Gesellschafter (Aktionäre/Genossen) und/oder dessen/deren Angehörige - Anzahl der Personen:",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Leistungen an die Unternehmer, Gesellschafter (Aktionäre/Genossen) und deren Angehörige",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Name",
+            "rows": [
+              {
+                "row": null,
+                "label": "Name",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Leistungen an Personen, die nach der Satzung nicht empfangsberechtigt sind",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Name",
+            "rows": [
+              {
+                "row": null,
+                "label": "Name",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

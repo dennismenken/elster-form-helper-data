@@ -1,0 +1,173 @@
+[
+  {
+    "context_label": "4 - C. Steuerpflichtige Lieferungen, sonstige Leistungen und unentgeltliche Wertabgaben",
+    "sections": [
+      {
+        "section_label": "Umsätze zum allgemeinen Steuersatz",
+        "rows": [
+          {
+            "row": "38",
+            "label": "Lieferungen und sonstige Leistungen zu 19 Prozent",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          },
+          {
+            "row": "39",
+            "label": "Unentgeltliche Wertabgaben - Lieferungen nach § 3 Absatz 1b UStG zu 19 Prozent",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          },
+          {
+            "row": "40",
+            "label": "Unentgeltliche Wertabgaben - Sonstige Leistungen nach § 3 Absatz 9a UStG zu 19 Prozent",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Umsätze zum ermäßigten Steuersatz",
+        "rows": [
+          {
+            "row": "41",
+            "label": "Lieferungen und sonstige Leistungen zu 7 Prozent",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          },
+          {
+            "row": "42",
+            "label": "Unentgeltliche Wertabgaben - Lieferungen nach § 3 Absatz 1b UStG zu 7 Prozent",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          },
+          {
+            "row": "43",
+            "label": "Unentgeltliche Wertabgaben - Sonstige Leistungen nach § 3 Absatz 9a UStG zu 7 Prozent",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Umsätze zu anderen Steuersätzen",
+        "rows": [
+          {
+            "row": "45",
+            "label": "Umsätze zu anderen Steuersätzen",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Umsätze land- und forstwirtschaftlicher Betriebe nach § 24 UStG",
+        "rows": [
+          {
+            "row": "48",
+            "label": "Lieferungen in das übrige Gemeinschaftsgebiet an Abnehmer mit USt-Identifikationsnummer",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)"
+            ]
+          },
+          {
+            "row": "49",
+            "label": "Steuerpflichtige Lieferungen (einschließlich unentgeltlicher Wertabgaben) von Sägewerkserzeugnissen, die in der Anlage 2 zum UStG nicht aufgeführt sind",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          },
+          {
+            "row": "51",
+            "label": "Steuerpflichtige Umsätze (einschließlich unentgeltlicher Wertabgaben) von Getränken, die in der Anlage 2 zum UStG nicht aufgeführt sind, sowie von alkoholischen Flüssigkeiten (zum Beispiel Wein) zu 8,3 Prozent",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          },
+          {
+            "row": "52",
+            "label": "Steuerpflichtige Umsätze (einschließlich unentgeltlicher Wertabgaben) von Getränken, die in der Anlage 2 zum UStG nicht aufgeführt sind, sowie von alkoholischen Flüssigkeiten (zum Beispiel Wein) - Umsätze zu anderen Steuersätzen",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          },
+          {
+            "row": "53",
+            "label": "Übrige steuerpflichtige Umsätze land- und forstwirtschaftlicher Betriebe, für die keine Steuer zu entrichten ist",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Wechsel von der Kleinunternehmer-Regelung (§ 19 UStG) zur Regelbesteuerung beziehungsweise Durchschnittssatzbesteuerung (§ 24 UStG)",
+        "rows": [
+          {
+            "row": "56",
+            "label": "Steuer (Nachsteuer) auf vereinnahmte Anzahlungen infolge des Wechsels der Besteuerungsform (Euro, Cent)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Nachsteuer auf versteuerte Anzahlungen und ähnlich wegen Steuersatzänderung",
+        "rows": [
+          {
+            "row": "58",
+            "label": "Nachsteuer auf versteuerte Anzahlungen und ähnlich wegen Steuersatzänderung (Euro, Cent)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Summe",
+        "rows": [
+          {
+            "row": "60",
+            "label": "Summe der Steuer (zu übertragen in Zeile 152) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

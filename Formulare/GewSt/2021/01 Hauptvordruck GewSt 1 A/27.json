@@ -1,0 +1,79 @@
+[
+  {
+    "context_label": "21 - Mitwirkung bei der Anfertigung der Steuererklärung",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "200",
+            "label": "Die Steuererklärung wurde unter Mitwirkung eines Angehörigen der steuerberatenden Berufe im Sinne der §§ 3 und 4 StBerG angefertigt.",
+            "type": "checkbox",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Bei der Anfertigung dieser Erklärung hat mitgewirkt:",
+        "rows": [
+          {
+            "row": "201",
+            "label": "Name",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "202",
+            "label": "Vorname",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "203",
+            "label": "Straße, Hausnummer",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "204",
+            "label": "Postleitzahl, Ort",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "205",
+            "label": "Telefon",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "206",
+            "label": "zusätzliche Angaben",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "207",
+            "label": "Mandantennummer",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": null,
+            "label": "Mandantennummer für Bescheiddatenübermittlung",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "208",
+            "label": "Bearbeiterkennzeichen",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

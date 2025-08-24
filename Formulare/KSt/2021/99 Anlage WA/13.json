@@ -1,0 +1,55 @@
+[
+  {
+    "context_label": "10 - Corona-Soforthilfen, Überbrückungshilfen und vergleichbare Zuschüsse",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "40",
+            "label": "Gesamtbetrag der erhaltenen Corona-Soforthilfen, Überbrückungshilfen und/oder vergleichbaren Zuschüsse, die in der Gewinnermittlung als steuerpflichtige Betriebseinnahmen erfasst wurden (Saldo der erhaltenen und im gleichen Kalenderjahr zurückgezahlten Corona-Zuschüsse) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Forschungszulage",
+        "rows": [
+          {
+            "row": "41",
+            "label": "Für die Körperschaft wurde ein Antrag auf Festsetzung einer Forschungszulage gestellt. Es wird beantragt, die Festsetzung der Körperschaftsteuer bis zur Festsetzung der Forschungszulage zurückzustellen.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "42",
+            "label": "Für die nachfolgend aufgeführten Personengesellschaften besteht ein Anspruch auf Festsetzung oder Feststellung einer Forschungszulage. Es wird beantragt, die Festsetzung der Körperschaftsteuer bis zur gesonderten und einheitlichen Feststellung nach § 10 Absatz 2 Satz 2 FZulG zurückzustellen.",
+            "type": "checkbox",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Einzelangaben",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Steuernummer der Personengesellschaft",
+            "rows": [
+              {
+                "row": null,
+                "label": "Steuernummer der Personengesellschaft",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "context_label": "9 - Kürzungen",
+    "sections": [
+      {
+        "section_label": "Kürzung aufgrund des zum Betriebsvermögen gehörenden Grundbesitzes nach § 9 Nummer 1 Satz 1 GewStG",
+        "rows": [
+          {
+            "row": null,
+            "label": "laut gesonderter Einzelaufstellung",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": null,
+            "rows": [
+              {
+                "row": "87",
+                "label": "Summe der maßgeblichen Einheitswerte (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": [
+              {
+                "section_label": "Einheitswert (Ersatzwirtschaftswert) des am 01.01.2022 zum Betriebsvermögen gehörenden oder betrieblich genutzten und im Eigentum des Unternehmers stehenden Grundbesitzes, soweit dieser nicht von der Grundsteuer befreit ist(DM-Beträge mit amtlichem Kurs [1 € = 1,95583 DM] in Euro umrechnen)",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Einheitswert (Ersatzwirtschaftswert) des am 01.01.2022 zum Betriebsvermögen gehörenden oder betrieblich genutzten und im Eigentum des Unternehmers stehenden Grundbesitzes, soweit dieser nicht von der Grundsteuer befreit ist(DM-Beträge mit amtlichem Kurs [1 € = 1,95583 DM] in Euro umrechnen)",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": [
+                  {
+                    "section_label": null,
+                    "rows": [
+                      {
+                        "row": "83",
+                        "label": "Einheitswert (Ersatzwirtschaftswert) des am 01.01.2022 zum Betriebsvermögen gehörenden oder betrieblich genutzten und im Eigentum des Unternehmers stehenden Grundbesitzes, soweit dieser nicht von der Grundsteuer befreit ist(DM-Beträge mit amtlichem Kurs [1 € = 1,95583 DM] in Euro umrechnen) (Euro)",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "84",
+                        "label": "Einheitswert-Aktenzeichen (ohne Sonderzeichen)",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "85",
+                        "label": "Der Einheitswert ist anzusetzen mit",
+                        "type": "select",
+                        "values": [
+                          "Keine Angabe",
+                          "100 % bei Mietwohngrundstücken im Beitrittsgebiet",
+                          "400 % bei Geschäftsgrundstücken im Beitrittsgebiet",
+                          "250 % bei gemischtgenutzten Grundstücken, Einfamilienhäusern und sonstigen bebauten Grundstücken im Beitrittsgebiet",
+                          "600 % bei unbebauten Grundstücke im Beitrittsgebiet",
+                          "140 % bei Grundstücken im übrigen Bundesgebiet",
+                          "100 % bei land- und forstwirtschaftlichem Vermögen"
+                        ]
+                      },
+                      {
+                        "row": "86",
+                        "label": "Maßgeblicher Einheitswert (Euro)",
+                        "type": "text",
+                        "values": []
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_label": "Kürzung nach § 9 Nummer 1 Satz 2 GewStG",
+        "rows": [
+          {
+            "row": "88",
+            "label": "Erweiterte Kürzung bei einem Grundstücksunternehmen im Sinne des § 9 Nummer 1 Satz 2 folgende GewStG(Die Voraussetzungen des § 9 Nummer 1 Satz 2 bis 6 GewStG sind anhand geeigneter Aufzeichnungen nachzuweisen.) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Anteile am Gewinn von in- und/oder ausländischen Personengesellschaften (§ 9 Nummer 2 GewStG)",
+        "rows": [
+          {
+            "row": null,
+            "label": "laut gesonderter Einzelaufstellung",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": null,
+            "rows": [
+              {
+                "row": "89c",
+                "label": "Summe der Anteile am Gewinn von in- und/oder ausländischen Personengesellschaften (§ 9 Nummer 2 GewStG) (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": [
+              {
+                "section_label": "Name der Personengesellschaft",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Name der Personengesellschaft",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_label": "Kürzungen nach § 9 Nummer 2b und 3 GewStG",
+        "rows": [
+          {
+            "row": "90",
+            "label": "Die nach § 8 Nummer 4 GewStG dem Gewinn aus Gewerbebetrieb der Kommanditgesellschaft auf Aktien hinzugerechneten Gewinnanteile eines persönlich haftenden Gesellschafters (§ 9 Nummer 2b GewStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "91",
+            "label": "Teil des Gewerbeertrages, der auf Betriebsstätten im Ausland entfällt, ohne Einkünfte im Sinne des § 7 Satz 7 und 8 GewStG (§ 9 Nummer 3 GewStG); negative Beträge mit Minuszeichen eintragen (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Zuwendungen (Spenden und Mitgliedsbeiträge) nach § 9 Nummer 5 GewStG",
+        "rows": [
+          {
+            "row": "92",
+            "label": "Zuwendungen im Kalenderjahr 2022 beziehungsweise im abweichenden Wirtschaftsjahr 2021/2022 zur Förderung steuerbegünstigter Zwecke im Sinne der §§ 52 bis 54 AO (§ 9 Nummer 5 Satz 1 GewStG); ohne Betrag, der in der Zeile 96 einzutragen ist (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "93",
+            "label": "Bei dem übernehmenden Unternehmen im Jahr der Vermögensübernahme: Auf dieses nach § 12 Absatz 3 in Verbindung mit § 15 Absatz 1, § 16, § 18 UmwStG übergegangener Zuwendungsvortrag gemäß § 9 Nummer 5 Satz 13 GewStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "94",
+            "label": "Im Falle einer Abspaltung oder Teilübertragung: Verringerung des verbleibenden Zuwendungsvortrags (§ 9 Nummer 5 Satz 13 GewStG) bei der übertragenden Körperschaft (§ 12 Absatz 3 in Verbindung mit § 15 Absatz 1, § 16, § 18 UmwStG) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": "Angaben für die Höchstbetragsberechnung nach § 9 Nummer 5 GewStG",
+            "rows": [
+              {
+                "row": null,
+                "label": "Nur ausfüllen, wenn für Höchstbetragsberechnung erforderlich",
+                "type": "note",
+                "values": []
+              },
+              {
+                "row": "95",
+                "label": "Summe der gesamten Umsätze und der im Wirtschaftsjahr aufgewendeten Löhne und Gehälter (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          },
+          {
+            "section_label": "Spenden in das zu erhaltende Vermögen (Vermögensstock) einer Stiftung (§ 9 Nummer 5 Satz 9 GewStG)",
+            "rows": [
+              {
+                "row": null,
+                "label": "Nur bei Einzelunternehmen und Personengesellschaften",
+                "type": "note",
+                "values": []
+              },
+              {
+                "row": "96",
+                "label": "Spenden im Kalenderjahr 2022 beziehungsweise im abweichenden Wirtschaftsjahr 2021/2022 in den Vermögensstock einer Stiftung, für die der besondere Abzug nach § 9 Nummer 5 Satz 9 bis 11 GewStG beantragt wird (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "97",
+                "label": "Zum Ende des vorangegangenen Erhebungszeitraums gesondert festgestellter verbleibender Vortrag von Vermögensstockspenden nach § 9 Nummer 5 Satz 9 folgende GewStG (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "98",
+                "label": "Betrag der Vermögensstockspenden, die im Erhebungszeitraum 2022 abgezogen werden sollen (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "99",
+                "label": "Zum Ende des Erhebungszeitraums verbleibender Betrag der Vermögensstockspenden, der aufgrund des Ablaufs des zehnjährigen Abzugszeitraums im Folgejahr nicht mehr beansprucht werden kann (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Kürzungsbetrag bei Beteiligung an Zwischengesellschaften nach dem AStG",
+        "rows": [
+          {
+            "row": null,
+            "label": "laut gesonderter Einzelaufstellung",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "99c",
+            "label": "Summe der Kürzungsbeträge nach § 11 Absatz 5 AStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": null,
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Bezeichnung der Zwischengesellschaft",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Bezeichnung der Zwischengesellschaft",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": [
+                  {
+                    "section_label": null,
+                    "rows": [
+                      {
+                        "row": "99a",
+                        "label": "Bezeichnung der Zwischengesellschaft",
+                        "type": "text",
+                        "values": []
+                      },
+                      {
+                        "row": "99b",
+                        "label": "Kürzungsbetrag nach § 11 Absatz 5 AStG (Euro)",
+                        "type": "text",
+                        "values": []
+                      }
+                    ],
+                    "sections": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

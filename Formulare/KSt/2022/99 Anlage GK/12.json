@@ -1,0 +1,411 @@
+[
+  {
+    "context_label": "6 - Unmittelbare Beteiligungen an anderen Körperschaften",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Die Eintragungen sind - ungeachtet des § 15 Satz 1 Nummer 2 und Satz 2 KStG - auch bei Organgesellschaften vorzunehmen, jedoch ohne die entsprechenden Werte der vorgelagerten Organgesellschaften.",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Kaufpreisänderungen und Veräußerungskosten, die vor oder nach dem Wirtschaftsjahr der Anteilsveräußerung entstanden sind (BMF-Schreiben vom 24.07.2015, BStBl I 2015, 612)",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Im laufenden Jahr zu berücksichtigende Aufwendungen und Erträge aus einem anderen Wirtschaftsjahr",
+            "rows": [
+              {
+                "row": "146",
+                "label": "Davon ab / Dazu: In einem anderen Wirtschaftsjahr entstandene Aufwendungen beziehungsweise Erträge, die im Zusammenhang mit der nach § 8b Absatz 2 und 3 KStG steuerfreien Veräußerung von Anteilen an anderen Körperschaften im laufenden Wirtschaftsjahr stehen (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": [
+              {
+                "section_label": "Bezeichnung des Anteils",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Bezeichnung des Anteils",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Im laufenden Jahr entstandene aber in einem anderen Wirtschaftsjahr zu berücksichtigende Aufwendungen und Erträge",
+            "rows": [
+              {
+                "row": "150",
+                "label": "Dazu / Davon ab: Im laufenden Wirtschaftsjahr entstandene Aufwendungen beziehungsweise Erträge, die im Zusammenhang mit der nach § 8b Absatz 2 und 3 KStG steuerfreien Veräußerung von Anteilen an anderen Körperschaften in einem anderen Wirtschaftsjahr stehen (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": [
+              {
+                "section_label": "Bezeichnung des Anteils",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Bezeichnung des Anteils",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_label": "Laufende steuerfreie Bezüge nach § 8b Absatz 1 und 4 KStG (gegebenenfalls auch aufgrund eines DBA)",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Einzelangaben",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Steuernummer der ausschüttenden Körperschaft",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Steuernummer der ausschüttenden Körperschaft",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": "156",
+                "label": "Bezüge nach § 20 Absatz 1 Nummer 1, 2, 9 und 10 Buchstabe a EStG, die nach § 8b Absatz 1 und 4 KStG oder aufgrund eines DBA steuerfrei sind; ohne Bezüge im Sinne der Zeile 159 (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Steuerfreie Ausschüttungen aus Zwischengesellschaften im Sinne des AStG",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Einzelangaben",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Name der Zwischengesellschaft aus der die Ausschüttung stammt",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Name der Zwischengesellschaft aus der die Ausschüttung stammt",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": "159",
+                "label": "Steuerfreie Bezüge nach § 3 Nummer 41 Buchstabe a EStG laut gesonderter (und einheitlicher) Feststellung nach § 18 AStG (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Nichtabziehbare Betriebsausgaben nach § 8b Absatz 5 KStG",
+        "rows": [
+          {
+            "row": "160",
+            "label": "Nichtabziehbare Ausgaben nach § 8b Absatz 5 Satz 1 KStG (5 % der Summe der Beträge laut Zeilen 156 und 159) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Veräußerungsgewinne und Teilwertaufholungen im Sinne des § 8b Absatz 2 KStG",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Einzelangaben",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Steuernummer der Körperschaft",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Steuernummer der Körperschaft",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": null,
+                "label": "ohne Beträge laut Zeilen 180, 182 und 199",
+                "type": "note",
+                "values": []
+              },
+              {
+                "row": "175",
+                "label": "Gewinne aus der Veräußerung von Anteilen an Körperschaften, die nach § 8b Absatz 2 Satz 1 und Satz 6 KStG steuerfrei sind (gegebenenfalls in Verbindung mit § 15 Absatz 1a EStG) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "176",
+                "label": "Gewinne aus dem Ansatz des in § 6 Absatz 1 Nummer 2 Satz 3 EStG bezeichneten Wertes, die nach § 8b Absatz 2 Satz 3 KStG steuerfrei sind (Wertaufholung) (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "177",
+                "label": "Gewinne aus der Auflösung oder der Herabsetzung des Nennkapitals oder aus einer Einlagenrückgewähr, die nach § 8b Absatz 2 Satz 3 KStG steuerfrei sind (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Steuerfreie Beträge nach § 3 Nummer 41 Buchstabe b EStG",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Einzelangaben",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Name der Zwischengesellschaft",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Name der Zwischengesellschaft",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": "180",
+                "label": "Gewinne nach § 3 Nummer 41 Buchstabe b EStG laut gesonderter (und einheitlicher) Feststellung nach § 18 AStG (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Nichtabziehbare Betriebsausgaben nach § 8b Absatz 3 Satz 1 KStG",
+        "rows": [
+          {
+            "row": "181",
+            "label": "Nichtabziehbare Ausgaben nach § 8b Absatz 3 Satz 1 KStG (5 % der Summe der Beträge laut Zeilen 175 bis 180) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Steuerbefreiung nach § 8b Absatz 2 KStG als Teil eines Übertragungsgewinns nach § 11 UmwStG einer Organgesellschaft",
+        "rows": [
+          {
+            "row": null,
+            "label": "Nur bei Organgesellschaften:",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "182",
+            "label": "Bezüge im Sinne der Zeilen 166 bis 180, soweit sie auf ein selbst zu versteuerndes Einkommen aus einem Übertragungsgewinn nach § 11 UmwStG entfallen (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "183",
+            "label": "Nichtabziehbare Ausgaben nach § 8b Absatz 3 Satz 1 KStG (5 % der Beträge laut Zeile 182) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Veräußerungsverluste und sonstige Gewinnminderungen nach § 8b Absatz 3 Satz 3 bis 8 KStG",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Einzelangaben",
+            "rows": [],
+            "sections": [
+              {
+                "section_label": "Steuernummer der Körperschaft",
+                "rows": [
+                  {
+                    "row": null,
+                    "label": "Steuernummer der Körperschaft",
+                    "type": "repeater",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          },
+          {
+            "section_label": "Summe",
+            "rows": [
+              {
+                "row": "192",
+                "label": "Verluste aus der Veräußerung von Beteiligungen an Körperschaften, die nach § 8b Absatz 3 Satz 3 KStG nicht abziehbar sind (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "193",
+                "label": "Sonstige Gewinnminderungen (zum Beispiel Teilwertabschreibungen) aus Beteiligungen an Körperschaften, die nach § 8b Absatz 3 Satz 3 KStG nicht abziehbar sind (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "194",
+                "label": "Gewinnminderungen im Zusammenhang mit Darlehensforderungen (zum Beispiel Teilwertabschreibungen), die nach § 8b Absatz 3 Satz 4 KStG nicht abziehbar sind (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Gewinne im Sinne des § 8b Absatz 3 Satz 9 KStG",
+        "rows": [
+          {
+            "row": "195",
+            "label": "Gewinne im Sinne des § 8b Absatz 3 Satz 9 KStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Einkommensminderungen beziehungsweise -erhöhungen nach § 8b Absatz 8 Satz 4 und 5 KStG",
+        "rows": [
+          {
+            "row": "196",
+            "label": "Einkommensminderungen beziehungsweise -erhöhungen nach § 8b Absatz 8 Satz 4 und 5 KStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Wertpapierleihe nach § 8b Absatz 10 KStG",
+        "rows": [
+          {
+            "row": null,
+            "label": "Zeilen 197 bis 200: Im Falle der Wertpapierleihe (§ 8b Absatz 10 KStG) bei der entleihenden Körperschaft:",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "197",
+            "label": "Nach § 8b Absatz 10 Satz 1 KStG nichtabziehbare Aufwendungen, soweit sie sich auf die überlassenen Anteile beziehen (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "198",
+            "label": "Fiktive Einnahmen und/oder Bezüge im Sinne des § 8b Absatz 10 Satz 2 KStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "199",
+            "label": "Beträge im Sinne der Zeile 198, soweit es sich dabei um Bezüge im Sinne des § 8b Absatz 1 KStG, auf die § 8b Absatz 4 KStG nicht anzuwenden ist, und/oder um Gewinne im Sinne des § 8b Absatz 2 KStG handelt (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "200",
+            "label": "5 % des Betrages laut Zeile 156 und/oder der Beträge laut Zeilen 175 bis 177, soweit es sich hierbei um Bezüge aus entliehenen Anteilen im Sinne des § 8b Absatz 10 KStG handelt (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Korrektur des Einkommens um nach § 8b KStG und weiterer Vorschriften steuerfreie Beträge",
+        "rows": [
+          {
+            "row": "201",
+            "label": "Nicht bei Organgesellschaften:Summe der Beträge laut Zeilen 160, 181, 192, 193, 194, 196, 197 und 198 abzüglich der Summe der Beträge laut Zeilen 156, 159, 175, 176, 177, 180, 195, 199 und 200 (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "202",
+            "label": "Nur bei Organgesellschaften:Summe der Beträge laut Zeilen 183, 196, 197 und 198 abzüglich Betrag laut Zeile 182 (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "context_label": "Einzelangaben",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "203",
+            "label": "Name der Beteiligung an der (gegebenenfalls ehemaligen) Organgesellschaft",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "205",
+            "label": "Im bilanziellen Ergebnis enthaltener Ertrag/Aufwand aus der Anwendung des Angleichungsfaktors nach § 34 Absatz 6e Satz 9 bis 12 KStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "206",
+            "label": "Die Voraussetzungen für die Anwendung des § 8b Absatz 7 oder 8 KStG liegen vor.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "207",
+            "label": "Buchwert der Beteiligung vor Anwendung des § 34 Absatz 6e Satz 7 KStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "208",
+            "label": "Dazu: Summe der für diese Beteiligung gebildeten aktiven Ausgleichsposten (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "209",
+            "label": "Davon ab: Summe der für diese Beteiligung gebildeten passiven Ausgleichsposten (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "210",
+            "label": "Saldo des Buchwerts und der Ausgleichsposten (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "211",
+            "label": "Beteiligungsertrag aus der Auflösung der Ausgleichsposten nach § 34 Absatz 6e Satz 13 KStG (negativer Betrag laut Zeile 210) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "212",
+            "label": "In die Rücklage nach § 34 Absatz 6e Satz 15 KStG eingestellter Betrag (höchstens Betrag laut Zeile 211) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "213",
+            "label": "Davon ab: Auflösung der Rücklage nach § 34 Absatz 6e Satz 17 KStG (ein Zehntel des Betrages laut Zeile 212) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "214",
+            "label": "Rücklage nach § 34 Absatz 6e Satz 15 KStG zum Ende des Wirtschaftsjahres (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "context_label": "15 - Verlustabzugsbeschränkungen im laufenden Erhebungszeitraum",
+    "sections": [
+      {
+        "section_label": "Minderung des laufenden Gewerbeverlustes wegen schädlichem Beteiligungserwerb oder Abspaltung",
+        "rows": [
+          {
+            "row": null,
+            "label": "laut gesonderter Ermittlung",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "123",
+            "label": "Nur bei Körperschaften und Personengesellschaften, soweit an diesen eine Körperschaft unmittelbar oder mittelbar über eine oder mehrere Personengesellschaft(en) beteiligt ist:Höhe der gesamten zum Zeitpunkt des schädlichen Beteiligungserwerbs im Sinne von § 10a Satz 10 GewStG in Verbindung mit § 8c KStG im Inland vorhandenen gewerbesteuerpflichtigen stillen Reserven des Betriebsvermögens bei Anwendung der Stille-Reserven-Klausel (vergleiche Gleich lautende Erlasse der obersten Finanzbehörden der Länder vom 29.11.2017, BStBl I 2017, 1643) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "124",
+            "label": "Nur bei Körperschaften:Nach § 10a Satz 10 GewStG in Verbindung mit § 8c KStG nicht ausgleichsfähiger Gewerbeverlust des laufenden Erhebungszeitraums (gegebenenfalls in Verbindung mit § 2 Absatz 4 Satz 1 und 2, § 20 Absatz 6 Satz 4 UmwStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "125",
+            "label": "Nur bei Körperschaften:Bei der übertragenden Körperschaft im Falle der Abspaltung wegfallender Gewerbeverlust des laufenden Erhebungszeitraums (§ 18 Absatz 1 beziehungsweise § 19 Absatz 1 in Verbindung mit § 15 Absatz 1 Satz 1, § 15 Absatz 3 und § 16 Satz 1 UmwStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "126",
+            "label": "Nur bei einer Personengesellschaft, soweit an dieser eine Körperschaft unmittelbar oder mittelbar über eine oder mehrere Personengesellschaft(en) beteiligt ist:Nach § 10a Satz 10 GewStG in Verbindung mit § 8c KStG nicht ausgleichsfähiger Gewerbeverlust des laufenden Erhebungszeitraums (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

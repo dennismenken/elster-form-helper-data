@@ -1,0 +1,55 @@
+[
+  {
+    "context_label": "Veräußerungsverluste und sonstige Gewinnminderungen nach § 8b Absatz 3 Satz 3 bis 8",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "185",
+            "label": "Name der Beteiligung",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "186",
+            "label": "Veräußerungspreis oder an dessen Stelle tretender Wert (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "187",
+            "label": "Veräußerungskosten (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "188",
+            "label": "Buchwert des Anteils (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "189",
+            "label": "Verlust aus der Veräußerung einer Beteiligung an einer Körperschaft, der nach § 8b Absatz 3 Satz 3 KStG nicht abziehbar ist (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "190",
+            "label": "Sonstige Gewinnminderungen (zum Beispiel Teilwertabschreibungen) aus der Beteiligung an einer Körperschaft, die nach § 8b Absatz 3 Satz 3 KStG nicht abziehbar sind (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "191",
+            "label": "Gewinnminderungen im Zusammenhang mit Darlehensforderungen (zum Beispiel Teilwertabschreibungen), die nach § 8b Absatz 3 Satz 4 KStG nicht abziehbar sind (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

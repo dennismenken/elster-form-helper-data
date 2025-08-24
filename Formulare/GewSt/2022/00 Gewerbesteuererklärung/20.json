@@ -1,0 +1,103 @@
+[
+  {
+    "context_label": "16 - Angaben zur Verlustfeststellung",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "129",
+            "label": "Nur bei Personengesellschaften:Von einem Einzelunternehmen im Falle des Rechtsformwechsels übernommener Gewerbeverlust aus der Zeit vor dem Rechtsformwechsel, soweit nach § 10a GewStG vortragsfähig (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "130",
+            "label": "Übernommener Gewerbeverlust im Falle der Einbringung des Betriebs einer Personengesellschaft in eine andere Personengesellschaft oder der Verschmelzung von Personengesellschaften (R 10a.3 Absatz 3 Satz 9 Nummer 5 Satz 1 und 2 GewStR 2009) oder im Falle der Anwachsung oder der Verschmelzung einer Personengesellschaft auf einen Gesellschafter (R 10a.3 Absatz 3 Satz 9 Nummer 4 GewStR 2009) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "131",
+            "label": "Nur bei Organgesellschaften:Im Falle der Anwachsung einer Personengesellschaft auf eine Organgesellschaft:Im Betrag laut Zeile 130 enthaltener Verlust, der vor dem rechtswirksamen Abschluss des Gewinnabführungsvertrages bei der Personengesellschaft entstanden ist (R 10a.4 Satz 2 GewStR 2009) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "132",
+            "label": "Nur bei Betrieben gewerblicher Art:Übernommener vortragsfähiger Gewerbeverlust (§ 10a Satz 9 GewStG in Verbindung mit § 8 Absatz 8 KStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "133",
+            "label": "Nur bei Körperschaften:Bei der übertragenden Körperschaft im Falle der Abspaltung wegfallender Gewerbeverlust aus vorangegangenen Erhebungszeiträumen (§ 18 Absatz 1 in Verbindung mit § 16 und § 15 Absatz 3 beziehungsweise § 19 Absatz 2 in Verbindung mit § 15 Absatz 3 UmwStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "134",
+            "label": "Nur bei Körperschaften:Nach § 10a Satz 10 GewStG in Verbindung mit § 8c KStG nicht abziehbarer Gewerbeverlust aus vorangegangenen Erhebungszeiträumen (gegebenenfalls in Verbindung mit § 2 Absatz 4 Satz 1 und 2, § 20 Absatz 6 Satz 4 UmwStG) (laut gesonderter Ermittlung) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "135",
+            "label": "Nur bei Körperschaften:Erhalt des vortragsfähigen fortführungsgebundenen Gewerbeverlustes nach § 10a Satz 11 GewStG in Verbindung mit § 8d Absatz 2 Satz 1 zweiter Halbsatz KStG durch entsprechende Anwendung des § 8c Absatz 1 Satz 5 bis 8 KStG bezogen auf die zum Schluss des vorangegangenen Erhebungszeitraums vorhandenen stillen Reserven (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "136",
+            "label": "Nur bei einer Personengesellschaft, soweit an dieser eine Körperschaft unmittelbar oder mittelbar über eine oder mehrere Personengesellschaften beteiligt ist:Nach § 10a Satz 10 GewStG in Verbindung mit § 8c KStG nicht abziehbarer Gewerbeverlust aus vorangegangenen Erhebungszeiträumen (laut gesonderter Ermittlung) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "137",
+            "label": "Nur bei Personengesellschaften:Wegfallende vortragsfähige Gewerbeverluste und Gewerbeverluste des laufenden Erhebungszeitraums von Mitunternehmern, die im laufenden Erhebungszeitraum ausgeschieden sind (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "138",
+            "label": "Nur bei Personengesellschaften:Nach § 10a Satz 1 GewStG in Verbindung mit § 10a Satz 4 und 5 GewStG zu berücksichtigender Verlustabzug (höchstens 1 Million €) für Mitunternehmer, denen ein Anteil am vortragsfähigen Gewerbeverlust zum Schluss des vorangegangenen Erhebungszeitraums zuzurechnen ist (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "139",
+            "label": "Nur bei Personengesellschaften:Nach § 10a Satz 2 GewStG in Verbindung mit § 10a Satz 4 und 5 GewStG zu berücksichtigender Verlustabzug (60 % des 1 Million € übersteigenden Gewerbeertrages) für Mitunternehmer, denen ein Anteil am vortragsfähigen Gewerbeverlust zum Schluss des vorangegangenen Erhebungszeitraums zuzurechnen ist (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "140",
+            "label": "Nur bei Personengesellschaften oder Einzelunternehmen:Aufgrund der Veräußerung oder Aufgabe von Teilbetrieben wegfallender vortragsfähiger Gewerbeverlust und Gewerbeverlust des laufenden Erhebungszeitraums (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "141",
+            "label": "Nur bei Körperschaften:Aufgrund der Veräußerung oder Aufgabe eines angewachsenen Teilbetriebes wegfallender vortragsfähiger Gewerbeverlust (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "142",
+            "label": "Nur bei Organgesellschaften:Im Betrag laut Zeile 141 enthaltener Verlust, der nach dem rechtswirksamen Abschluss des Gewinnabführungsvertrages bei der Personengesellschaft entstanden ist (R 10a.4 Satz 2 GewStR 2009) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "142a",
+            "label": "Nur bei Personengesellschaften:Anzahl der übermittelten Anlagen EMU",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

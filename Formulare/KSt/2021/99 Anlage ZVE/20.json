@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "17 - Hinzurechnung nach § 2a Absatz 3 Satz 3 und Absatz 4 in Verbindung mit § 52 Absatz 2 Satz 3 und 4 , § 2 Absatz 1 Satz 3 und Absatz 2",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "35",
+            "label": "Dazu: Hinzurechnungsbetrag (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

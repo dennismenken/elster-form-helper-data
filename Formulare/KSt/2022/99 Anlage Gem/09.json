@@ -1,0 +1,123 @@
+[
+  {
+    "context_label": "7 - Durchführung von sportlichen Veranstaltungen gegen Entgelt",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "39",
+            "label": "Einnahmen aus sportlichen Veranstaltungen (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Verzicht auf die Anwendung der Zweckbetriebsgrenze nach § 67a Absatz 2 AO",
+        "rows": [
+          {
+            "row": null,
+            "label": "— Nur auszufüllen, wenn auf die Anwendung der Zweckbetriebsgrenze verzichtet wird oder bereits in den Vorjahren verzichtet wurde —",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "40",
+            "label": "Wir erklären hiermit nach § 67a Absatz 2 AO erstmals, dass wir auf die Anwendung der Zweckbetriebsgrenze verzichten. Uns ist bekannt, dass uns die Erklärung für mindestens fünf Veranlagungszeiträume bindet.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "41",
+            "label": "Kalenderjahr, für das auf die Anwendung der Zweckbetriebsgrenze verzichtet worden ist: (JJJJ)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "42",
+            "label": "Die fünfjährige Bindungsfrist ist noch nicht abgelaufen.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "43",
+            "label": "Wenn nein: Die fünfjährige Bindungsfrist ist abgelaufen mit dem Veranlagungszeitraum: (JJJJ)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "44",
+            "label": "Wir erklären hiermit, dass wir weiterhin auf die Anwendung der Zweckbetriebsgrenze verzichten (keine neue Bindungsfrist).",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "45",
+            "label": "Wir widerrufen hiermit den Verzicht auf die Anwendung der Zweckbetriebsgrenze (keine weiteren Angaben zu den Zeilen 46 bis 49b erforderlich).",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "46",
+            "label": "Sportler des Vereins (Vereinsmitglieder) haben für ihre sportliche Betätigung oder für die Benutzung ihrer Person, ihres Namens, ihres Bildes oder ihrer sportlichen Betätigung zu Werbezwecken von dem Verein oder einem Dritten über die Aufwandsentschädigung hinaus Vergütungen oder andere Vorteile erhalten.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "47",
+            "label": "Vereinsfremde Sportler haben für die Teilnahme an Veranstaltung(en) von dem Verein oder einem Dritten im Zusammenwirken mit dem Verein über eine Aufwandsentschädigung hinaus Vergütungen oder andere Vorteile erhalten.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "48",
+            "label": "Sportliche Veranstaltungen, die nach § 67a Absatz 3 Satz 1 AO Zweckbetriebe sind",
+            "type": "text",
+            "values": [
+              "Einnahmen (Euro)",
+              "Ausgaben (Euro)",
+              "Überschuss / Fehlbetrag (Euro)"
+            ]
+          },
+          {
+            "row": "49",
+            "label": "Andere sportliche Veranstaltungen, die nach § 67a Absatz 3 Satz 2 AO steuerpflichtige wirtschaftliche Geschäftsbetriebe sind",
+            "type": "text",
+            "values": [
+              "Einnahmen (Euro)",
+              "Ausgaben (Euro)",
+              "Überschuss / Fehlbetrag (Euro)"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

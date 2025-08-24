@@ -1,0 +1,61 @@
+[
+  {
+    "context_label": "3 - Ermittlung des ausschüttbaren Gewinns (§ 27 Absatz 1 Satz 5 )",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Stets ausfüllen, wenn im Wirtschaftsjahr Leistungen im Sinne des § 27 KStG erbracht wurden und zum Schluss des vorangegangenen Wirtschaftsjahres beziehungsweise zum Zeitpunkt des Eintritts in die unbeschränkte Steuerpflicht ein steuerliches Einlagekonto bestand.",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Zeilen 11 bis 13: Beträge zum Schluss des vorangegangenen Wirtschaftsjahres beziehungsweise zum Zeitpunkt des Eintritts in die unbeschränkte Steuerpflicht",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "11",
+            "label": "Eigenkapital laut Steuerbilanz (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "12",
+            "label": "Nennkapital (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "13",
+            "label": "Positiver Bestand des steuerlichen Einlagekontos (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "14",
+            "label": "Ausschüttbarer Gewinn (§ 27 Absatz 1 Satz 5 KStG; wenn negativ, dann \"0\" eintragen) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

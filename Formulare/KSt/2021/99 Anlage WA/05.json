@@ -1,0 +1,86 @@
+[
+  {
+    "context_label": "4 - Angaben zum schädlichen Beteiligungserwerb nach § 8c",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "11a",
+            "label": "Die Voraussetzungen des § 8c Absatz 1 Satz 1 KStG wurden in diesem Veranlagungszeitraum erfüllt, weil innerhalb der letzten fünf Jahre mittelbar oder unmittelbar mehr als 50 Prozent des gezeichneten Kapitals, der Mitgliedschaftsrechte, der Beteiligungsrechte oder der Stimmrechte an der Körperschaft an einen Erwerber oder diesem nahe stehende Personen übertragen wurden oder ein vergleichbarer Sachverhalt vorliegt.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "11b",
+            "label": "Die Anwendung des § 8c KStG ist ausgeschlossen, weil ein Erwerb seitens einer natürlichen Person durch Erbfall einschließlich der in vollem Umfang unentgeltlichen Erbauseinandersetzung und der in vollem Umfang unentgeltlichen vorweggenommenen Erbfolge zwischen Angehörigen im Sinne des § 15 AO vorliegt; vergleiche Randnummer 4 des BMF-Schreibens vom 28.11.2017, BStBl I 2017, 1645.",
+            "type": "checkbox",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Konzernklausel nach § 8c Absatz 1 Satz 4 KStG",
+        "rows": [
+          {
+            "row": "11c",
+            "label": "Die Voraussetzungen der Konzernklausel im Sinne des § 8c Absatz 1 Satz 4 KStG sind erfüllt.",
+            "type": "radio",
+            "values": [
+              "Keine Angabe",
+              "Der Erwerber ist eine natürliche oder juristische Person oder eine Personenhandelsgesellschaft und ist zu 100 Prozent mittelbar oder unmittelbar an dem übertragenden Rechtsträger beteiligt (§ 8c Absatz 1 Satz 4 Nummer 1 KStG)",
+              "Der Veräußerer ist eine natürliche oder juristische Person oder eine Personenhandelsgesellschaft und ist zu 100 Prozent mittelbar oder unmittelbar an dem übernehmenden Rechtsträger beteiligt (§ 8c Absatz 1 Satz 4 Nummer 2 KStG)",
+              "Dieselbe natürliche oder juristische Person oder dieselbe Personenhandelsgesellschaft ist an dem übertragenden und an dem übernehmenden Rechtsträger zu jeweils 100 Prozent mittelbar oder unmittelbar beteiligt (§ 8c Absatz 1 Satz 4 Nummer 3 KStG)"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Stille-Reserven-Klausel nach § 8c Absatz 1 Satz 5 KStG",
+        "rows": [
+          {
+            "row": "11d",
+            "label": "Bei der Ermittlung der nichtabziehbaren nicht genutzten Verluste im Sinne des § 8c Absatz 1 Satz 1 KStG wurde die Stille-Reserven-Klausel berücksichtigt, vergleiche § 8c Absatz 1 Satz 5 folgende KStG.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "11e",
+            "label": "Höhe der gesamten zum Zeitpunkt des schädlichen Beteiligungserwerbs vorhandenen im Inland steuerpflichtigen stillen Reserven des Betriebsvermögens der Körperschaft bei Anwendung der Stille-Reserven-Klausel; vergleiche Randnummer 50 folgende des BMF-Schreibens vom 28.11.2017, BStBl I 2017, 1645 (laut gesonderter Ermittlung) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Sanierungsklausel nach § 8c Absatz 1a KStG",
+        "rows": [
+          {
+            "row": "11f",
+            "label": "Es liegt ein Beteiligungserwerb zum Zweck der Sanierung des Geschäftsbetriebs der Körperschaft im Sinne des § 8c Absatz 1a KStG vor.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "11g",
+            "label": "Erforderliche Angaben zu § 8c Absatz 1a KStG, wenn innerhalb der letzten fünf vorangegangenen Veranlagungszeiträume die Sanierungsklausel angewendet wurde:Die Voraussetzungen für die Anwendung der Sanierungsklausel liegen weiterhin vor.",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

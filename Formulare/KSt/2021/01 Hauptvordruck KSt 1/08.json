@@ -1,0 +1,58 @@
+[
+  {
+    "context_label": "8 - Weitere Angaben zu Betrieben gewerblicher Art im Sinne des § 1 Absatz 1 Nummer 6 und wirtschaftlichen Geschäftsbetrieben im Sinne des § 20 Absatz 1 Nummer 10b Satz 4",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "17b",
+            "label": "Nur bei Stiftungen des öffentlichen Rechts:Die Trägerkörperschaft dient ausschließlich und unmittelbar gemeinnützigen oder mildtätigen Zwecken. Eine Bescheinigung nach § 44a Absatz 7 Satz 1 Nummer 2 in Verbindung mit Satz 2 EStG wurde ausgestellt (NV-Art 36).",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "18",
+            "label": "Organisationsform des Betriebs gewerblicher Art:",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Betrieb gewerblicher Art mit eigener Rechtspersönlichkeit",
+              "Regiebetrieb",
+              "Eigenbetrieb / eigenbetriebsähnliche Einrichtung"
+            ]
+          },
+          {
+            "row": null,
+            "label": "Nur bei Regiebetrieben und bei wirtschaftlichen Geschäftsbetrieben von Körperschaften, die nicht nach § 5 Absatz 1 Nummer 9 KStG steuerbefreit sind und die ihren Gewinn nach § 4 Absatz 3 EStG (Einnahmenüberschussrechnung) ermitteln:",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "19",
+            "label": "Umsätze des Kalenderjahres einschließlich der steuerfreien Umsätze, jedoch ohne Umsätze nach § 4 Nummer 8 bis 10 UStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "20",
+            "label": "Gewinn/Verlust im Sinne des § 20 Absatz 1 Nummer 10 Buchstabe b EStG; gegebenenfalls geschätzt laut Randnummer 27 oder Gewinn laut Randnummer 31 des BMF-Schreibens vom 28.01.2019, BStBl I 2019, 97 (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "21",
+            "label": "Die Feststellung des steuerlichen Einlagekontos wird gemäß Randnummer 46 des BMF-Schreibens vom 28.01.2019, BStBl I 2019, 97 beantragt:",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

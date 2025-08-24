@@ -1,0 +1,133 @@
+[
+  {
+    "context_label": "10 - Gewinnkorrekturen bei Organschaft",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Bei einem Organträger oder einer Organgesellschaft:",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "269",
+            "label": "Dazu: Negative Einkünfte, soweit sie in einem ausländischen Staat im Rahmen der Besteuerung des Organträgers, der Organgesellschaft oder einer anderen Person berücksichtigt werden (§ 14 Absatz 1 Satz 1 Nummer 5 KStG), soweit diese in den vorstehenden Beträgen enthalten sind (ohne Vorzeichen eintragen) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Neutralisierung der im bilanziellen Ergebnis des Organträgers aufgrund der Organschaft berücksichtigten Werte",
+        "rows": [
+          {
+            "row": "270",
+            "label": "Davon ab: Erträge aus der Gewinnabführung der Organgesellschaft(en) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "271",
+            "label": "Dazu: Aufwendungen des Organträgers aus der Verlustübernahme von Organgesellschaft(en) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "272",
+            "label": "Dazu: Ausgleichszahlungen des Organträgers an außenstehende Anteilseigner der Organgesellschaft(en) (§ 4 Absatz 5 Satz 1 Nummer 9 EStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "273",
+            "label": "Dazu: Neutralisierung eines bei der Gewinnermittlung berücksichtigten Aufwands aus der Auflösung aktiver oder der Bildung passiver Ausgleichsposten im Sinne des § 14 Absatz 4 KStG in der Fassung vor dem KöMoG vom 25.06.2021 (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "274",
+            "label": "Davon ab: Neutralisierung eines bei der Gewinnermittlung berücksichtigten Ertrages aus der Bildung aktiver oder der Auflösung passiver Ausgleichsposten im Sinne des § 14 Absatz 4 KStG in der Fassung vor dem KöMoG vom 25.06.2021 (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "275",
+            "label": "Dazu: Mehrabführungen, die ihre Ursache in vororganschaftlicher Zeit haben (§ 14 Absatz 3 Satz 1 KStG) (Summe der Beträge aus Zeile 25c aller Anlagen OT, bei denen das Ende des Wirtschaftsjahres laut Anlage OT in dem Wirtschaftsjahr liegt, für das die Anlage GK ausgefüllt wird – gegebenenfalls multipliziert mit der Summe der Beträge laut Zeilen 8 und 9 dividiert durch die Summe der Beträge laut Zeilen 8 bis 10 der jeweiligen Anlage OT) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "276",
+            "label": "Davon ab: Minderabführungen, die ihre Ursache in vororganschaftlicher Zeit haben (§ 14 Absatz 3 Satz 2 KStG) (Summe der Beträge aus Zeile 25d aller Anlagen OT, bei denen das Ende des Wirtschaftsjahres laut Anlage OT in dem Wirtschaftsjahr liegt, für das die Anlage GK ausgefüllt wird – gegebenenfalls multipliziert mit der Summe der Beträge laut Zeilen 8 und 9 dividiert durch die Summe der Beträge laut Zeilen 8 bis 10 der jeweiligen Anlage OT) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "277",
+            "label": "Davon ab: Minderabführungen, die ihre Ursache in organschaftlicher Zeit haben (§ 14 Absatz 4 Satz 1 KStG) (Summe der Beträge aus Zeile 25b aller Anlagen OT, bei denen das Ende des Wirtschaftsjahres laut Anlage OT in dem Wirtschaftsjahr liegt, für das die Anlage GK ausgefüllt wird – gegebenenfalls multipliziert mit der Summe der Beträge laut Zeilen 8 und 9 dividiert durch die Summe der Beträge laut Zeilen 8 bis 10 der jeweiligen Anlage OT) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "278",
+            "label": "Dazu: Mehrabführungen, die ihre Ursache in organschaftlicher Zeit haben (§ 14 Absatz 4 Satz 2 KStG) (Summe der Beträge aus Zeile 25a aller Anlagen OT, bei denen das Ende des Wirtschaftsjahres laut Anlage OT in dem Wirtschaftsjahr liegt, für das die Anlage GK ausgefüllt wird – gegebenenfalls multipliziert mit der Summe der Beträge laut Zeilen 8 und 9 dividiert durch die Summe der Beträge laut Zeilen 8 bis 10 der jeweiligen Anlage OT) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "279",
+            "label": "Dazu / Davon ab: Saldo der Mehr- und Minderabführungen, die im laufenden Wirtschaftsjahr bilanziell berücksichtigt wurden, aus Feststellungen für den vorangegangenen Veranlagungszeitraum (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "280",
+            "label": "Davon ab: Verdeckte Gewinnausschüttungen der Organgesellschaft(en) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Neutralisierung der im bilanziellen Ergebnis der Organgesellschaft aufgrund der Organschaft berücksichtigten Werte",
+        "rows": [
+          {
+            "row": "281",
+            "label": "Dazu: Von der Organgesellschaft an den Organträger abzuführender Gewinn (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "282",
+            "label": "Davon ab: Vom Organträger an die Organgesellschaft zum Ausgleich eines sonst entstehenden Jahresfehlbetrages zu leistender Betrag (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "283",
+            "label": "Dazu: Von der Organgesellschaft geleistete Ausgleichszahlungen an außenstehende Anteilseigner (§ 4 Absatz 5 Satz 1 Nummer 9 EStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "284",
+            "label": "Dazu: An den Organträger geleistete verdeckte Gewinnausschüttungen (R 14.6 Absatz 4 Satz 1 KStR 2022) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "285",
+            "label": "Dazu: Von der Organgesellschaft geleistete verdeckte Gewinnausschüttungen an außenstehende Anteilseigner (R 14.6 Absatz 4 Satz 4 KStR 2022) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

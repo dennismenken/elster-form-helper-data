@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "Einzelangaben",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "54a",
+            "label": "Name der Personengesellschaft",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "54c",
+            "label": "Anteil am Gewinn der in- oder ausländischen Personengesellschaft (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

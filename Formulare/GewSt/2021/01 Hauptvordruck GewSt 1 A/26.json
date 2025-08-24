@@ -1,0 +1,43 @@
+[
+  {
+    "context_label": "20 - Bei einem unterjährigen Rechtsformwechsel von einer Personengesellschaft zu einem Einzelunternehmen oder umgekehrt",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "laut gesonderter Ermittlung",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "145",
+            "label": "Einheitlich ermittelter Gewerbesteuermessbetrag des Gewerbebetriebs für den gesamten Erhebungszeitraum (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "146",
+            "label": "Für den Steuerschuldner (Einzelunternehmen) ermittelter Gewerbeertrag einschließlich Hinzurechnungen und Kürzungen (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "147",
+            "label": "Für den Steuerschuldner (Personengesellschaft) ermittelter Gewerbeertrag einschließlich Hinzurechnungen und Kürzungen (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

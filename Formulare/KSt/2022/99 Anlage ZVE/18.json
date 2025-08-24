@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "15 - Summe der Einkünfte",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "32",
+            "label": "Summe der Einkünfte (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "context_label": "3 - B. Angaben zur Besteuerung der Kleinunternehmer (§ 19 Absatz 1 )",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Die Zeilen 33 und 34 sind nur auszufüllen, wenn der Umsatz 2020 (zuzüglich Steuer) nicht mehr als 22.000 Euro betragen hat und auf die Anwendung des § 19 Absatz 1 UStG nicht verzichtet worden ist.",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "33",
+            "label": "Umsatz im Kalenderjahr 2020 (Berechnung nach § 19 Absatz 1 und 3 UStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "34",
+            "label": "Umsatz im Kalenderjahr 2021 (Berechnung nach § 19 Absatz 1 und 3 UStG) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

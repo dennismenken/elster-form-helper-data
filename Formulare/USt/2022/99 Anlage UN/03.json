@@ -1,0 +1,23 @@
+[
+  {
+    "context_label": "2 - B. Vorsteuer-Vergütungsverfahren beim Bundeszentralamt für Steuern",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "19",
+            "label": "Ist für das Kalenderjahr 2022 die Vergütung von Vorsteuern in einem besonderen Verfahren (§ 18 Absatz 9 UStG, §§ 59 bis 61a UStDV) beantragt worden?",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

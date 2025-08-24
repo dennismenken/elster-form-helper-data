@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "2 - Anrechnung von Steuerabzugsbeträgen nach § 50a bei beschränkt Steuerpflichtigen",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "8",
+            "label": "Anrechenbarer Steuerabzugsbetrag nach § 50a Absatz 1 Nummer 1 und 2 EStG sowie nach § 50a Absatz 7 EStG (laut gesondert übermitteltem Nachweis) (nur bei beschränkt steuerpflichtigen Vergütungsgläubigern ausfüllen; wenn während des Kalenderjahres sowohl unbeschränkte als auch beschränkte Steuerpflicht bestanden hat: für die Zeit der beschränkten Steuerpflicht einbehaltener Steuerabzugsbetrag) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "9",
+            "label": "Solidaritätszuschlag zum Abzugsbetrag laut Zeile 8 (Euro, Cent)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

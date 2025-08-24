@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "14 - Hinzurechnungsbeträge nach § 10 und Kürzungsbeträge nach § 11 Absatz 2",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "31a",
+            "label": "Dazu: Summe der Hinzurechnungsbeträge nach § 10 AStG, die der Körperschaft als Feststellungsbeteiligte der Feststellung nach § 18 AStG zuzurechnen sind (Summe der Beträge laut Zeile 11 abzüglich Summe der Beträge laut Zeile 13 aller Anlagen ZwiG, auf denen keine Eintragungen in Zeile 6 gemacht wurden) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "31b",
+            "label": "Nicht bei Organgesellschaften:Davon ab: Summe der Kürzungsbeträge nach § 11 Absatz 2 AStG (Summe der Beträge laut Zeile 33 gekürzt um die Summe der Beträge laut Zeile 34 und 35 aller Anlagen ZwiG) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

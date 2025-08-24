@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "Anlage zur Gewerbesteuererklärung ( 1 A) - Beteiligung an Körperschaften",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": null,
+            "label": "Anwendung des § 9 Nummer 2a, 7 oder 8 beziehungsweise der § 8 Nummer 5 GewStG; Anwendung des § 7a GewStG bei einer Organgesellschaft",
+            "type": "note",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

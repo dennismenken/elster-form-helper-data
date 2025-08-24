@@ -1,0 +1,75 @@
+[
+  {
+    "context_label": "Gemeinnützige Zwecke",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "4",
+            "label": "Die Körperschaft verfolgt folgende gemeinnützige Zwecke:",
+            "type": "radio",
+            "values": [
+              "Keine Angabe",
+              "Förderung der Altenhilfe",
+              "Förderung der Entwicklungszusammenarbeit",
+              "Förderung der Erziehung",
+              "Förderung der Fürsorge für Strafgefangene und ehemalige Strafgefangene",
+              "Förderung der Gleichberechtigung von Männern und Frauen",
+              "Förderung der Heimatkunde",
+              "Förderung der Heimatpflege",
+              "Förderung der Hilfe für Kriegsopfer, Kriegshinterbliebene, Kriegsbeschädigte und Kriegsgefangene",
+              "Förderung der Hilfe für Opfer von Straftaten",
+              "Förderung der Hilfe für politisch, rassistisch oder religiös Verfolgte, für Flüchtlinge und Vertriebene",
+              "Förderung der Hilfe für Spätaussiedler",
+              "Förderung der Hilfe für Zivilbeschädigte und behinderte Menschen",
+              "Förderung der Jugendhilfe",
+              "Förderung der Kleingärtnerei",
+              "Förderung der Kriminalprävention",
+              "Förderung der öffentlichen Gesundheitspflege und der Bekämpfung von Tierseuchen",
+              "Förderung der Pflanzenzucht",
+              "Förderung der Religion",
+              "Förderung der Rettung aus Lebensgefahr",
+              "Förderung der Soldaten- und Reservistenbetreuung",
+              "Förderung der Tierzucht",
+              "Förderung der Unfallverhütung",
+              "Förderung der Volks- und Berufsbildung sowie der Studentenhilfe",
+              "Förderung des Amateurfunkens",
+              "Förderung des Andenkens an Verfolgte, Kriegs- und Katastrophenopfer",
+              "Förderung des Arbeitsschutzes",
+              "Förderung des bürgerschaftlichen Engagements, wenn es sich auf gemeinnützige, mildtätige oder kirchliche Zwecke bezieht",
+              "Förderung des demokratischen Staatswesens im Geltungsbereich dieses Gesetzes; hierzu gehören nicht Bestrebungen, die nur bestimmte Einzelinteressen staatsbürgerlicher Art verfolgen oder die auf den kommunalpolitischen Bereich beschränkt sind",
+              "Förderung des Denkmalschutzes und der Denkmalpflege",
+              "Förderung des Feuerschutzes",
+              "Förderung des Hundesports",
+              "Förderung des Katastrophen- und Zivilschutzes",
+              "Förderung des Küstenschutzes und des Hochwasserschutzes",
+              "Förderung des Modellflugs/-baus",
+              "Förderung des Naturschutzes und der Landschaftspflege",
+              "Förderung des Schutzes von Ehe und Familie",
+              "Förderung des Sports",
+              "Förderung des Suchdienstes für Vermisste",
+              "Förderung des Tierschutzes",
+              "Förderung des traditionellen Brauchtums",
+              "Förderung des Umweltschutzes einschließlich des Klimaschutzes",
+              "Förderung des Wohlfahrtswesens, insbesondere der Zwecke der amtlich anerkannten Verbände der freien Wohlfahrtspflege, ihrer Unterverbände und ihrer angeschlossenen Einrichtungen und Anstalten",
+              "Förderung internationaler Gesinnung, der Toleranz auf allen Gebieten der Kultur und der Völkerverständigungsgedanken",
+              "Förderung von Kunst und Kultur (mit Abzug der Mitgliedsbeiträge)",
+              "Förderung von Kunst und Kultur (ohne Abzug der Mitgliedsbeiträge)",
+              "Förderung von Verbraucherberatung und Verbraucherschutz",
+              "Förderung von Wissenschaft und Forschung",
+              "Förderung von Zwecken im Sinne des § 52 Absatz 2 Satz 2 AO, bei denen die Mitgliedsbeiträge nach § 10b Absatz 1 Satz 8 Nummer 5 EStG nicht abzugsfähig sind",
+              "Förderung von Zwecken im Sinne des § 52 Absatz 2 Satz 2 AO, bei denen die Mitgliedsbeiträge nach § 10b Absatz 1 Satz 8 Nummer 5 EStG abzugsfähig sind",
+              "Förderung der Hilfe für Menschen, die auf Grund ihrer geschlechtlichen Identität oder ihrer geschlechtlichen Orientierung diskriminiert werden",
+              "Förderung der Ortsverschönerung",
+              "Förderung des Freifunks",
+              "Förderung der Unterhaltung und Pflege von Friedhöfen",
+              "Förderung der Unterhaltung von Gedenkstätten für nichtbestattungspflichtige Kinder und Föten"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

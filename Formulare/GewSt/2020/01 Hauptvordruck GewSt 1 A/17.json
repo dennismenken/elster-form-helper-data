@@ -1,0 +1,31 @@
+[
+  {
+    "context_label": "12 - Bei Rechtsformwechsel einer Personengesellschaft in ein Einzelunternehmen oder umgekehrt",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "110",
+            "label": "Einheitlich ermittelter Gewerbesteuermessbetrag des Gewerbebetriebs für den gesamten Erhebungszeitraum (laut gesonderter Ermittlung) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "111",
+            "label": "Für den Steuerschuldner (Einzelunternehmen) ermittelter Gewerbeertrag einschließlich Hinzurechnungen und Kürzungen (laut gesonderter Ermittlung) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "112",
+            "label": "Für den Steuerschuldner (Personengesellschaft) ermittelter Gewerbeertrag einschließlich Hinzurechnungen und Kürzungen (laut gesonderter Ermittlung) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

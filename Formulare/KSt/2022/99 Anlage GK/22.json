@@ -1,0 +1,43 @@
+[
+  {
+    "context_label": "Einzelangaben",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "287",
+            "label": "Name der Organgesellschaft",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "288",
+            "label": "Mehrabführungen, die ihre Ursache in vororganschaftlicher Zeit haben (§ 14 Absatz 3 Satz 1 KStG) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "289",
+            "label": "Minderabführungen, die ihre Ursache in vororganschaftlicher Zeit haben (§ 14 Absatz 3 Satz 2 KStG) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "290",
+            "label": "Minderabführungen, die ihre Ursache in organschaftlicher Zeit haben (§ 14 Absatz 4 Satz 1 KStG) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "291",
+            "label": "Mehrabführungen, die ihre Ursache in organschaftlicher Zeit haben (§ 14 Absatz 4 Satz 2 KStG) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

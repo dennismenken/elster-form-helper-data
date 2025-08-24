@@ -1,0 +1,43 @@
+[
+  {
+    "context_label": "Einzelangaben",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "30a",
+            "label": "Name der Personengesellschaft",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "30a",
+            "label": "Betrag, um den die Einkünfte aus der Personengesellschaft zu korrigieren sind, wenn der Organträger der Körperschaftsteuer unterliegt(ein abzuziehender Betrag ist mit negativem Vorzeichen einzugeben) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "30b",
+            "label": "Betrag, um den die Einkünfte aus der Personengesellschaft zu korrigieren sind, wenn der Organträger der Einkommensteuer unterliegt(ein abzuziehender Betrag ist mit negativem Vorzeichen einzugeben) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "30c",
+            "label": "Steuerfreier Teil der Einkünfte im Sinne der §§ 3 Nummer 40, 3c Absatz 2 EStG und § 4 Absatz 7 UmwStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "30d",
+            "label": "Im Falle einer Umwandlung mit steuerlicher Rückwirkung auf/in eine Personengesellschaft (übernehmender Rechtsträger), an der die Organgesellschaft beteiligt ist: In dem dem Organträger zuzurechnenden Einkommen enthaltene positive Einkünfte des übertragenden oder einbringenden Rechtsträgers im Rückwirkungszeitraum (laut gesonderter und einheitlicher Feststellung) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

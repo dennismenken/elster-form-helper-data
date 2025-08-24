@@ -1,0 +1,145 @@
+[
+  {
+    "context_label": "13 - Berechnung der zu entrichtenden Umsatzsteuer",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "152",
+            "label": "Umsatzsteuer auf steuerpflichtige Lieferungen, sonstige Leistungen und unentgeltliche Wertabgaben (aus Zeile 60) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "153",
+            "label": "Umsatzsteuer auf innergemeinschaftliche Erwerbe (aus Zeile 86) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "154",
+            "label": "Umsatzsteuer, die vom Auslagerer oder Lagerhalter geschuldet wird (§ 13a Absatz 1 Nummer 6 UStG) (aus Zeile 90) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "155",
+            "label": "Umsatzsteuer, die vom letzten Abnehmer im innergemeinschaftlichen Dreiecksgeschäft geschuldet wird (§ 25b Absatz 2 UStG) (aus Zeile 97) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "156",
+            "label": "Umsatzsteuer, die vom Leistungsempfänger nach § 13b UStG geschuldet wird (aus Zeile 102) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "157",
+            "label": "Zwischensumme (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "158",
+            "label": "Abziehbare Vorsteuerbeträge (aus Zeile 131) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "159",
+            "label": "Vorsteuerbeträge, die auf Grund des § 15a UStG nachträglich abziehbar sind (aus Zeile 150) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "160",
+            "label": "Verbleibender Betrag (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "161",
+            "label": "Vorsteuerbeträge, die auf Grund des § 15a UStG zurückzuzahlen sind (aus Zeile 150) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "162",
+            "label": "In Rechnungen unrichtig oder unberechtigt ausgewiesene Steuerbeträge (§ 14c UStG) sowie Steuerbeträge, die nach § 6a Absatz 4 Satz 2 UStG geschuldet werden (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "163",
+            "label": "Steuerbeträge, die nach § 17 Absatz 1 Satz 6 UStG geschuldet werden (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "164",
+            "label": "Steuer-, Vorsteuer- und Kürzungsbeträge, die auf frühere Besteuerungszeiträume entfallen (nur für Kleinunternehmer, die § 19 Absatz 1 UStG anwenden) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "165",
+            "label": "Umsatzsteuer/Überschuss (bei Überschuss - bitte dem Betrag ein Minuszeichen voranstellen) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "166",
+            "label": "Anrechenbare Beträge (aus Zeile 23 der Anlage UN) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Verbleibende Umsatzsteuer / Verbleibender Überschuss",
+        "rows": [
+          {
+            "row": "167",
+            "label": "Verbleibende Umsatzsteuer / Verbleibender Überschuss (bei verbleibendem Überschuss - bitte dem Betrag ein Minuszeichen voranstellen) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "167",
+            "label": "Manuelle Eingabe der verbleibenden Umsatzsteuer / des verbleibenden Überschusses (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "168",
+            "label": "Vorauszahlungssoll 2020 (einschließlich Sondervorauszahlung) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Noch an die Finanzkasse zu entrichten – Abschlusszahlung / Erstattungsanspruch –",
+        "rows": [
+          {
+            "row": null,
+            "label": "Die Abschlusszahlung ist binnen einem Monat nach der Abgabe der Steuererklärung zu entrichten (§ 18 Absatz 4 UStG). Ein Erstattungsbetrag wird auf das dem Finanzamt benannte Konto überwiesen, soweit der Betrag nicht mit Steuerschulden verrechnet wird. Ein Umsatzsteuerbescheid ergeht nur, wenn von Ihrer Berechnung der Umsatzsteuer abgewichen wird.",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "169",
+            "label": "Noch an die Finanzkasse zu entrichten - Abschlusszahlung/Erstattungsanspruch (bei Erstattungsanspruch - bitte dem Betrag ein Minuszeichen voranstellen) (Euro, Cent)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

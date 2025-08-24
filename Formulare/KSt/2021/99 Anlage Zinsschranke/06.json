@@ -1,0 +1,85 @@
+[
+  {
+    "context_label": "5 - Verrechenbares und -Vortrag (Gesamtbetrag) (§ 4h in Verbindung mit § 8 Absatz 1, § 8a )",
+    "sections": [
+      {
+        "section_label": "Anfangsbestand",
+        "rows": [
+          {
+            "row": "50",
+            "label": "EBITDA-Vortrag zum Schluss des vorangegangenen Wirtschaftsjahres (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "51",
+            "label": "Davon ab: Verringerung des EBITDA-Vortrags bei Abspaltung (§ 15 Absatz 3, § 16 UmwStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "52",
+            "label": "Davon ab: Verringerung des EBITDA-Vortrags in anderen Fällen (gegebenenfalls unter Beachtung der § 2 Absatz 4 Satz 1, § 20 Absatz 6 Satz 4 UmwStG), insbesondere durch: Aufgabe oder Übertragung eines Betriebs oder Teilbetriebs (§ 8a Absatz 1 KStG in Verbindung mit § 4h Absatz 5 EStG), Ausscheiden einer Organgesellschaft aus dem Organkreis (§ 15 Satz 1 Nummer 3 KStG, § 8a Absatz 1 KStG in Verbindung mit § 4h Absatz 5 EStG) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Laufendes Wirtschaftsjahr (nicht bei Organgesellschaften)",
+        "rows": [
+          {
+            "row": "54",
+            "label": "Dazu: Verrechenbares EBITDA des laufenden Wirtschaftsjahres, gegebenenfalls unter Berücksichtigung des § 2 Absatz 4 Satz 3 und 4 UmwStG - nur, wenn im Wirtschaftsjahr kein Anwendungsfall des § 4h Absatz 2 EStG vorliegt (wenn negativ \"0\" eintragen) (laut gesonderter Ermittlung) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Verrechnung von verrechenbarem EBITDA (Zeilen 55 und 56: nicht bei Organgesellschaften)",
+        "rows": [
+          {
+            "row": "55",
+            "label": "Davon ab: Verbrauch von verrechenbarem EBITDA des laufenden Wirtschaftsjahres (Betrag laut Zeile 21) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "56",
+            "label": "Davon ab: Verbrauch des EBITDA-Vortrags aus vorangegangenen Wirtschaftsjahren im laufenden Wirtschaftsjahr (Betrag laut Zeile 23) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "57",
+            "label": "Davon ab: Minderung des EBITDA-Vortrags nach § 3a Absatz 3 Satz 2 Nummer 13 Buchstabe b EStG (Summe der Beträge laut Zeilen 66, 74, 82, 90, 98 und 101; Übertrag in Zeile 41 der Anlage SAN) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Endbestand",
+        "rows": [
+          {
+            "row": "58",
+            "label": "Davon ab: Wegfall des EBITDA-Vortrags des fünften vorangegangenen Wirtschaftsjahres (Übertrag aus Zeile 67) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "59",
+            "label": "EBITDA-Vortrag zum Schluss des laufenden Wirtschaftsjahres (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

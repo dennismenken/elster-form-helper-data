@@ -1,0 +1,203 @@
+[
+  {
+    "context_label": "7 - Kürzungen",
+    "sections": [
+      {
+        "section_label": "Einheitswert Grundbesitz (§ 9 Nummer 1 Satz 1 GewStG)",
+        "rows": [
+          {
+            "row": null,
+            "label": "Einheitswert (Ersatzwirtschaftswert) des am 1.1.2020 zum Betriebsvermögen gehörenden oder betrieblich genutzten und im Eigentum des Unternehmers stehenden Grundbesitzes, soweit dieser nicht von der Grundsteuer befreit ist (§ 9 Nummer 1 Satz 1 GewStG)",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "69",
+            "label": "Anzusetzender Wert in Euro (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": "Einheitswert in Euro",
+            "rows": [
+              {
+                "row": null,
+                "label": "Einheitswert in Euro",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": [
+              {
+                "section_label": null,
+                "rows": [
+                  {
+                    "row": "69",
+                    "label": "Einheitswert in Euro (Euro)",
+                    "type": "text",
+                    "values": []
+                  },
+                  {
+                    "row": "69",
+                    "label": "Der Einheitswert ist anzusetzen mit 100 Prozent",
+                    "type": "checkbox",
+                    "values": []
+                  },
+                  {
+                    "row": "69",
+                    "label": "Der Einheitswert ist anzusetzen mit 140 Prozent",
+                    "type": "checkbox",
+                    "values": []
+                  },
+                  {
+                    "row": "69",
+                    "label": "Der Einheitswert ist anzusetzen mit 250 Prozent",
+                    "type": "checkbox",
+                    "values": []
+                  },
+                  {
+                    "row": "69",
+                    "label": "Der Einheitswert ist anzusetzen mit 400 Prozent",
+                    "type": "checkbox",
+                    "values": []
+                  },
+                  {
+                    "row": "69",
+                    "label": "Der Einheitswert ist anzusetzen mit 600 Prozent",
+                    "type": "checkbox",
+                    "values": []
+                  },
+                  {
+                    "row": "69",
+                    "label": "Zwischensumme zum anzusetzenden Einheitswert (Euro, Cent)",
+                    "type": "text",
+                    "values": []
+                  }
+                ],
+                "sections": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "section_label": "Weitere Kürzungen",
+        "rows": [
+          {
+            "row": "70",
+            "label": "Erweiterte Kürzung bei einem Grundstücksunternehmen im Sinne des § 9 Nummer 1 Satz 2 folgende GewStG (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Anteile am Gewinn von in- und/oder ausländischen Personengesellschaften (§ 9 Nummer 2 GewStG)",
+        "rows": [
+          {
+            "row": "71",
+            "label": "Anteile am Gewinn von in- und/oder ausländischen Personengesellschaften (laut Einzelaufstellung) (§ 9 Nummer 2 GewStG) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": "Bezeichnung",
+            "rows": [
+              {
+                "row": null,
+                "label": "Bezeichnung",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Weitere Angaben",
+        "rows": [
+          {
+            "row": "72",
+            "label": "Nur bei persönlich haftendem Gesellschafter einer Kommanditgesellschaft auf Aktien: Die nach § 8 Nummer 4 GewStG dem Gewinn aus Gewerbebetrieb der KGaA hinzugerechneten Gewinnanteile eines persönlich haftenden Gesellschafters (§ 9 Nummer 2b GewStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "73",
+            "label": "Teil des Gewerbeertrages, der auf Betriebsstätten im Ausland entfällt, ohne Einkünfte im Sinne des § 7 Satz 8 GewStG (§ 9 Nummer 3 GewStG); negative Beträge mit Minuszeichen eintragen (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Zuwendungen (Spenden und Mitgliedsbeiträge) nach § 9 Nummer 5 GewStG",
+        "rows": [
+          {
+            "row": "74",
+            "label": "Zuwendungen im Kalenderjahr 2020 beziehungsweise im abweichenden Wirtschaftsjahr 2019/2020 zur Förderung steuerbegünstigter Zwecke im Sinne der §§ 52 bis 54 AO (§ 9 Nummer 5 Satz 1 GewStG); ohne Betrag, der in der Zeile 78 einzutragen ist (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "75",
+            "label": "Bei dem übernehmenden Unternehmen im Jahr der Vermögensübernahme: Auf dieses nach § 12 Absatz 3 in Verbindung mit § 15 Absatz 1, § 16, § 18 UmwStG übergegangener Zuwendungsvortrag gemäß § 9 Nummer 5 Satz 13 GewStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "76",
+            "label": "Im Falle einer Abspaltung oder Teilübertragung: Verringerung des verbleibenden Zuwendungsvortrags (§ 9 Nummer 5 Satz 13 GewStG) bei der übertragenden Körperschaft (§ 12 Absatz 3 in Verbindung mit § 15 Absatz 1, § 16, § 18 UmwStG) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": "Angaben für die Höchstbetragsberechnung nach § 9 Nummer 5 GewStG",
+            "rows": [
+              {
+                "row": "77",
+                "label": "Summe der gesamten Umsätze und der im Wirtschaftsjahr aufgewendeten Löhne und Gehälter (nur ausfüllen, wenn für Höchstbetragsberechnung erforderlich) (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          },
+          {
+            "section_label": "Nicht bei einer Körperschaft: Zuwendungen in das zu erhaltende Vermögen (Vermögensstock) einer Stiftung (§ 9 Nummer 5 Satz 9 GewStG)",
+            "rows": [
+              {
+                "row": "78",
+                "label": "Zuwendungen in das zu erhaltende Vermögen (Vermögensstock) einer Stiftung (§ 9 Nummer 5 Satz 9 GewStG) im Kalenderjahr 2020 beziehungsweise im abweichenden Wirtschaftsjahr 2019/2020 (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "79",
+                "label": "Noch nicht abgezogene Zuwendungen in das zu erhaltende Vermögen (Vermögensstock) einer Stiftung (§ 9 Nummer 5 Satz 9 GewStG) aus 2011 bis 2019 (Euro)",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "79",
+                "label": "Von diesen Beträgen sollen im Erhebungszeitraum 2020 abgezogen werden (Euro)",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

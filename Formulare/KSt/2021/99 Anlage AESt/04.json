@@ -1,0 +1,43 @@
+[
+  {
+    "context_label": "3 - Ausländische Einkünfte und Steuern der Organgesellschaften laut gesonderter und einheitlicher Feststellung",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "36",
+            "label": "Ausländische Einkünfte nach § 34c Absatz 1 EStG, wenn der Organträger der Körperschaftsteuer unterliegt (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "37",
+            "label": "Ausländische Einkünfte nach § 34c Absatz 1 EStG, wenn der Organträger der Einkommensteuer unterliegt (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "38",
+            "label": "Ausländische Steuern nach § 34c Absatz 1 EStG (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "39",
+            "label": "Ausländische Steuern im Sinne des § 34c Absatz 2 EStG, wenn der Organträger der Körperschaftsteuer unterliegt (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "40",
+            "label": "Ausländische Steuern im Sinne des § 34c Absatz 2 EStG, wenn der Organträger der Einkommensteuer unterliegt (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

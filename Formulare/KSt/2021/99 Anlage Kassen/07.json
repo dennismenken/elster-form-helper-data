@@ -1,0 +1,43 @@
+[
+  {
+    "context_label": "6 - Mittelverwendung",
+    "sections": [
+      {
+        "section_label": "Verwendung von Mitteln für nicht satzungsmäßige Zwecke",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Verwendungszweck",
+            "rows": [
+              {
+                "row": null,
+                "label": "Verwendungszweck",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Vermögensübertragungen auf das Trägerunternehmen",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Zeitpunkt",
+            "rows": [
+              {
+                "row": null,
+                "label": "Zeitpunkt",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      }
+    ]
+  }
+]

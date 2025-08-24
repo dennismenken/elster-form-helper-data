@@ -1,0 +1,19 @@
+[
+  {
+    "context_label": "Einzelangaben",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "44",
+            "label": "Name der Personengesellschaft",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

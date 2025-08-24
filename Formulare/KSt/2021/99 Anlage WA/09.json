@@ -1,0 +1,55 @@
+[
+  {
+    "context_label": "Empfänger der Vergütung",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "20",
+            "label": "Vor- und Nachname",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "20a",
+            "label": "Straße und Hausnummer",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "20b",
+            "label": "Postleitzahl und Wohnort",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "20c",
+            "label": "Finanzamt",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "20d",
+            "label": "Identifikationsnummer",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "20f",
+            "label": "Im Kalenderjahr geleistete Vergütungen (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "20g",
+            "label": "Darin enthaltene Umsatzsteuer (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

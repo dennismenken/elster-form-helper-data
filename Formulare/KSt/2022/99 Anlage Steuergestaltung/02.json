@@ -1,0 +1,43 @@
+[
+  {
+    "context_label": "Anlage Steuergestaltung",
+    "sections": [
+      {
+        "section_label": "Mitteilung einer grenzüberschreitenden Steuergestaltung",
+        "rows": [
+          {
+            "row": null,
+            "label": "Es wird eine grenzüberschreitende Steuergestaltung nach §§ 138d folgende AO genutzt, deren steuerlicher Vorteil sich erstmals im laufenden Veranlagungszeitraum auswirken soll.",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "2",
+            "label": "Registriernummer",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "3",
+            "label": "Offenlegungsnummer",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "4",
+            "label": "Es liegen noch keine Registriernummer und Offenlegungsnummer vor.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "5",
+            "label": "Bezeichnung der Steuergestaltungen, soweit noch keine Registrier- und Offenlegungsnummer vorliegen",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

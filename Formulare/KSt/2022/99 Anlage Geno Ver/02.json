@@ -1,0 +1,37 @@
+[
+  {
+    "context_label": "1 - Genossenschaften und Vereine im Sinne des § 5 Absatz 1 Nummer 14",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "1",
+            "label": "Die Aufteilung der Einnahmen in steuerpflichtige und steuerfreie Tätigkeiten und die Ermittlung des Gewinns aus steuerpflichtigen Tätigkeiten werden/wurden gesondert übermittelt.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "1a",
+            "label": "Gesamteinnahmen (ohne Einnahmen nach § 5 Absatz 1 Nummer 14 Satz 3 KStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "1b",
+            "label": "Einnahmen nach § 5 Absatz 1 Nummer 14 Satz 2 KStG (partiell steuerpflichtiger Geschäftsbereich) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "1c",
+            "label": "Prozentsatz der Einnahmen aus nicht begünstigten Tätigkeiten (Betrag laut Zeile 1b dividiert durch den Betrag laut Zeile 1a multipliziert mit 100)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

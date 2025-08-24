@@ -1,0 +1,49 @@
+[
+  {
+    "context_label": "6 - Ermittlung der Bezüge nach § 7 bei Formwechsel in eine Personengesellschaft, Verschmelzung oder Aufspaltung",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "144",
+            "label": "Zum steuerlichen Übertragungsstichtag ausgewiesenes Eigenkapital laut Steuerbilanz des übertragenden Rechtsträgers (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "145",
+            "label": "Steuerliches Einlagekonto zum Übertragungsstichtag (Betrag laut Zeile 114 Spalte 3) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "146",
+            "label": "Verbleibender Betrag (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "147",
+            "label": "Auf Personengesellschaften übergehende Anteile am Nennkapital vor Verschmelzung oder Aufspaltung (Zähler)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "147a",
+            "label": "Nennkapital vor Verschmelzung oder Aufspaltung (Nenner)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "148",
+            "label": "Bezüge des Anteilseigners im Sinne des § 20 Absatz 1 Nummer 1 EStG(Betrag laut Zeile 146 multipliziert mit dem Betrag laut Zeile 147 dividiert durch den Betrag laut Zeile 147a) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "context_label": "11 - Im bilanziellen Ergebnis berücksichtigte Mehr- und Minderabführungen, obwohl die Körperschaft nicht Organträger der Organgesellschaft ist (vermittelnde Körperschaft)",
+    "sections": [
+      {
+        "section_label": "Einzelangaben",
+        "rows": [],
+        "sections": [
+          {
+            "section_label": "Steuernummer der Organgesellschaft",
+            "rows": [
+              {
+                "row": null,
+                "label": "Steuernummer der Organgesellschaft",
+                "type": "repeater",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Gesamt",
+        "rows": [
+          {
+            "row": "292",
+            "label": "Dazu: Mehrabführungen, die ihre Ursache in vororganschaftlicher Zeit haben (§ 14 Absatz 3 Satz 1 KStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "293",
+            "label": "Davon ab: Minderabführungen, die ihre Ursache in vororganschaftlicher Zeit haben (§ 14 Absatz 3 Satz 2 KStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "294",
+            "label": "Davon ab: Minderabführungen, die ihre Ursache in organschaftlicher Zeit haben (§ 14 Absatz 4 Satz 1 KStG) (Euro)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "295",
+            "label": "Dazu: Mehrabführungen, die ihre Ursache in organschaftlicher Zeit haben (§ 14 Absatz 4 Satz 2 KStG) (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

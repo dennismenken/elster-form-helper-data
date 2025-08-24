@@ -1,0 +1,39 @@
+[
+  {
+    "context_label": "6 - Weitere Angaben",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "16",
+            "label": "Das Unternehmen hält Anteile, auf die § 8b Absatz 7 KStG anzuwenden ist.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "17",
+            "label": "Es handelt sich um ein Unternehmen, auf das § 8 Absatz 9 KStG anzuwenden ist, oder um eine Organgesellschaft, auf deren Organträger § 8 Absatz 9 KStG anzuwenden ist (wenn ja: zusätzlich Anlage(n) ÖHK übermitteln).",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "17a",
+            "label": "Bei Investmentfonds: Art des Investmentfonds:",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Investmentfonds im Sinne des § 1 Absatz 2 InvStG",
+              "Spezial-Investmentfonds im Sinne des § 26 InvStG"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

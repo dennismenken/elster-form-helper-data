@@ -1,0 +1,77 @@
+[
+  {
+    "context_label": "6 - E. Innergemeinschaftliche Erwerbe",
+    "sections": [
+      {
+        "section_label": "Steuerfreie innergemeinschaftliche Erwerbe",
+        "rows": [
+          {
+            "row": "80",
+            "label": "von bestimmten Gegenständen und Anlagegold nach §§ 4b und 25c UStG",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Steuerpflichtige innergemeinschaftliche Erwerbe (§ 1a UStG)",
+        "rows": [
+          {
+            "row": "82",
+            "label": "zum Steuersatz von 19 Prozent",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          },
+          {
+            "row": "83",
+            "label": "zum Steuersatz von 7 Prozent",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          },
+          {
+            "row": "84",
+            "label": "zu anderen Steuersätzen",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          },
+          {
+            "row": "85",
+            "label": "neuer Fahrzeuge (§ 1b Absatz 2 und 3 UStG) von Lieferern ohne USt-Identifikationsnummer zum allgemeinen Steuersatz",
+            "type": "text",
+            "values": [
+              "Bemessungsgrundlage ohne Umsatzsteuer (Euro)",
+              "Steuer (Euro, Cent)"
+            ]
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Summe",
+        "rows": [
+          {
+            "row": "86",
+            "label": "Summe der Steuer (zu übertragen in Zeile 153)",
+            "type": "text",
+            "values": [
+              "Steuer (Euro, Cent)"
+            ]
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

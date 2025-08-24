@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "1 - Allgemeine Angaben",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "1",
+            "label": "Datum des Eintritts in die unbeschränkte Steuerpflicht im laufenden Wirtschaftsjahr (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "2",
+            "label": "Wirtschaftsjahr vom (TT.MM.JJJJ)",
+            "type": "daterange",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

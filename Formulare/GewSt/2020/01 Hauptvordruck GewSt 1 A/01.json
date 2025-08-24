@@ -1,0 +1,332 @@
+[
+  {
+    "context_label": "1 - Allgemeine Angaben",
+    "sections": [
+      {
+        "section_label": "Unternehmen/Firma",
+        "rows": [
+          {
+            "row": "3",
+            "label": "Unternehmen/Firma",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "4",
+            "label": "Gegenstand des Unternehmens",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": "Empfangsbevollmächtigter / Postempfänger",
+            "rows": [
+              {
+                "row": null,
+                "label": "Der Steuerbescheid soll folgendem Empfangsbevollmächtigten / Postempfänger zugesandt werden. (Nur ausfüllen, wenn beim Finanzamt keine entsprechende Empfangsvollmacht vorliegt.)",
+                "type": "note",
+                "values": []
+              },
+              {
+                "row": "11",
+                "label": "Anrede",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "11",
+                "label": "Namenszeile 1",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "11",
+                "label": "Namenszeile 2",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "11",
+                "label": "Straße und Hausnummer oder Postfach",
+                "type": "text",
+                "values": []
+              },
+              {
+                "row": "11",
+                "label": "Postleitzahl und Ort",
+                "type": "text",
+                "values": []
+              }
+            ],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Rechtsform / Art der Tätigkeit",
+        "rows": [
+          {
+            "row": "12",
+            "label": "Der Gewerbebetrieb wird als Einzelunternehmen betrieben",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "13",
+            "label": "Das Unternehmen wurde im Kalenderjahr 2020 überwiegend oder ausschließlich als Hausgewerbe betrieben (§ 11 Absatz 3 GewStG):",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "14",
+            "label": "Rechtsform des Unternehmens",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Gesellschaft mit beschränkter Haftung",
+              "Unternehmergesellschaft (haftungsbeschränkt)",
+              "Aktiengesellschaft",
+              "Europäische Gesellschaft (SE)",
+              "Kommanditgesellschaft auf Aktien",
+              "Ausländische Rechtsform, die mit Körperschaften nach § 1 Absatz 1 Nummer 1 KStG vergleichbar ist",
+              "eingetragene Genossenschaft",
+              "Europäische Genossenschaft (SCE)",
+              "sonstige Genossenschaft im Sinne des Genossenschaftsgesetzes",
+              "Ausländische Rechtsform, die mit einer Körperschaft nach § 1 Absatz 1 Nummer 2 KStG vergleichbar ist",
+              "Versicherungsverein auf Gegenseitigkeit",
+              "Pensionsfondsverein auf Gegenseitigkeit",
+              "eingetragener Verein",
+              "wirtschaftlicher Verein",
+              "rechtsfähige Stiftung des privaten Rechts",
+              "sonstige juristische Person des privaten Rechts",
+              "Ausländische Rechtsform, die einer Körperschaft nach § 1 Absatz 1 Nummer 4 KStG vergleichbar ist",
+              "Nichtrechtsfähiger Verein",
+              "Nichtrechtsfähige Stiftung des privaten Rechts",
+              "Sonstiges Zweckvermögen",
+              "Ausländische Rechtsform, die einer Körperschaft oder einem Zweckvermögen nach § 1 Absatz 1 Nummer 5 KStG vergleichbar ist",
+              "Gebietskörperschaft",
+              "Rechtsfähige Anstalt des öffentlichen Rechts",
+              "Nichtrechtsfähige Anstalt des öffentlichen Rechts",
+              "Berufsständische Körperschaft des öffentlichen Rechts",
+              "Öffentlich-rechtliche Rundfunk- und Fernsehanstalt",
+              "Öffentlich-rechtliche Religionsgesellschaft",
+              "Rechtsfähige Stiftung des öffentlichen Rechts",
+              "Nichtrechtsfähige Stiftung des öffentlichen Rechts",
+              "Sonstige juristische Person des öffentlichen Rechts (zum Beispiel Zweckverband)",
+              "Ausländische Rechtsform, die einer öffentlich-rechtlichen Körperschaft nach § 1 Absatz 1 Nummer 6 KStG vergleichbar ist",
+              "Sondervermögen",
+              "Investmentaktiengesellschaft",
+              "Investmentkommanditgesellschaft",
+              "Europäischer Verbund für territoriale Zusammenarbeit",
+              "Atypisch stille Gesellschaft",
+              "Offene Handelsgesellschaft",
+              "Kommanditgesellschaft",
+              "GmbH und Co. KG",
+              "GmbH und Co. OHG",
+              "Aktiengesellschaft und Co. KG",
+              "Aktiengesellschaft und Co. OHG",
+              "Gesellschaft bürgerlichen Rechts",
+              "Europäische wirtschaftliche Interessenvereinigung (EWIV)",
+              "sonstige Personengesellschaften",
+              "Gemeinschaft (zum Beispiel Erben-, Grundstücksgemeinschaft)",
+              "Partenreederei (§§ 489 folgende HGB)",
+              "Partnerschaft (§ 1 PartGG)",
+              "Unterbeteiligung",
+              "ausländische Rechtsform, die einer Personengesellschaft entspricht"
+            ]
+          },
+          {
+            "row": "15",
+            "label": "Das Einzelunternehmen / die Personengesellschaft ist durch Rechtsformwechsel im Laufe des Kalenderjahres 2020 aus einer Personengesellschaft / einem Einzelunternehmen hervorgegangen: am (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "17",
+            "label": "Es handelt sich um ein Unternehmen im Sinne des § 7 Satz 5 GewStG in Verbindung mit § 8 Absatz 9 KStG (auch soweit Organgesellschaft)",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "17",
+            "label": "Anzahl der beigefügten Anlagen ÖHG",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "18",
+            "label": "Anzahl der übermittelten Anlagen EMU",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Angaben zur Betriebsstätte",
+        "rows": [
+          {
+            "row": "19",
+            "label": "Betriebsstätten bestanden im Kalenderjahr 2020 in mehreren Gemeinden:",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "19",
+            "label": "Betriebsstätte(n) erstreckte(n) sich im Kalenderjahr 2020 über mehrere Gemeinden:",
+            "type": "select",
+            "values": [
+              "Keine Angabe",
+              "Ja",
+              "Nein"
+            ]
+          },
+          {
+            "row": "20",
+            "label": "Die einzige Betriebsstätte wurde im Laufe des Kalenderjahrs 2020 nicht in eine andere Gemeinde verlegt",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "20",
+            "label": "Die einzige Betriebsstätte wurde im Laufe des Kalenderjahrs 2020 in eine andere Gemeinde verlegt",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "20",
+            "label": "am (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "21",
+            "label": "Ort der einzigen Betriebsstätte (bisher)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "21",
+            "label": "Ort der einzigen Betriebsstätte (neu)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Hebenummer",
+        "rows": [
+          {
+            "row": "22",
+            "label": "Hebenummer (Steuernummer) der Gemeinde (nicht in Zerlegungsfällen)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Bei Betrieb des Unternehmens im Kalenderjahr 2020 nur als Reisegewerbe",
+        "rows": [
+          {
+            "row": "23",
+            "label": "Wohnsitzgemeinde(n), Dauer des Wohnsitzes in der / den Gemeinde(n)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Bei Betriebseröffnung beziehungsweise Betriebsbeendigung im Erhebungszeitraum bei einer Personengesellschaft oder einem Einzelunternehmen",
+        "rows": [
+          {
+            "row": "24",
+            "label": "Die werbende Tätigkeit wurde begonnen am (TT.MM.JJJJ)",
+            "type": "date",
+            "values": []
+          },
+          {
+            "row": "25",
+            "label": "Die werbende Tätigkeit wurde 2020 beendet am (TT.MM)",
+            "type": "date",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Organträger",
+        "rows": [
+          {
+            "row": "30",
+            "label": "Das Unternehmen ist Organträger.",
+            "type": "checkbox",
+            "values": []
+          }
+        ],
+        "sections": []
+      },
+      {
+        "section_label": "Organgesellschaft",
+        "rows": [
+          {
+            "row": "31",
+            "label": "Das Unternehmen ist Organgesellschaft.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "31",
+            "label": "Name des Organträgers",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "31",
+            "label": "zuständiges Finanzamt",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": [
+          {
+            "section_label": "Steuernummer des Organträgers",
+            "rows": [],
+            "sections": []
+          }
+        ]
+      },
+      {
+        "section_label": "Ergänzende Angaben zur Steuererklärung",
+        "rows": [
+          {
+            "row": null,
+            "label": "Wenn über die Angaben in der Steuererklärung hinaus weitere oder abweichende Angaben oder Sachverhalte berücksichtigt werden sollen, kreuzen Sie bitte dieses Feld an. Gleiches gilt, wenn bei den in der Steuererklärung erfassten Angaben bewusst eine von der Verwaltungsauffassung abweichende Rechtsauffassung zugrunde gelegt wurde. Falls Sie mit Abgabe der Steuererklärung lediglich Belege und Aufstellungen einreichen, ist keine Eintragung vorzunehmen.",
+            "type": "note",
+            "values": []
+          },
+          {
+            "row": "32",
+            "label": "Über die Angaben in der Steuererklärung hinaus sind weitere oder abweichende Angaben oder Sachverhalte zu berücksichtigen.",
+            "type": "checkbox",
+            "values": []
+          },
+          {
+            "row": "32",
+            "label": "Ergänzende Angaben zur Steuererklärung",
+            "type": "",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

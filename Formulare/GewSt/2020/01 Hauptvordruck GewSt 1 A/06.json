@@ -1,0 +1,25 @@
+[
+  {
+    "context_label": "Einzelaufstellung Verlustanteile",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "56",
+            "label": "Bezeichnung",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "56",
+            "label": "Betrag (Euro)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "context_label": "Verlustausgleichsbeschränkung als atypisch stiller Gesellschafter",
+    "sections": [
+      {
+        "section_label": null,
+        "rows": [
+          {
+            "row": "53",
+            "label": "Name der Körperschaft, an der die atypisch stille Beteiligung besteht",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "55",
+            "label": "Nicht ausgleichsfähiger laufender Verlust (Euro, Cent)",
+            "type": "text",
+            "values": []
+          },
+          {
+            "row": "56",
+            "label": "Verlustverrechnung (Euro, Cent)",
+            "type": "text",
+            "values": []
+          }
+        ],
+        "sections": []
+      }
+    ]
+  }
+]
