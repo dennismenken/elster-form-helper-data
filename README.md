@@ -147,5 +147,3 @@ sind willkommen, solange keine Rechte Dritter verletzt werden.
 ## Kontakt
 
 Fragen oder Hinweise bitte per Issue im Repository einreichen.
-
-```
